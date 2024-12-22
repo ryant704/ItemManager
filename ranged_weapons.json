@@ -1,0 +1,3082 @@
+[
+  {
+    "name": "Shortbow",
+    "id": 841,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "arrow",
+    "ranged_type": "bow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 8,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 50,
+    "running_cost": {
+      "item_name": "Bronze arrows",
+      "item_id": 882,
+      "cost_per_item": 1,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 1
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Snapshot",
+      "description": "Fires two quick shots with increased accuracy.",
+      "energy_cost": 100,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "arrow": {
+          "base_power": 5,
+          "effective_power": 5,
+          "efficiency": 0.0833
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Starting ranged weapon, can be purchased from various shops.",
+    "members": false,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 4,
+      "accurate": 4,
+      "longrange": 6
+    }
+  },
+  {
+    "name": "Oak Shortbow",
+    "id": 843,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "arrow",
+    "ranged_type": "bow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 14,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 100,
+    "running_cost": {
+      "item_name": "Bronze arrows",
+      "item_id": 882,
+      "cost_per_item": 1,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 5
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Snapshot",
+      "description": "Fires two quick shots with increased accuracy.",
+      "energy_cost": 100,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "arrow": {
+          "base_power": 10,
+          "effective_power": 10,
+          "efficiency": 0.0625
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": false,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 4,
+      "accurate": 4,
+      "longrange": 6
+    }
+  },
+  {
+    "name": "Willow Shortbow",
+    "id": 845,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "arrow",
+    "ranged_type": "bow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 20,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 200,
+    "running_cost": {
+      "item_name": "Bronze arrows",
+      "item_id": 882,
+      "cost_per_item": 1,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 20
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Snapshot",
+      "description": "Fires two quick shots with increased accuracy.",
+      "energy_cost": 100,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "arrow": {
+          "base_power": 15,
+          "effective_power": 15,
+          "efficiency": 0.0535
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 4,
+      "accurate": 4,
+      "longrange": 6
+    }
+  },
+  {
+    "name": "Maple Shortbow",
+    "id": 849,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "arrow",
+    "ranged_type": "bow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 29,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 400,
+    "running_cost": {
+      "item_name": "Iron arrows",
+      "item_id": 884,
+      "cost_per_item": 3,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 30
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Snapshot",
+      "description": "Fires two quick shots with increased accuracy.",
+      "energy_cost": 100,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "arrow": {
+          "base_power": 20,
+          "effective_power": 20,
+          "efficiency": 0.0333
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 4,
+      "accurate": 4,
+      "longrange": 6
+    }
+  },
+  {
+    "name": "Yew Shortbow",
+    "id": 853,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "arrow",
+    "ranged_type": "bow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 37,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1500,
+    "running_cost": {
+      "item_name": "Steel arrows",
+      "item_id": 886,
+      "cost_per_item": 10,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 40
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Snapshot",
+      "description": "Fires two quick shots with increased accuracy.",
+      "energy_cost": 55,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "arrow": {
+          "base_power": 25,
+          "effective_power": 25,
+          "efficiency": 0.0156
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 4,
+      "accurate": 4,
+      "longrange": 6
+    }
+  },
+  {
+    "name": "Magic Shortbow",
+    "id": 861,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "arrow",
+    "ranged_type": "bow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 69,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 3,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 5000,
+    "running_cost": {
+      "item_name": "Mithril arrows",
+      "item_id": 888,
+      "cost_per_item": 24,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 50
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Snapshot",
+      "description": "Fires two quick shots with increased accuracy.",
+      "energy_cost": 55,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 2,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "arrow": {
+          "base_power": 40,
+          "effective_power": 40,
+          "efficiency": 0.0053
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops or dropped by monsters.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 3,
+      "accurate": 3,
+      "longrange": 5
+    }
+  },
+  {
+    "name": "Dorgeshuun Crossbow",
+    "id": 8880,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "bolt",
+    "ranged_type": "crossbow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 36,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 50,
+    "running_cost": {
+      "item_name": "Bone bolts",
+      "item_id": 8882,
+      "cost_per_item": 6,
+      "usage_rate": 1,
+      "ge_buy_limit": 13000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 28
+      },
+      "quests": [
+        "The Lost Tribe"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "bolt": {
+          "base_power": 15,
+          "effective_power": 15,
+          "efficiency": 0.15625
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can only be equipped after completion of the quest The Lost Tribe",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 4,
+      "accurate": 4,
+      "longrange": 7
+    }
+  },
+  {
+    "name": "Bronze Crossbow",
+    "id": 9174,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "bolt",
+    "ranged_type": "crossbow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 26,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 6,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 50,
+    "running_cost": {
+      "item_name": "Bronze bolts",
+      "item_id": 877,
+      "cost_per_item": 2,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 1
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "bolt": {
+          "base_power": 10,
+          "effective_power": 10,
+          "efficiency": 0.1176
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": false,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 6,
+      "accurate": 6,
+      "longrange": 9
+    }
+  },
+  {
+    "name": "Iron Crossbow",
+    "id": 9177,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "bolt",
+    "ranged_type": "crossbow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 36,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 6,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 150,
+    "running_cost": {
+      "item_name": "Iron bolts",
+      "item_id": 9140,
+      "cost_per_item": 5,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 26
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "bolt": {
+          "base_power": 15,
+          "effective_power": 15,
+          "efficiency": 0.0681
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 6,
+      "accurate": 6,
+      "longrange": 9
+    }
+  },
+  {
+    "name": "Steel Crossbow",
+    "id": 9179,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "bolt",
+    "ranged_type": "crossbow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 46,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 6,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 500,
+    "running_cost": {
+      "item_name": "Steel bolts",
+      "item_id": 9141,
+      "cost_per_item": 14,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 31
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "bolt": {
+          "base_power": 25,
+          "effective_power": 25,
+          "efficiency": 0.0352
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 6,
+      "accurate": 6,
+      "longrange": 9
+    }
+  },
+  {
+    "name": "Mithril Crossbow",
+    "id": 9181,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "bolt",
+    "ranged_type": "crossbow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 58,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 6,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1500,
+    "running_cost": {
+      "item_name": "Mithril bolts",
+      "item_id": 9142,
+      "cost_per_item": 32,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 36
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "bolt": {
+          "base_power": 35,
+          "effective_power": 35,
+          "efficiency": 0.0169
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 6,
+      "accurate": 6,
+      "longrange": 9
+    }
+  },
+  {
+    "name": "Adamant Crossbow",
+    "id": 9183,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "bolt",
+    "ranged_type": "crossbow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 66,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 6,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 3500,
+    "running_cost": {
+      "item_name": "Adamant bolts",
+      "item_id": 9143,
+      "cost_per_item": 78,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 46
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "bolt": {
+          "base_power": 45,
+          "effective_power": 45,
+          "efficiency": 0.0086
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 6,
+      "accurate": 6,
+      "longrange": 9
+    }
+  },
+  {
+    "name": "Rune Crossbow",
+    "id": 9185,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "bolt",
+    "ranged_type": "crossbow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 90,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 6,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 9000,
+    "running_cost": {
+      "item_name": "Rune bolts",
+      "item_id": 9144,
+      "cost_per_item": 180,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 61
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "bolt": {
+          "base_power": 60,
+          "effective_power": 60,
+          "efficiency": 0.0037
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 6,
+      "accurate": 6,
+      "longrange": 9
+    }
+  },
+  {
+    "name": "Bronze Darts",
+    "id": 806,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "dart",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 3,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 3,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1,
+    "running_cost": {
+      "item_name": "Bronze darts",
+      "item_id": 806,
+      "cost_per_item": 1,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 1
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "dart": {
+          "base_power": 2,
+          "effective_power": 2,
+          "efficiency": 1
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": false,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 2,
+      "medium": 3,
+      "long": 6
+    }
+  },
+  {
+    "name": "Iron Darts",
+    "id": 807,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "dart",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 4,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 3,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 3,
+    "running_cost": {
+      "item_name": "Iron darts",
+      "item_id": 807,
+      "cost_per_item": 3,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 1
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "dart": {
+          "base_power": 3,
+          "effective_power": 3,
+          "efficiency": 0.0476
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": false,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 2,
+      "medium": 3,
+      "long": 6
+    }
+  },
+  {
+    "name": "Steel Darts",
+    "id": 808,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "dart",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 7,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 3,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 9,
+    "running_cost": {
+      "item_name": "Steel darts",
+      "item_id": 808,
+      "cost_per_item": 9,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 5
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "dart": {
+          "base_power": 5,
+          "effective_power": 5,
+          "efficiency": 0.0086
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": false,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 2,
+      "medium": 3,
+      "long": 6
+    }
+  },
+  {
+    "name": "Mithril Darts",
+    "id": 809,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "dart",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 10,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 3,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 26,
+    "running_cost": {
+      "item_name": "Mithril darts",
+      "item_id": 809,
+      "cost_per_item": 26,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 20
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "dart": {
+          "base_power": 8,
+          "effective_power": 8,
+          "efficiency": 0.0043
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 2,
+      "medium": 3,
+      "long": 6
+    }
+  },
+  {
+    "name": "Adamant Darts",
+    "id": 810,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "dart",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 15,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 3,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 65,
+    "running_cost": {
+      "item_name": "Adamant darts",
+      "item_id": 810,
+      "cost_per_item": 65,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 30
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "dart": {
+          "base_power": 12,
+          "effective_power": 12,
+          "efficiency": 0.0026
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 2,
+      "medium": 3,
+      "long": 6
+    }
+  },
+  {
+    "name": "Rune Darts",
+    "id": 811,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "dart",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 22,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 3,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 300,
+    "running_cost": {
+      "item_name": "Rune darts",
+      "item_id": 811,
+      "cost_per_item": 300,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 40
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "dart": {
+          "base_power": 18,
+          "effective_power": 18,
+          "efficiency": 0.00083
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 2,
+      "medium": 3,
+      "long": 6
+    }
+  },
+  {
+    "name": "Toxic Blowpipe",
+    "id": 12926,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "dart",
+    "ranged_type": "blowpipe",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 60,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 40
+    },
+    "attack_speed": 2,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": true,
+      "items": [
+        {
+          "item_name": "Zulrah's scales",
+          "item_id": 12934,
+          "quantity": 1,
+          "cost_per_item": 150,
+          "max_charges": 20000
+        },
+        {
+          "item_name": "Mithril Darts",
+          "item_id": 809,
+          "quantity": 1,
+          "cost_per_item": 26,
+          "max_charges": 16383
+        }
+      ]
+    },
+    "initial_cost": 3000000,
+    "running_cost": {
+      "item_name": "Mithril Darts",
+      "item_id": 809,
+      "cost_per_item": 26,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 75
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Toxic Siphon",
+      "description": "Heals the player based on damage dealt and has a 50% chance to inflict venom on the target.",
+      "energy_cost": 50,
+      "effect_multiplier": 1.5,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": true
+    },
+    "power_calc": {
+      "ranged": {
+        "dart": {
+          "base_power": 100,
+          "effective_power": 150,
+          "efficiency": 4.9e-05
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Requires Zulrah's scales to charge. Uses darts as ammo.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": -1,
+      "accurate": -1,
+      "longrange": 0
+    }
+  },
+  {
+    "name": "Bronze Throwing Knife",
+    "id": 864,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "knife",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 7,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 3,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1,
+    "running_cost": {
+      "item_name": "Bronze Throwing Knife",
+      "item_id": 864,
+      "cost_per_item": 1,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 1
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "knife": {
+          "base_power": 4,
+          "effective_power": 4,
+          "efficiency": 0.0625
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": false,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 2,
+      "medium": 3,
+      "long": 6
+    }
+  },
+  {
+    "name": "Iron Throwing Knife",
+    "id": 863,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "knife",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 11,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 3,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 6,
+    "running_cost": {
+      "item_name": "Iron Throwing Knife",
+      "item_id": 863,
+      "cost_per_item": 6,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 1
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "knife": {
+          "base_power": 6,
+          "effective_power": 6,
+          "efficiency": 0.0147
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": false,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 2,
+      "medium": 3,
+      "long": 6
+    }
+  },
+  {
+    "name": "Steel Throwing Knife",
+    "id": 865,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "knife",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 17,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 3,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 18,
+    "running_cost": {
+      "item_name": "Steel Throwing Knife",
+      "item_id": 865,
+      "cost_per_item": 18,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 5
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "knife": {
+          "base_power": 9,
+          "effective_power": 9,
+          "efficiency": 0.0075
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": false,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 2,
+      "medium": 3,
+      "long": 6
+    }
+  },
+  {
+    "name": "Mithril Throwing Knife",
+    "id": 866,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "knife",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 23,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 3,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 55,
+    "running_cost": {
+      "item_name": "Mithril Throwing Knife",
+      "item_id": 866,
+      "cost_per_item": 55,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 20
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "knife": {
+          "base_power": 14,
+          "effective_power": 14,
+          "efficiency": 0.0034
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 2,
+      "medium": 3,
+      "long": 6
+    }
+  },
+  {
+    "name": "Adamant Throwing Knife",
+    "id": 867,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "knife",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 29,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 3,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 160,
+    "running_cost": {
+      "item_name": "Adamant Throwing Knife",
+      "item_id": 867,
+      "cost_per_item": 160,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 30
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "knife": {
+          "base_power": 18,
+          "effective_power": 18,
+          "efficiency": 0.0016
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 2,
+      "medium": 3,
+      "long": 6
+    }
+  },
+  {
+    "name": "Rune Throwing Knife",
+    "id": 868,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "knife",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 47,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 3,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 870,
+    "running_cost": {
+      "item_name": "Rune Throwing Knife",
+      "item_id": 868,
+      "cost_per_item": 870,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 40
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "knife": {
+          "base_power": 35,
+          "effective_power": 35,
+          "efficiency": 0.00058
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 2,
+      "medium": 3,
+      "long": 6
+    }
+  },
+  {
+    "name": "Dragon Dart",
+    "id": 11230,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "dart",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 35,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 3,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1400,
+    "running_cost": {
+      "item_name": "Dragon darts",
+      "item_id": 11230,
+      "cost_per_item": 1400,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 60
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "dart": {
+          "base_power": 28,
+          "effective_power": 28,
+          "efficiency": 0.0002
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 2,
+      "medium": 3,
+      "long": 6
+    }
+  },
+  {
+    "name": "Karil's Crossbow",
+    "id": 4734,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "bolt",
+    "ranged_type": "crossbow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 100,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 120000,
+    "running_cost": {
+      "item_name": "Bolt rack",
+      "item_id": 4740,
+      "cost_per_item": 70,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 70
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": [
+        "Barrows"
+      ]
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack, but has a chance to lower the target's Agility level.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "bolt": {
+          "base_power": 70,
+          "effective_power": 70,
+          "efficiency": 0.00055
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Degradable, requires repair. Obtained from Barrows.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 4,
+      "accurate": 4,
+      "longrange": 7
+    }
+  },
+  {
+    "name": "Armadyl Crossbow",
+    "id": 11785,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "bolt",
+    "ranged_type": "crossbow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 130,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 1,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 6,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 14000000,
+    "running_cost": {
+      "item_name": "Dragon bolts",
+      "item_id": 11212,
+      "cost_per_item": 600,
+      "usage_rate": 1,
+      "ge_buy_limit": 11000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 70
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Armadyl Eye",
+      "description": "Consumes 50% special attack energy. Increases accuracy by 100% and deals extra damage.",
+      "energy_cost": 50,
+      "effect_multiplier": 1.1,
+      "accuracy_multiplier": 2,
+      "affects_power_calc": true
+    },
+    "power_calc": {
+      "ranged": {
+        "bolt": {
+          "base_power": 90,
+          "effective_power": 99,
+          "efficiency": 7e-06
+        }
+      }
+    },
+    "usage_notes": {
+      "general": false,
+      "special_attack": true
+    },
+    "notes": "Dropped by Kree'arra in the God Wars Dungeon.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 6,
+      "accurate": 6,
+      "longrange": 9
+    }
+  },
+  {
+    "name": "Zaryte Crossbow",
+    "id": 26366,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "bolt",
+    "ranged_type": "crossbow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 135,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 6,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 110000000,
+    "running_cost": {
+      "item_name": "Dragon bolts (e)",
+      "item_id": 21931,
+      "cost_per_item": 600,
+      "usage_rate": 1,
+      "ge_buy_limit": 11000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 80
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": [
+        "Nihil"
+      ]
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack, Has a passive effect which gives a 20% chance to heal you by 25% of the damage dealt.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "bolt": {
+          "base_power": 100,
+          "effective_power": 100,
+          "efficiency": 1e-06
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Dropped by Nihil. Requires Dragon bolts (e) to use.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 6,
+      "accurate": 6,
+      "longrange": 9
+    }
+  },
+  {
+    "name": "Dragon Crossbow",
+    "id": 21902,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "bolt",
+    "ranged_type": "crossbow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 94,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 6,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 5000000,
+    "running_cost": {
+      "item_name": "Dragon bolts",
+      "item_id": 11212,
+      "cost_per_item": 600,
+      "usage_rate": 1,
+      "ge_buy_limit": 11000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 64
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "bolt": {
+          "base_power": 75,
+          "effective_power": 75,
+          "efficiency": 1.38e-05
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 6,
+      "accurate": 6,
+      "longrange": 9
+    }
+  },
+  {
+    "name": "Ballista",
+    "id": 19478,
+    "slot": "2h",
+    "style": "ranged",
+    "attack_style": "javelin",
+    "ranged_type": "ballista",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 150,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 6,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 7000000,
+    "running_cost": {
+      "item_name": "Light ballista",
+      "item_id": 19478,
+      "cost_per_item": 10,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 65
+      },
+      "quests": [
+        "Monkey Madness II"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "javelin": {
+          "base_power": 130,
+          "effective_power": 130,
+          "efficiency": 1.85e-05
+        }
+      }
+    },
+    "usage_notes": {
+      "general": false,
+      "special_attack": true
+    },
+    "notes": "Dropped by demonic gorillas.",
+    "members": true,
+    "handed": "two-handed",
+    "attack_range": {
+      "accurate": 6,
+      "rapid": 6,
+      "longrange": 9
+    }
+  },
+  {
+    "name": "Dark Bow",
+    "id": 11235,
+    "slot": "2h",
+    "style": "ranged",
+    "attack_style": "arrow",
+    "ranged_type": "bow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 95,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 9,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1500000,
+    "running_cost": {
+      "item_name": "Dragon arrows",
+      "item_id": 11212,
+      "cost_per_item": 900,
+      "usage_rate": 2,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 60
+      },
+      "quests": [
+        "Mourning's Ends Part II"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Descent of Dragons",
+      "description": "Fires two arrows. Each arrow will deal a minimum of 8 damage or 5 damage with dragon arrows.",
+      "energy_cost": 55,
+      "effect_multiplier": 1.5,
+      "accuracy_multiplier": 1.5,
+      "affects_power_calc": true
+    },
+    "power_calc": {
+      "ranged": {
+        "arrow": {
+          "base_power": 50,
+          "effective_power": 75,
+          "efficiency": 4.68e-05
+        }
+      }
+    },
+    "usage_notes": {
+      "general": false,
+      "special_attack": true
+    },
+    "notes": "Dropped by dark beasts.",
+    "members": true,
+    "handed": "two-handed",
+    "attack_range": {
+      "rapid": 6,
+      "accurate": 6,
+      "longrange": 8
+    }
+  },
+  {
+    "name": "Heavy Ballista",
+    "id": 19481,
+    "slot": "2h",
+    "style": "ranged",
+    "attack_style": "javelin",
+    "ranged_type": "ballista",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 165,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 6,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 13000000,
+    "running_cost": {
+      "item_name": "Javelin",
+      "item_id": 19484,
+      "cost_per_item": 10,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 75
+      },
+      "quests": [
+        "Monkey Madness II"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "javelin": {
+          "base_power": 145,
+          "effective_power": 145,
+          "efficiency": 1e-05
+        }
+      }
+    },
+    "usage_notes": {
+      "general": false,
+      "special_attack": true
+    },
+    "notes": "Dropped by demonic gorillas.",
+    "members": true,
+    "handed": "two-handed",
+    "attack_range": {
+      "accurate": 6,
+      "rapid": 6,
+      "longrange": 9
+    }
+  },
+  {
+    "name": "Red Chinchompa",
+    "id": 10034,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "chinchompa",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 65,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 750,
+    "running_cost": {
+      "item_name": "Red Chinchompa",
+      "item_id": 10034,
+      "cost_per_item": 750,
+      "usage_rate": 1,
+      "ge_buy_limit": 11000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 55
+      },
+      "quests": [
+        "Eagles' Peak"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack. Attacks all enemies in a 3x3 area.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "chinchompa": {
+          "base_power": 65,
+          "effective_power": 65,
+          "efficiency": 0.00115
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Explodes on impact, hitting multiple targets. Can be caught in the Feldip Hills.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 3,
+      "medium": 4,
+      "long": 7
+    }
+  },
+  {
+    "name": "Black Chinchompa",
+    "id": 11959,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "chinchompa",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 85,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 2500,
+    "running_cost": {
+      "item_name": "Black Chinchompa",
+      "item_id": 11959,
+      "cost_per_item": 2500,
+      "usage_rate": 1,
+      "ge_buy_limit": 11000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 65
+      },
+      "quests": [
+        "Eagles' Peak"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack. Attacks all enemies in a 3x3 area.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "chinchompa": {
+          "base_power": 85,
+          "effective_power": 85,
+          "efficiency": 0.00048
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Explodes on impact, hitting multiple targets. Can be caught in the Wilderness.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 3,
+      "medium": 4,
+      "long": 7
+    }
+  },
+  {
+    "name": "Chinchompa",
+    "id": 10033,
+    "slot": "main-hand",
+    "style": "ranged",
+    "attack_style": "chinchompa",
+    "ranged_type": "thrown",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 45,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 150,
+    "running_cost": {
+      "item_name": "Chinchompa",
+      "item_id": 10033,
+      "cost_per_item": 150,
+      "usage_rate": 1,
+      "ge_buy_limit": 11000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 45
+      },
+      "quests": [
+        "Eagles' Peak"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack. Attacks all enemies in a 3x3 area.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "chinchompa": {
+          "base_power": 45,
+          "effective_power": 45,
+          "efficiency": 0.0066
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Explodes on impact, hitting multiple targets. Can be caught in the Feldip Hills.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "short": 3,
+      "medium": 4,
+      "long": 7
+    }
+  },
+  {
+    "name": "Bolt rack",
+    "id": 4740,
+    "slot": "ammo",
+    "style": "ranged",
+    "attack_style": "bolt",
+    "ranged_type": "crossbow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 55,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 70,
+    "running_cost": {
+      "item_name": "Bolt rack",
+      "item_id": 4740,
+      "cost_per_item": 70,
+      "usage_rate": 1,
+      "ge_buy_limit": 7000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 70
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": [
+        "Barrows"
+      ]
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "bolt": {
+          "base_power": 50,
+          "effective_power": 50,
+          "efficiency": 0.01
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Ammo for Karil's Crossbow. Obtained from Barrows.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 4,
+      "accurate": 4,
+      "longrange": 7
+    }
+  },
+  {
+    "name": "Bone bolts",
+    "id": 8882,
+    "slot": "ammo",
+    "style": "ranged",
+    "attack_style": "bolt",
+    "ranged_type": "crossbow",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 49,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 5,
+    "running_cost": {
+      "item_name": "Bone bolts",
+      "item_id": 8882,
+      "cost_per_item": 5,
+      "usage_rate": 1,
+      "ge_buy_limit": 13000
+    },
+    "equip_requirements": {
+      "skills": {
+        "ranged": 28
+      },
+      "quests": [
+        "The Lost Tribe"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No Special Attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "ranged": {
+        "bolt": {
+          "base_power": 40,
+          "effective_power": 40,
+          "efficiency": 0.666
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Ammo for Dorgeshuun Crossbow. Can only be equipped after completion of the quest The Lost Tribe.",
+    "members": true,
+    "handed": "one-handed",
+    "attack_range": {
+      "rapid": 4,
+      "accurate": 4,
+      "longrange": 7
+    }
+  }
+]

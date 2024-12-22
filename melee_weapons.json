@@ -1,0 +1,1306 @@
+[
+  {
+    "name": "Bronze Scimitar",
+    "id": 1321,
+    "slot": "main-hand",
+    "style": "melee",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": 2,
+      "attack_slash": 7,
+      "attack_crush": -2,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 1,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 6,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 1
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Slash",
+      "description": "Increases the damage and accuracy of the next slash attack.",
+      "energy_cost": 100,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Starting weapon, can be purchased from various shops.",
+    "members": false,
+    "handed": "one-handed"
+  },
+  {
+    "name": "Iron Scimitar",
+    "id": 1323,
+    "slot": "main-hand",
+    "style": "melee",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": 3,
+      "attack_slash": 9,
+      "attack_crush": -2,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 1,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 8,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 1
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Slash",
+      "description": "Increases the damage and accuracy of the next slash attack.",
+      "energy_cost": 100,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": false,
+    "handed": "one-handed"
+  },
+  {
+    "name": "Steel Scimitar",
+    "id": 1325,
+    "slot": "main-hand",
+    "style": "melee",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": 4,
+      "attack_slash": 13,
+      "attack_crush": -2,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 1,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 12,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 5
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Slash",
+      "description": "Increases the damage and accuracy of the next slash attack.",
+      "energy_cost": 100,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": false,
+    "handed": "one-handed"
+  },
+  {
+    "name": "Black Scimitar",
+    "id": 1327,
+    "slot": "main-hand",
+    "style": "melee",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": 5,
+      "attack_slash": 15,
+      "attack_crush": -2,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 1,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 13,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 10
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Slash",
+      "description": "Increases the damage and accuracy of the next slash attack.",
+      "energy_cost": 100,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed"
+  },
+  {
+    "name": "Mithril Scimitar",
+    "id": 1329,
+    "slot": "main-hand",
+    "style": "melee",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": 6,
+      "attack_slash": 21,
+      "attack_crush": -2,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 1,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 19,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 20
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Slash",
+      "description": "Increases the damage and accuracy of the next slash attack.",
+      "energy_cost": 100,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed"
+  },
+  {
+    "name": "Adamant Scimitar",
+    "id": 1331,
+    "slot": "main-hand",
+    "style": "melee",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": 9,
+      "attack_slash": 29,
+      "attack_crush": -2,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 1,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 28,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 30
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Slash",
+      "description": "Increases the damage and accuracy of the next slash attack.",
+      "energy_cost": 100,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed"
+  },
+  {
+    "name": "Rune Scimitar",
+    "id": 1333,
+    "slot": "main-hand",
+    "style": "melee",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": 13,
+      "attack_slash": 45,
+      "attack_crush": -2,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 1,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 44,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 40
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Slash",
+      "description": "Increases the damage and accuracy of the next slash attack.",
+      "energy_cost": 100,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from various shops.",
+    "members": true,
+    "handed": "one-handed"
+  },
+  {
+    "name": "Brine Sabre",
+    "id": 11037,
+    "slot": "main-hand",
+    "style": "melee",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": 13,
+      "attack_slash": 45,
+      "attack_crush": -2,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 44,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 40
+      },
+      "quests": [
+        "Olafs_Quest"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Slash",
+      "description": "Increases the damage and accuracy of the next slash attack.",
+      "energy_cost": 100,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Obtained from completing Olafs Quest, same stats as Rune Scimitar",
+    "members": true,
+    "handed": "one-handed"
+  },
+  {
+    "name": "Dragon Scimitar",
+    "id": 4587,
+    "slot": "main-hand",
+    "style": "melee",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": 7,
+      "attack_slash": 67,
+      "attack_crush": -2,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 1,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 66,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 60
+      },
+      "quests": [
+        "Monkey Madness I",
+        "Lost City"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Sever",
+      "description": "A single, powerful slash that temporarily reduces the opponent's Defence.",
+      "energy_cost": 55,
+      "effect_multiplier": 1.25,
+      "accuracy_multiplier": 1.5,
+      "affects_power_calc": true
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Obtained from completing Monkey Madness I.",
+    "members": true,
+    "handed": "one-handed"
+  },
+  {
+    "name": "Dragon Dagger",
+    "id": 1215,
+    "slot": "main-hand",
+    "style": "melee",
+    "attack_style": "stab",
+    "stats": {
+      "attack_stab": 40,
+      "attack_slash": 25,
+      "attack_crush": -4,
+      "attack_magic": 1,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 40,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 60
+      },
+      "quests": [
+        "Lost City"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Puncture",
+      "description": "Performs two quick stabs that hit with increased accuracy and damage.",
+      "energy_cost": 25,
+      "effect_multiplier": 1.15,
+      "accuracy_multiplier": 1.5,
+      "affects_power_calc": true
+    },
+    "usage_notes": {
+      "general": false,
+      "special_attack": true
+    },
+    "notes": "Obtained from completing Lost City, commonly used for it's special attack in both pvm and pvp",
+    "members": true,
+    "handed": "one-handed"
+  },
+  {
+    "name": "Abyssal Whip",
+    "id": 4151,
+    "slot": "main-hand",
+    "style": "melee",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 82,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 82,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 70
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "skills": {
+        "slayer": 85
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Energy Drain",
+      "description": "Drains the target's run energy. Restores the user's run energy by the same amount.",
+      "energy_cost": 50,
+      "effect_multiplier": 1.25,
+      "accuracy_multiplier": 1.1,
+      "affects_power_calc": true
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Dropped by abyssal demons.",
+    "members": true,
+    "handed": "one-handed"
+  },
+  {
+    "name": "Abyssal Tentacle",
+    "id": 12006,
+    "slot": "main-hand",
+    "style": "melee",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 90,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 86,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 75
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "skills": {
+        "slayer": 87
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Binding Tentacle",
+      "description": "Binds the target for 5 seconds and deals additional damage",
+      "energy_cost": 50,
+      "effect_multiplier": 1.25,
+      "accuracy_multiplier": 1.2,
+      "affects_power_calc": true
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Created by combining an abyssal whip and a kraken tentacle, degrades after 10,000 hits.",
+    "members": true,
+    "handed": "one-handed"
+  },
+  {
+    "name": "Abyssal Dagger",
+    "id": 13265,
+    "slot": "main-hand",
+    "style": "melee",
+    "attack_style": "stab",
+    "stats": {
+      "attack_stab": 75,
+      "attack_slash": 40,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 75,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 70
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "skills": {
+        "slayer": 85
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Abyssal Puncture",
+      "description": "Performs two quick stabs that hit with increased accuracy and damage.",
+      "energy_cost": 50,
+      "effect_multiplier": 1.25,
+      "accuracy_multiplier": 1.5,
+      "affects_power_calc": true
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": true
+    },
+    "notes": "Dropped by abyssal demons.",
+    "members": true,
+    "handed": "one-handed"
+  },
+  {
+    "name": "Osmumten's Fang",
+    "id": 26219,
+    "slot": "main-hand",
+    "style": "melee",
+    "attack_style": "stab",
+    "stats": {
+      "attack_stab": 105,
+      "attack_slash": 85,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 95,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 5,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 82
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": [
+        "Tombs of Amascut"
+      ]
+    },
+    "special_attack": {
+      "name": "Unload",
+      "description": "Increases the weapons minimum hit by 50% for the next 4 attacks. Also increases the accuracy",
+      "energy_cost": 50,
+      "effect_multiplier": 1.5,
+      "accuracy_multiplier": 2,
+      "affects_power_calc": true
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Obtained from Tombs of Amascut",
+    "members": true,
+    "handed": "one-handed"
+  },
+  {
+    "name": "Dragon 2h sword",
+    "id": 7158,
+    "slot": "2h",
+    "style": "melee",
+    "members": true,
+    "handed": "two-handed",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": 71,
+      "attack_slash": 95,
+      "attack_crush": 50,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 93,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 7,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 60
+      },
+      "quests": [
+        "Lost City"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "One-Handed Slash",
+      "description": "Slashes the opponent with the weapon, removing the ability to use protect item.",
+      "energy_cost": 100,
+      "effect_multiplier": 1.25,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": true
+    },
+    "usage_notes": {
+      "general": false,
+      "special_attack": true
+    },
+    "notes": "Has a special attack that can be used by two handing it, making it un-wieldable with shields or defenders. The special attack removes the ability for the target to use protect item."
+  },
+  {
+    "name": "Dragon longsword",
+    "id": 1305,
+    "slot": "main-hand",
+    "style": "melee",
+    "members": true,
+    "handed": "one-handed",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": 38,
+      "attack_slash": 69,
+      "attack_crush": -2,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 3,
+      "defence_crush": 2,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 55,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 60
+      },
+      "quests": [
+        "Lost City"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Cleave",
+      "description": "A single powerful slash dealing extra damage.",
+      "energy_cost": 25,
+      "effect_multiplier": 1.25,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": true
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Obtained from completing Lost City."
+  },
+  {
+    "name": "Dragon battleaxe",
+    "id": 1377,
+    "slot": "2h",
+    "style": "melee",
+    "members": true,
+    "handed": "two-handed",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": -2,
+      "attack_slash": 70,
+      "attack_crush": 50,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 85,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 6,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 60
+      },
+      "quests": [
+        "Heroes Quest"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Rampage",
+      "description": "Lowers the users attack and defence but increases strength.",
+      "energy_cost": 100,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "A powerful two-handed weapon with a special attack that boosts strength. Requires completion of Heroes Quest to wield."
+  },
+  {
+    "name": "Dragon mace",
+    "id": 1434,
+    "slot": "main-hand",
+    "style": "melee",
+    "members": true,
+    "handed": "one-handed",
+    "attack_style": "crush",
+    "stats": {
+      "attack_stab": 25,
+      "attack_slash": -4,
+      "attack_crush": 55,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 56,
+      "prayer": 1,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 60
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Shatter",
+      "description": "Deals extra damage and increases accuracy",
+      "energy_cost": 50,
+      "effect_multiplier": 1.5,
+      "accuracy_multiplier": 1.25,
+      "affects_power_calc": true
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": true
+    },
+    "notes": "A slower one-handed weapon that has a prayer bonus and a special attack that deals extra damage."
+  },
+  {
+    "name": "Dragon warhammer",
+    "id": 13576,
+    "slot": "2h",
+    "style": "melee",
+    "members": true,
+    "handed": "two-handed",
+    "attack_style": "crush",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 95,
+      "attack_magic": -4,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 75,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 6,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 60
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Smash",
+      "description": "Consumes 50% special attack energy, Deals 50% more damage and lowers the targets defence by 30%",
+      "energy_cost": 50,
+      "effect_multiplier": 1.5,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": true
+    },
+    "usage_notes": {
+      "general": false,
+      "special_attack": true
+    },
+    "notes": "A slow, two-handed weapon with high crush attack and strength bonus. The special attack is particularly useful against monsters with high defence."
+  },
+  {
+    "name": "Dragon claws",
+    "id": 13652,
+    "slot": "main-hand",
+    "style": "melee",
+    "members": true,
+    "handed": "one-handed",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": 54,
+      "attack_slash": 66,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 58,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 60
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Slice and Dice",
+      "description": "Performs four attacks instead of one, with the second, third, and fourth hits having doubled, tripled, and quadrupled accuracy.",
+      "energy_cost": 50,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": true
+    },
+    "usage_notes": {
+      "general": false,
+      "special_attack": true
+    },
+    "notes": "Has a special attack that performs four attacks with varying accuracy bonuses. Popular weapon for PKing."
+  },
+  {
+    "name": "Dragon sword",
+    "id": 1305,
+    "slot": "main-hand",
+    "style": "melee",
+    "members": true,
+    "handed": "one-handed",
+    "attack_style": "stab",
+    "stats": {
+      "attack_stab": 55,
+      "attack_slash": 45,
+      "attack_crush": -2,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 1,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 53,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 60
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Impale",
+      "description": "Performs a strong stab attack that increases accuracy by 25% and ignores protection prayers.",
+      "energy_cost": 40,
+      "effect_multiplier": 1.1,
+      "accuracy_multiplier": 1.25,
+      "affects_power_calc": true
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": true
+    },
+    "notes": "Has a special attack that deals increased damage and ignores protection prayers."
+  },
+  {
+    "name": "Dragon spear",
+    "id": 1249,
+    "slot": "2h",
+    "style": "melee",
+    "members": true,
+    "handed": "two-handed",
+    "attack_style": "stab",
+    "stats": {
+      "attack_stab": 55,
+      "attack_slash": 55,
+      "attack_crush": 55,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 3,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 55,
+      "prayer": 5,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 60
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Shove",
+      "description": "Pushes an opponent back one square",
+      "energy_cost": 25,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": true
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Has a special attack that can stun and push back opponents. Can be poisoned."
+  },
+  {
+    "name": "Abyssal dagger",
+    "id": 13265,
+    "slot": "main-hand",
+    "style": "melee",
+    "members": true,
+    "handed": "one-handed",
+    "attack_style": "stab",
+    "stats": {
+      "attack_stab": 75,
+      "attack_slash": 40,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 75,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 70
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "skills": {
+        "slayer": 85
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Abyssal Puncture",
+      "description": "Performs two quick stabs that hit with increased accuracy and damage.",
+      "energy_cost": 50,
+      "effect_multiplier": 1.25,
+      "accuracy_multiplier": 1.5,
+      "affects_power_calc": true
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": true
+    },
+    "notes": "Dropped by abyssal demons."
+  },
+  {
+    "name": "Osmumten's fang",
+    "id": 26219,
+    "slot": "main-hand",
+    "style": "melee",
+    "members": true,
+    "handed": "one-handed",
+    "attack_style": "stab",
+    "stats": {
+      "attack_stab": 105,
+      "attack_slash": 85,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 95,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 5,
+    "tradeable": true,
+    "equip_requirements": {
+      "skills": {
+        "attack": 82
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": [
+        "Tombs of Amascut"
+      ]
+    },
+    "special_attack": {
+      "name": "Unload",
+      "description": "Increases the weapons minimum hit by 50% for the next 4 attacks. Also increases the accuracy",
+      "energy_cost": 50,
+      "effect_multiplier": 1.5,
+      "accuracy_multiplier": 2,
+      "affects_power_calc": true
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Obtained from Tombs of Amascut"
+  },
+  {
+    "name": "Sulphur blades",
+    "id": 36819,
+    "slot": "main-hand",
+    "style": "melee",
+    "members": true,
+    "handed": "one-handed",
+    "attack_style": "slash",
+    "stats": {
+      "attack_stab": 30,
+      "attack_slash": 50,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 30,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": false,
+    "equip_requirements": {
+      "skills": {
+        "attack": 65
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Untradeable, requires having a weapon in your bank worth over 500,000 coins to wield. Obtained from the Unsired in the Abyssal Font."
+  }
+]

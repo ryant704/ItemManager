@@ -1,0 +1,1379 @@
+[
+  {
+    "name": "Bronze kiteshield",
+    "id": 1189,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -8,
+      "attack_ranged": -2,
+      "defence_stab": 5,
+      "defence_slash": 7,
+      "defence_crush": 6,
+      "defence_magic": -2,
+      "defence_ranged": 5,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 104,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 1
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 2,
+          "effective_power": 2,
+          "set_bonus": 0,
+          "set_power": 2,
+          "efficiency": 0.0192
+        },
+        "slash": {
+          "base_power": 2.8,
+          "effective_power": 2.8,
+          "set_bonus": 0,
+          "set_power": 2.8,
+          "efficiency": 0.0269
+        },
+        "crush": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0.0231
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 2,
+          "effective_power": 2,
+          "set_bonus": 0,
+          "set_power": 2,
+          "efficiency": 0.0192
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -0.8,
+          "effective_power": -0.8,
+          "set_bonus": 0,
+          "set_power": -0.8,
+          "efficiency": -0.0077
+        }
+      }
+    },
+    "notes": "Basic bronze kiteshield."
+  },
+  {
+    "name": "Iron kiteshield",
+    "id": 1191,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -8,
+      "attack_ranged": -2,
+      "defence_stab": 7,
+      "defence_slash": 9,
+      "defence_crush": 8,
+      "defence_magic": -2,
+      "defence_ranged": 7,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 336,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 1
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 2.8,
+          "effective_power": 2.8,
+          "set_bonus": 0,
+          "set_power": 2.8,
+          "efficiency": 0.0083
+        },
+        "slash": {
+          "base_power": 3.6,
+          "effective_power": 3.6,
+          "set_bonus": 0,
+          "set_power": 3.6,
+          "efficiency": 0.0107
+        },
+        "crush": {
+          "base_power": 3.2,
+          "effective_power": 3.2,
+          "set_bonus": 0,
+          "set_power": 3.2,
+          "efficiency": 0.0095
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 2.8,
+          "effective_power": 2.8,
+          "set_bonus": 0,
+          "set_power": 2.8,
+          "efficiency": 0.0083
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -0.8,
+          "effective_power": -0.8,
+          "set_bonus": 0,
+          "set_power": -0.8,
+          "efficiency": -0.0024
+        }
+      }
+    },
+    "notes": "Basic iron kiteshield."
+  },
+  {
+    "name": "Steel kiteshield",
+    "id": 1193,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -8,
+      "attack_ranged": -2,
+      "defence_stab": 11,
+      "defence_slash": 13,
+      "defence_crush": 12,
+      "defence_magic": -2,
+      "defence_ranged": 11,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 750,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 5
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 4.4,
+          "effective_power": 4.4,
+          "set_bonus": 0,
+          "set_power": 4.4,
+          "efficiency": 0.0059
+        },
+        "slash": {
+          "base_power": 5.2,
+          "effective_power": 5.2,
+          "set_bonus": 0,
+          "set_power": 5.2,
+          "efficiency": 0.0069
+        },
+        "crush": {
+          "base_power": 4.8,
+          "effective_power": 4.8,
+          "set_bonus": 0,
+          "set_power": 4.8,
+          "efficiency": 0.0064
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 4.4,
+          "effective_power": 4.4,
+          "set_bonus": 0,
+          "set_power": 4.4,
+          "efficiency": 0.0059
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -0.8,
+          "effective_power": -0.8,
+          "set_bonus": 0,
+          "set_power": -0.8,
+          "efficiency": -0.0011
+        }
+      }
+    },
+    "notes": "Upgradeable to a Steel kiteshield (g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Mithril kiteshield",
+    "id": 1195,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -8,
+      "attack_ranged": -2,
+      "defence_stab": 16,
+      "defence_slash": 17,
+      "defence_crush": 15,
+      "defence_magic": -2,
+      "defence_ranged": 16,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1870,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 20
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 6.4,
+          "effective_power": 6.4,
+          "set_bonus": 0,
+          "set_power": 6.4,
+          "efficiency": 0.0034
+        },
+        "slash": {
+          "base_power": 6.8,
+          "effective_power": 6.8,
+          "set_bonus": 0,
+          "set_power": 6.8,
+          "efficiency": 0.0036
+        },
+        "crush": {
+          "base_power": 6,
+          "effective_power": 6,
+          "set_bonus": 0,
+          "set_power": 6,
+          "efficiency": 0.0032
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 6.4,
+          "effective_power": 6.4,
+          "set_bonus": 0,
+          "set_power": 6.4,
+          "efficiency": 0.0034
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -0.8,
+          "effective_power": -0.8,
+          "set_bonus": 0,
+          "set_power": -0.8,
+          "efficiency": -0.0004
+        }
+      }
+    },
+    "notes": "Upgradeable to a Mithril kiteshield (g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Adamant kiteshield",
+    "id": 1199,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -8,
+      "attack_ranged": -2,
+      "defence_stab": 22,
+      "defence_slash": 24,
+      "defence_crush": 20,
+      "defence_magic": -2,
+      "defence_ranged": 22,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 5440,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 30
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 8.8,
+          "effective_power": 8.8,
+          "set_bonus": 0,
+          "set_power": 8.8,
+          "efficiency": 0.0016
+        },
+        "slash": {
+          "base_power": 9.6,
+          "effective_power": 9.6,
+          "set_bonus": 0,
+          "set_power": 9.6,
+          "efficiency": 0.00176
+        },
+        "crush": {
+          "base_power": 8,
+          "effective_power": 8,
+          "set_bonus": 0,
+          "set_power": 8,
+          "efficiency": 0.00147
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 8.8,
+          "effective_power": 8.8,
+          "set_bonus": 0,
+          "set_power": 8.8,
+          "efficiency": 0.0016
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -0.8,
+          "effective_power": -0.8,
+          "set_bonus": 0,
+          "set_power": -0.8,
+          "efficiency": -0.00015
+        }
+      }
+    },
+    "notes": "Upgradeable to a Adamant kiteshield (g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Rune kiteshield",
+    "id": 1201,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -8,
+      "attack_ranged": -2,
+      "defence_stab": 32,
+      "defence_slash": 34,
+      "defence_crush": 30,
+      "defence_magic": -2,
+      "defence_ranged": 32,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 32000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 40
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 12.8,
+          "effective_power": 12.8,
+          "set_bonus": 0,
+          "set_power": 12.8,
+          "efficiency": 0.0004
+        },
+        "slash": {
+          "base_power": 13.6,
+          "effective_power": 13.6,
+          "set_bonus": 0,
+          "set_power": 13.6,
+          "efficiency": 0.00043
+        },
+        "crush": {
+          "base_power": 12,
+          "effective_power": 12,
+          "set_bonus": 0,
+          "set_power": 12,
+          "efficiency": 0.000375
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 12.8,
+          "effective_power": 12.8,
+          "set_bonus": 0,
+          "set_power": 12.8,
+          "efficiency": 0.0004
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -0.8,
+          "effective_power": -0.8,
+          "set_bonus": 0,
+          "set_power": -0.8,
+          "efficiency": -3e-05
+        }
+      }
+    },
+    "notes": "Upgradeable to a Rune kiteshield (g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Dragon kiteshield",
+    "id": 11286,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -6,
+      "attack_ranged": -2,
+      "defence_stab": 46,
+      "defence_slash": 48,
+      "defence_crush": 44,
+      "defence_magic": 0,
+      "defence_ranged": 46,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 500000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 75
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 18.4,
+          "effective_power": 18.4,
+          "set_bonus": 0,
+          "set_power": 18.4,
+          "efficiency": 3.7e-05
+        },
+        "slash": {
+          "base_power": 19.2,
+          "effective_power": 19.2,
+          "set_bonus": 0,
+          "set_power": 19.2,
+          "efficiency": 3.8e-05
+        },
+        "crush": {
+          "base_power": 17.6,
+          "effective_power": 17.6,
+          "set_bonus": 0,
+          "set_power": 17.6,
+          "efficiency": 3.5e-05
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 18.4,
+          "effective_power": 18.4,
+          "set_bonus": 0,
+          "set_power": 18.4,
+          "efficiency": 3.7e-05
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "High-level melee shield. Requires 75 Defence to equip."
+  },
+  {
+    "name": "Dragon defender",
+    "id": 12954,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 25,
+      "attack_slash": 24,
+      "attack_crush": 23,
+      "attack_magic": -3,
+      "attack_ranged": -2,
+      "defence_stab": 25,
+      "defence_slash": 24,
+      "defence_crush": 23,
+      "defence_magic": -3,
+      "defence_ranged": -2,
+      "strength": 6,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 35000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 60,
+      "attack": 60
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 20,
+          "effective_power": 20,
+          "set_bonus": 0,
+          "set_power": 20,
+          "efficiency": 0.00057
+        },
+        "slash": {
+          "base_power": 19.2,
+          "effective_power": 19.2,
+          "set_bonus": 0,
+          "set_power": 19.2,
+          "efficiency": 0.00055
+        },
+        "crush": {
+          "base_power": 18.4,
+          "effective_power": 18.4,
+          "set_bonus": 0,
+          "set_power": 18.4,
+          "efficiency": 0.00053
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 10,
+          "effective_power": 10,
+          "set_bonus": 0,
+          "set_power": 10,
+          "efficiency": 0.00029
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.2,
+          "effective_power": -1.2,
+          "set_bonus": 0,
+          "set_power": -1.2,
+          "efficiency": -3.4e-05
+        }
+      }
+    },
+    "notes": "Melee off-hand item with good offensive stats. Obtained from the Warriors' Guild minigame."
+  },
+  {
+    "name": "Avernic defender",
+    "id": 22322,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 30,
+      "attack_slash": 30,
+      "attack_crush": 30,
+      "attack_magic": -5,
+      "attack_ranged": -5,
+      "defence_stab": 30,
+      "defence_slash": 30,
+      "defence_crush": 30,
+      "defence_magic": -5,
+      "defence_ranged": -5,
+      "strength": 8,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 120000000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70,
+      "attack": 70
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 30,
+          "effective_power": 30,
+          "set_bonus": 0,
+          "set_power": 30,
+          "efficiency": 2.5e-07
+        },
+        "slash": {
+          "base_power": 30,
+          "effective_power": 30,
+          "set_bonus": 0,
+          "set_power": 30,
+          "efficiency": 2.5e-07
+        },
+        "crush": {
+          "base_power": 30,
+          "effective_power": 30,
+          "set_bonus": 0,
+          "set_power": 30,
+          "efficiency": 2.5e-07
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 12,
+          "effective_power": 12,
+          "set_bonus": 0,
+          "set_power": 12,
+          "efficiency": 1e-07
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -2,
+          "effective_power": -2,
+          "set_bonus": 0,
+          "set_power": -2,
+          "efficiency": -1.7e-08
+        }
+      }
+    },
+    "notes": "Best in slot defender. Provides both melee attack and strength bonuses. Degrades on use, requires repair."
+  },
+  {
+    "name": "Rune defender",
+    "id": 8850,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 17,
+      "attack_slash": 16,
+      "attack_crush": 15,
+      "attack_magic": -3,
+      "attack_ranged": -2,
+      "defence_stab": 17,
+      "defence_slash": 16,
+      "defence_crush": 15,
+      "defence_magic": -3,
+      "defence_ranged": -2,
+      "strength": 4,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 40,
+      "attack": 40
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 13.6,
+          "effective_power": 13.6,
+          "set_bonus": 0,
+          "set_power": 13.6,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 12.8,
+          "effective_power": 12.8,
+          "set_bonus": 0,
+          "set_power": 12.8,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 12,
+          "effective_power": 12,
+          "set_bonus": 0,
+          "set_power": 12,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 6.8,
+          "effective_power": 6.8,
+          "set_bonus": 0,
+          "set_power": 6.8,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.2,
+          "effective_power": -1.2,
+          "set_bonus": 0,
+          "set_power": -1.2,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Melee off-hand item with good offensive stats. Obtained from the Warriors' Guild minigame."
+  },
+  {
+    "name": "Adamant defender",
+    "id": 8849,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 13,
+      "attack_slash": 12,
+      "attack_crush": 11,
+      "attack_magic": -3,
+      "attack_ranged": -2,
+      "defence_stab": 13,
+      "defence_slash": 12,
+      "defence_crush": 11,
+      "defence_magic": -3,
+      "defence_ranged": -2,
+      "strength": 3,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 30,
+      "attack": 30
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 10.4,
+          "effective_power": 10.4,
+          "set_bonus": 0,
+          "set_power": 10.4,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 9.6,
+          "effective_power": 9.6,
+          "set_bonus": 0,
+          "set_power": 9.6,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 8.8,
+          "effective_power": 8.8,
+          "set_bonus": 0,
+          "set_power": 8.8,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 5.2,
+          "effective_power": 5.2,
+          "set_bonus": 0,
+          "set_power": 5.2,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.2,
+          "effective_power": -1.2,
+          "set_bonus": 0,
+          "set_power": -1.2,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Melee off-hand item with good offensive stats. Obtained from the Warriors' Guild minigame."
+  },
+  {
+    "name": "Mithril defender",
+    "id": 8848,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 10,
+      "attack_slash": 9,
+      "attack_crush": 8,
+      "attack_magic": -3,
+      "attack_ranged": -2,
+      "defence_stab": 10,
+      "defence_slash": 9,
+      "defence_crush": 8,
+      "defence_magic": -3,
+      "defence_ranged": -2,
+      "strength": 2,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 20,
+      "attack": 20
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 8,
+          "effective_power": 8,
+          "set_bonus": 0,
+          "set_power": 8,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 7.2,
+          "effective_power": 7.2,
+          "set_bonus": 0,
+          "set_power": 7.2,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 6.4,
+          "effective_power": 6.4,
+          "set_bonus": 0,
+          "set_power": 6.4,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 4,
+          "effective_power": 4,
+          "set_bonus": 0,
+          "set_power": 4,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.2,
+          "effective_power": -1.2,
+          "set_bonus": 0,
+          "set_power": -1.2,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Melee off-hand item with good offensive stats. Obtained from the Warriors' Guild minigame."
+  },
+  {
+    "name": "Steel defender",
+    "id": 8846,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 6,
+      "attack_slash": 5,
+      "attack_crush": 4,
+      "attack_magic": -3,
+      "attack_ranged": -2,
+      "defence_stab": 6,
+      "defence_slash": 5,
+      "defence_crush": 4,
+      "defence_magic": -3,
+      "defence_ranged": -2,
+      "strength": 1,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 5,
+      "attack": 5
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 4.8,
+          "effective_power": 4.8,
+          "set_bonus": 0,
+          "set_power": 4.8,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 4,
+          "effective_power": 4,
+          "set_bonus": 0,
+          "set_power": 4,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 3.2,
+          "effective_power": 3.2,
+          "set_bonus": 0,
+          "set_power": 3.2,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.2,
+          "effective_power": -1.2,
+          "set_bonus": 0,
+          "set_power": -1.2,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Melee off-hand item with good offensive stats. Obtained from the Warriors' Guild minigame."
+  },
+  {
+    "name": "Iron defender",
+    "id": 8845,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 4,
+      "attack_slash": 3,
+      "attack_crush": 2,
+      "attack_magic": -3,
+      "attack_ranged": -2,
+      "defence_stab": 4,
+      "defence_slash": 3,
+      "defence_crush": 2,
+      "defence_magic": -3,
+      "defence_ranged": -2,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 1,
+      "attack": 1
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 3.2,
+          "effective_power": 3.2,
+          "set_bonus": 0,
+          "set_power": 3.2,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.2,
+          "effective_power": -1.2,
+          "set_bonus": 0,
+          "set_power": -1.2,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Melee off-hand item with good offensive stats. Obtained from the Warriors' Guild minigame."
+  },
+  {
+    "name": "Bronze defender",
+    "id": 8844,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 2,
+      "attack_slash": 1,
+      "attack_crush": 0,
+      "attack_magic": -3,
+      "attack_ranged": -2,
+      "defence_stab": 2,
+      "defence_slash": 1,
+      "defence_crush": 0,
+      "defence_magic": -3,
+      "defence_ranged": -2,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 1,
+      "attack": 1
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0.8,
+          "effective_power": 0.8,
+          "set_bonus": 0,
+          "set_power": 0.8,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0.8,
+          "effective_power": 0.8,
+          "set_bonus": 0,
+          "set_power": 0.8,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.2,
+          "effective_power": -1.2,
+          "set_bonus": 0,
+          "set_power": -1.2,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Melee off-hand item with good offensive stats. Obtained from the Warriors' Guild minigame."
+  },
+  {
+    "name": "Dragonfire shield",
+    "id": 11283,
+    "slot": "shield",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -10,
+      "attack_ranged": -5,
+      "defence_stab": 70,
+      "defence_slash": 75,
+      "defence_crush": 72,
+      "defence_magic": 10,
+      "defence_ranged": 72,
+      "strength": 7,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": true,
+      "items": [
+        {
+          "item_name": "Anti-dragon fire shield",
+          "item_id": 1540,
+          "quantity": 1,
+          "cost_per_item": 0,
+          "max_charges": 50
+        }
+      ]
+    },
+    "initial_cost": 4000000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 75
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 33.6,
+          "effective_power": 33.6,
+          "set_bonus": 0,
+          "set_power": 33.6,
+          "efficiency": 8.4e-06
+        },
+        "slash": {
+          "base_power": 35.6,
+          "effective_power": 35.6,
+          "set_bonus": 0,
+          "set_power": 35.6,
+          "efficiency": 8.9e-06
+        },
+        "crush": {
+          "base_power": 33.6,
+          "effective_power": 33.6,
+          "set_bonus": 0,
+          "set_power": 33.6,
+          "efficiency": 8.4e-06
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 28.8,
+          "effective_power": 28.8,
+          "set_bonus": 0,
+          "set_power": 28.8,
+          "efficiency": 7.2e-06
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 4,
+          "effective_power": 4,
+          "set_bonus": 0,
+          "set_power": 4,
+          "efficiency": 1e-06
+        }
+      }
+    },
+    "notes": "High-level shield that can be charged to absorb damage from dragonfire. Requires charges to use. Degrades when uncharged"
+  }
+]

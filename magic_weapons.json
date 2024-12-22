@@ -1,0 +1,2489 @@
+[
+  {
+    "name": "Staff",
+    "id": 1379,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 1,
+      "attack_slash": -1,
+      "attack_crush": 1,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 2,
+      "defence_slash": 3,
+      "defence_crush": 1,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 2,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 100,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 1
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Bash",
+      "description": "A basic melee attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": false,
+      "special_attack": false
+    },
+    "notes": "Basic magic weapon. Can be purchased from magic shops.",
+    "members": false
+  },
+  {
+    "name": "Staff of air",
+    "id": 1381,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 10,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1500,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 1
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Provides unlimited air runes. Can be purchased from magic shops.",
+    "members": false
+  },
+  {
+    "name": "Staff of water",
+    "id": 1383,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 10,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1500,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 1
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Provides unlimited water runes. Can be purchased from magic shops.",
+    "members": false
+  },
+  {
+    "name": "Staff of earth",
+    "id": 1385,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 10,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1500,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 1
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Provides unlimited earth runes. Can be purchased from magic shops.",
+    "members": false
+  },
+  {
+    "name": "Staff of fire",
+    "id": 1387,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 10,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1500,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 1
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Provides unlimited fire runes. Can be purchased from magic shops.",
+    "members": false
+  },
+  {
+    "name": "Mystic air staff",
+    "id": 4151,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 14,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 45000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 40,
+        "attack": 30
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Provides unlimited air runes. Upgrade to the Staff of air.",
+    "members": true
+  },
+  {
+    "name": "Mystic water staff",
+    "id": 4153,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 14,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 45000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 40,
+        "attack": 30
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Provides unlimited water runes. Upgrade to the Staff of water.",
+    "members": true
+  },
+  {
+    "name": "Mystic earth staff",
+    "id": 4155,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 14,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 45000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 40,
+        "attack": 30
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Provides unlimited earth runes. Upgrade to the Staff of earth.",
+    "members": true
+  },
+  {
+    "name": "Mystic fire staff",
+    "id": 4157,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 14,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 45000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 40,
+        "attack": 30
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Provides unlimited fire runes. Upgrade to the Staff of fire.",
+    "members": true
+  },
+  {
+    "name": "Ancient Staff",
+    "id": 4675,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 10,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 17,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 55000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 50,
+        "attack": 50
+      },
+      "quests": [
+        "Desert Treasure I"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Allows casting of Ancient Magicks spells.",
+    "members": true
+  },
+  {
+    "name": "Ibans Staff",
+    "id": 1409,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 25,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": true,
+      "items": [
+        {
+          "item_name": "Iban's Staff (u)",
+          "item_id": 12658,
+          "quantity": 1,
+          "cost_per_item": 400000,
+          "max_charges": 2500
+        }
+      ]
+    },
+    "initial_cost": 80000,
+    "running_cost": {
+      "item_name": "Death rune",
+      "item_id": 560,
+      "cost_per_item": 200,
+      "usage_rate": 5,
+      "ge_buy_limit": 125
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 50,
+        "attack": 50
+      },
+      "quests": [
+        "Underground Pass"
+      ],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be upgraded to Iban's Staff (u) after completing Underground Pass quest.",
+    "members": true
+  },
+  {
+    "name": "Slayer's Staff",
+    "id": 4170,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 10,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 50000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 50,
+        "slayer": 55
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Used to cast Magic Dart, a Slayer-specific spell.",
+    "members": true
+  },
+  {
+    "name": "Slayer's Staff (e)",
+    "id": 21255,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 25,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1500000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 75,
+        "slayer": 75
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Enhanced version of Slayer's Staff. Used to cast Magic Dart, a Slayer-specific spell.",
+    "members": true
+  },
+  {
+    "name": "Trident of the seas",
+    "id": 11907,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 25,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": true,
+      "items": [
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 1,
+          "cost_per_item": 200,
+          "max_charges": 2500
+        },
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 1,
+          "cost_per_item": 100,
+          "max_charges": 2500
+        },
+        {
+          "item_name": "Fire rune",
+          "item_id": 554,
+          "quantity": 5,
+          "cost_per_item": 5,
+          "max_charges": 2500
+        },
+        {
+          "item_name": "Coins",
+          "item_id": 995,
+          "quantity": 10,
+          "cost_per_item": 1,
+          "max_charges": 2500
+        }
+      ]
+    },
+    "initial_cost": 1500000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 75
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "A powerful magic weapon that requires charges to use. Casts its own built-in spell.",
+    "members": true
+  },
+  {
+    "name": "Trident of the swamp",
+    "id": 22292,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 25,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": true,
+      "items": [
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 1,
+          "cost_per_item": 200,
+          "max_charges": 2500
+        },
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 1,
+          "cost_per_item": 100,
+          "max_charges": 2500
+        },
+        {
+          "item_name": "Fire rune",
+          "item_id": 554,
+          "quantity": 5,
+          "cost_per_item": 5,
+          "max_charges": 2500
+        },
+        {
+          "item_name": "Zulrah's scales",
+          "item_id": 12934,
+          "quantity": 1,
+          "cost_per_item": 150,
+          "max_charges": 2500
+        }
+      ]
+    },
+    "initial_cost": 3500000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 75
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "A powerful magic weapon that requires charges to use. Casts its own built-in spell. Applies a venom effect to the target",
+    "members": true
+  },
+  {
+    "name": "Thammaron's sceptre",
+    "id": 22555,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 25,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 15,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": true,
+      "items": [
+        {
+          "item_name": "Revenant ether",
+          "item_id": 21820,
+          "quantity": 1,
+          "cost_per_item": 100,
+          "max_charges": 1000
+        }
+      ]
+    },
+    "initial_cost": 2500000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 75
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": [
+        "Revenant Caves"
+      ]
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack. When charged, provides a 100% accuracy and 25% damage bonus in the Wilderness.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": false,
+      "special_attack": false
+    },
+    "notes": "Degradable. Requires Revenant ether to charge. Provides a damage bonus in the Wilderness.",
+    "members": true
+  },
+  {
+    "name": "Accursed sceptre",
+    "id": 27275,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 30,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 20,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": true,
+      "items": [
+        {
+          "item_name": "Revenant ether",
+          "item_id": 21820,
+          "quantity": 1,
+          "cost_per_item": 100,
+          "max_charges": 1000
+        }
+      ]
+    },
+    "initial_cost": 5000000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 82
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": [
+        "Revenant Caves"
+      ]
+    },
+    "special_attack": {
+      "name": "Condemn",
+      "description": "Consumes 50% of special attack energy to deal up to 55 damage and temporarily reduce the target's stats.",
+      "energy_cost": 50,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": false,
+      "special_attack": true
+    },
+    "notes": "Upgraded version of Thammaron's sceptre. Degradable. Requires Revenant ether to charge. Provides a damage bonus in the Wilderness.",
+    "members": true
+  },
+  {
+    "name": "Ahrim's staff",
+    "id": 4710,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 25,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 800000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 70,
+        "attack": 70
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": [
+        "Barrows"
+      ]
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack, but has a chance to lower the target's Strength level.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Degradable, requires repair. Obtained from Barrows.",
+    "members": true
+  },
+  {
+    "name": "Kodai wand",
+    "id": 21006,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 28,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 15,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 25000000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 80
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": [
+        "The Chambers of Xeric"
+      ]
+    },
+    "special_attack": {
+      "name": "Insatiable",
+      "description": "Has a chance to not consume runes when casting a spell.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Provides a 15% magic damage bonus and unlimited water runes. Obtained from the Chambers of Xeric.",
+    "members": true
+  },
+  {
+    "name": "Master wand",
+    "id": 6914,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 20,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 500000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 75,
+        "attack": 60
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": [
+        "Mage Training Arena"
+      ]
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "High-level magic weapon. Can be purchased from the Mage Training Arena.",
+    "members": true
+  },
+  {
+    "name": "Book of the dead",
+    "id": 26574,
+    "slot": "shield",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 6,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 6,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 3,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": true,
+      "items": [
+        {
+          "item_name": "Damned soul",
+          "item_id": 26552,
+          "quantity": 1,
+          "cost_per_item": 10,
+          "max_charges": 10000
+        }
+      ]
+    },
+    "initial_cost": 100000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 60
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack. Increases damage of Arceuus spells by 6% when charged.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Provides a damage bonus to Arceuus spells when charged. Requires Damned souls to charge. Degrades on use",
+    "members": true
+  },
+  {
+    "name": "Staff of light",
+    "id": 14004,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 55,
+      "attack_slash": 70,
+      "attack_crush": 0,
+      "attack_magic": 17,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 3,
+      "defence_crush": 0,
+      "defence_magic": 17,
+      "defence_ranged": 0,
+      "strength": 72,
+      "prayer": 0,
+      "magic_damage": 15,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 5000000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 75,
+        "attack": 75
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Power of Light",
+      "description": "Consumes 50% special attack energy. Melee attacks have a 25% chance to restore 10% of special attack and has a 1/8 chance to reduce damage by 50% on the next hit",
+      "energy_cost": 50,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": true
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": true
+    },
+    "notes": "Provides a 15% magic damage bonus. Has a special attack that can reduce incoming damage.",
+    "members": true
+  },
+  {
+    "name": "Staff of the dead",
+    "id": 11791,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 55,
+      "attack_slash": 70,
+      "attack_crush": 0,
+      "attack_magic": 17,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 3,
+      "defence_crush": 0,
+      "defence_magic": 17,
+      "defence_ranged": 0,
+      "strength": 72,
+      "prayer": 0,
+      "magic_damage": 15,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 13000000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 75,
+        "attack": 75
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Power of Death",
+      "description": "Consumes 50% special attack energy. Melee attacks have a 25% chance to restore 10% of special attack and has a 1/8 chance to reduce damage by 50% on the next hit. Also increases melee attack by 25%",
+      "energy_cost": 50,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": true
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": true
+    },
+    "notes": "Provides a 15% magic damage bonus. Has a special attack that can reduce incoming damage. Can autocast Flames of Zamorak, Claws of Guthix, and Saradomin Strike",
+    "members": true
+  },
+  {
+    "name": "Staff of balance",
+    "id": 2416,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 25,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 75,
+        "attack": 75
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": [
+        "Mage Training Arena"
+      ]
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Reward from the Mage Training Arena. Can cast Claws of Guthix.",
+    "members": true
+  },
+  {
+    "name": "Toxic staff of the dead",
+    "id": 12904,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 55,
+      "attack_slash": 70,
+      "attack_crush": 0,
+      "attack_magic": 25,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 72,
+      "prayer": 0,
+      "magic_damage": 15,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": true,
+      "items": [
+        {
+          "item_name": "Zulrah's scales",
+          "item_id": 12934,
+          "quantity": 1,
+          "cost_per_item": 150,
+          "max_charges": 20000
+        }
+      ]
+    },
+    "initial_cost": 15000000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 75,
+        "attack": 75
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "Power of Death",
+      "description": "Consumes 50% special attack energy. Melee attacks have a 25% chance to restore 10% of special attack and has a 1/8 chance to reduce damage by 50% on the next hit. Also increases melee attack by 25%",
+      "energy_cost": 50,
+      "effect_multiplier": 1,
+      "accuracy_multiplier": 1,
+      "affects_power_calc": true
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": true
+    },
+    "notes": "Provides a 15% magic damage bonus. Has a special attack that can reduce incoming damage. Can autocast Flames of Zamorak, Claws of Guthix, and Saradomin Strike. Adds a venom effect to targets on attack",
+    "members": true
+  },
+  {
+    "name": "Void knight mace",
+    "id": 8841,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 6,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 6,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 6,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 42,
+        "attack": 42,
+        "defence": 42,
+        "hitpoints": 42,
+        "ranged": 42,
+        "prayer": 22
+      },
+      "quests": [],
+      "minigames": [
+        "Pest Control"
+      ]
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": [
+        "Pest Control"
+      ]
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Provides a prayer bonus. Obtained from Pest Control minigame.",
+    "members": true
+  },
+  {
+    "name": "Beginner wand",
+    "id": 6908,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 4,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 10,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 1
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Very low-level magic weapon. Can be purchased from magic shops.",
+    "members": false
+  },
+  {
+    "name": "Apprentice wand",
+    "id": 6910,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 6,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 50,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 5
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Low-level magic weapon. Can be purchased from magic shops.",
+    "members": false
+  },
+  {
+    "name": "Wizard wand",
+    "id": 6912,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 8,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 500,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 10
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Low-level magic weapon. Can be purchased from magic shops.",
+    "members": true
+  },
+  {
+    "name": "Imbued mind wand",
+    "id": 27233,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 10,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 5000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 20
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from the Bounty Hunter Shop.",
+    "members": true
+  },
+  {
+    "name": "Imbued water wand",
+    "id": 27235,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 10,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 5000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 20
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from the Bounty Hunter Shop.",
+    "members": true
+  },
+  {
+    "name": "Imbued earth wand",
+    "id": 27237,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 10,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 5000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 20
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from the Bounty Hunter Shop.",
+    "members": true
+  },
+  {
+    "name": "Imbued fire wand",
+    "id": 27239,
+    "slot": "main-hand",
+    "style": "magic",
+    "attack_style": "spell",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 10,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "attack_speed": 4,
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 5000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "equip_requirements": {
+      "skills": {
+        "magic": 20
+      },
+      "quests": [],
+      "minigames": []
+    },
+    "obtain_requirements": {
+      "quests": [],
+      "minigames": []
+    },
+    "special_attack": {
+      "name": "N/A",
+      "description": "No special attack.",
+      "energy_cost": 0,
+      "effect_multiplier": 0,
+      "accuracy_multiplier": 0,
+      "affects_power_calc": false
+    },
+    "power_calc": {
+      "magic": {
+        "spell": {
+          "base_power": 0,
+          "effective_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "usage_notes": {
+      "general": true,
+      "special_attack": false
+    },
+    "notes": "Can be purchased from the Bounty Hunter Shop.",
+    "members": true
+  }
+]

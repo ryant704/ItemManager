@@ -1,0 +1,2667 @@
+[
+  {
+    "name": "Bronze platebody",
+    "id": 1117,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -30,
+      "attack_ranged": -10,
+      "defence_stab": 31,
+      "defence_slash": 33,
+      "defence_crush": 23,
+      "defence_magic": -6,
+      "defence_ranged": 31,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 160,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 1
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 12.4,
+          "effective_power": 12.4,
+          "set_bonus": 0,
+          "set_power": 12.4,
+          "efficiency": 0.0775
+        },
+        "slash": {
+          "base_power": 13.2,
+          "effective_power": 13.2,
+          "set_bonus": 0,
+          "set_power": 13.2,
+          "efficiency": 0.0825
+        },
+        "crush": {
+          "base_power": 9.2,
+          "effective_power": 9.2,
+          "set_bonus": 0,
+          "set_power": 9.2,
+          "efficiency": 0.0575
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 12.4,
+          "effective_power": 12.4,
+          "set_bonus": 0,
+          "set_power": 12.4,
+          "efficiency": 0.0775
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -2.4,
+          "effective_power": -2.4,
+          "set_bonus": 0,
+          "set_power": -2.4,
+          "efficiency": -0.015
+        }
+      }
+    },
+    "notes": "Basic bronze platebody."
+  },
+  {
+    "name": "Iron platebody",
+    "id": 1115,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -30,
+      "attack_ranged": -10,
+      "defence_stab": 34,
+      "defence_slash": 38,
+      "defence_crush": 28,
+      "defence_magic": -6,
+      "defence_ranged": 34,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 560,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 1
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 13.6,
+          "effective_power": 13.6,
+          "set_bonus": 0,
+          "set_power": 13.6,
+          "efficiency": 0.0243
+        },
+        "slash": {
+          "base_power": 15.2,
+          "effective_power": 15.2,
+          "set_bonus": 0,
+          "set_power": 15.2,
+          "efficiency": 0.0271
+        },
+        "crush": {
+          "base_power": 11.2,
+          "effective_power": 11.2,
+          "set_bonus": 0,
+          "set_power": 11.2,
+          "efficiency": 0.02
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 13.6,
+          "effective_power": 13.6,
+          "set_bonus": 0,
+          "set_power": 13.6,
+          "efficiency": 0.0243
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -2.4,
+          "effective_power": -2.4,
+          "set_bonus": 0,
+          "set_power": -2.4,
+          "efficiency": -0.0043
+        }
+      }
+    },
+    "notes": "Basic iron platebody."
+  },
+  {
+    "name": "Leather body",
+    "id": 1129,
+    "slot": "body",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -5,
+      "attack_ranged": 4,
+      "defence_stab": 10,
+      "defence_slash": 8,
+      "defence_crush": 11,
+      "defence_magic": 4,
+      "defence_ranged": 10,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 20,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 1
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 4,
+          "effective_power": 4,
+          "set_bonus": 0,
+          "set_power": 4,
+          "efficiency": 0.2
+        },
+        "slash": {
+          "base_power": 3.2,
+          "effective_power": 3.2,
+          "set_bonus": 0,
+          "set_power": 3.2,
+          "efficiency": 0.16
+        },
+        "crush": {
+          "base_power": 4.4,
+          "effective_power": 4.4,
+          "set_bonus": 0,
+          "set_power": 4.4,
+          "efficiency": 0.22
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 6.4,
+          "effective_power": 6.4,
+          "set_bonus": 0,
+          "set_power": 6.4,
+          "efficiency": 0.32
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0.4,
+          "effective_power": 0.4,
+          "set_bonus": 0,
+          "set_power": 0.4,
+          "efficiency": 0.02
+        }
+      }
+    },
+    "notes": "Basic ranged body armor."
+  },
+  {
+    "name": "Wizard robe top",
+    "id": 577,
+    "slot": "body",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 3,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 3,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 10,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "magic": 1
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 1.2,
+          "effective_power": 1.2,
+          "set_bonus": 0,
+          "set_power": 1.2,
+          "efficiency": 0.12
+        }
+      }
+    },
+    "notes": "Basic magic robe top."
+  },
+  {
+    "name": "Hardleather body",
+    "id": 1131,
+    "slot": "body",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -5,
+      "attack_ranged": 8,
+      "defence_stab": 13,
+      "defence_slash": 11,
+      "defence_crush": 14,
+      "defence_magic": 6,
+      "defence_ranged": 11,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 210,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 10,
+      "ranged": 10
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 5.2,
+          "effective_power": 5.2,
+          "set_bonus": 0,
+          "set_power": 5.2,
+          "efficiency": 0.02476
+        },
+        "slash": {
+          "base_power": 4.4,
+          "effective_power": 4.4,
+          "set_bonus": 0,
+          "set_power": 4.4,
+          "efficiency": 0.02095
+        },
+        "crush": {
+          "base_power": 5.6,
+          "effective_power": 5.6,
+          "set_bonus": 0,
+          "set_power": 5.6,
+          "efficiency": 0.02667
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 9.2,
+          "effective_power": 9.2,
+          "set_bonus": 0,
+          "set_power": 9.2,
+          "efficiency": 0.0438
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0.4,
+          "effective_power": 0.4,
+          "set_bonus": 0,
+          "set_power": 0.4,
+          "efficiency": 0.0019
+        }
+      }
+    },
+    "notes": "Ranged body armour, requiring 10 defence."
+  },
+  {
+    "name": "Steel platebody",
+    "id": 1119,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -30,
+      "attack_ranged": -10,
+      "defence_stab": 46,
+      "defence_slash": 49,
+      "defence_crush": 40,
+      "defence_magic": -6,
+      "defence_ranged": 46,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 5
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 18.4,
+          "effective_power": 18.4,
+          "set_bonus": 0,
+          "set_power": 18.4,
+          "efficiency": 0.0184
+        },
+        "slash": {
+          "base_power": 19.6,
+          "effective_power": 19.6,
+          "set_bonus": 0,
+          "set_power": 19.6,
+          "efficiency": 0.0196
+        },
+        "crush": {
+          "base_power": 16,
+          "effective_power": 16,
+          "set_bonus": 0,
+          "set_power": 16,
+          "efficiency": 0.016
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 18.4,
+          "effective_power": 18.4,
+          "set_bonus": 0,
+          "set_power": 18.4,
+          "efficiency": 0.0184
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -2.4,
+          "effective_power": -2.4,
+          "set_bonus": 0,
+          "set_power": -2.4,
+          "efficiency": -0.0024
+        }
+      }
+    },
+    "notes": "Upgradeable to a Steel platebody(g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Mithril platebody",
+    "id": 1121,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -30,
+      "attack_ranged": -10,
+      "defence_stab": 58,
+      "defence_slash": 63,
+      "defence_crush": 53,
+      "defence_magic": -6,
+      "defence_ranged": 58,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 3200,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 20
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 23.2,
+          "effective_power": 23.2,
+          "set_bonus": 0,
+          "set_power": 23.2,
+          "efficiency": 0.00725
+        },
+        "slash": {
+          "base_power": 25.2,
+          "effective_power": 25.2,
+          "set_bonus": 0,
+          "set_power": 25.2,
+          "efficiency": 0.00787
+        },
+        "crush": {
+          "base_power": 21.2,
+          "effective_power": 21.2,
+          "set_bonus": 0,
+          "set_power": 21.2,
+          "efficiency": 0.00663
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 23.2,
+          "effective_power": 23.2,
+          "set_bonus": 0,
+          "set_power": 23.2,
+          "efficiency": 0.00725
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -2.4,
+          "effective_power": -2.4,
+          "set_bonus": 0,
+          "set_power": -2.4,
+          "efficiency": -0.00075
+        }
+      }
+    },
+    "notes": "Upgradeable to a Mithril platebody(g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Adamant platebody",
+    "id": 1123,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -30,
+      "attack_ranged": -10,
+      "defence_stab": 73,
+      "defence_slash": 80,
+      "defence_crush": 70,
+      "defence_magic": -6,
+      "defence_ranged": 73,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 13000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 30
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 29.2,
+          "effective_power": 29.2,
+          "set_bonus": 0,
+          "set_power": 29.2,
+          "efficiency": 0.00225
+        },
+        "slash": {
+          "base_power": 32,
+          "effective_power": 32,
+          "set_bonus": 0,
+          "set_power": 32,
+          "efficiency": 0.00246
+        },
+        "crush": {
+          "base_power": 28,
+          "effective_power": 28,
+          "set_bonus": 0,
+          "set_power": 28,
+          "efficiency": 0.00215
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 29.2,
+          "effective_power": 29.2,
+          "set_bonus": 0,
+          "set_power": 29.2,
+          "efficiency": 0.00225
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -2.4,
+          "effective_power": -2.4,
+          "set_bonus": 0,
+          "set_power": -2.4,
+          "efficiency": -0.00018
+        }
+      }
+    },
+    "notes": "Upgradeable to an Adamant platebody(g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Rune platebody",
+    "id": 1127,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -30,
+      "attack_ranged": -10,
+      "defence_stab": 82,
+      "defence_slash": 90,
+      "defence_crush": 82,
+      "defence_magic": -6,
+      "defence_ranged": 82,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 65000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [
+      "Dragon Slayer I"
+    ],
+    "skill_requirements": {
+      "defence": 40
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 32.8,
+          "effective_power": 32.8,
+          "set_bonus": 0,
+          "set_power": 32.8,
+          "efficiency": 0.0005
+        },
+        "slash": {
+          "base_power": 36,
+          "effective_power": 36,
+          "set_bonus": 0,
+          "set_power": 36,
+          "efficiency": 0.00055
+        },
+        "crush": {
+          "base_power": 32.8,
+          "effective_power": 32.8,
+          "set_bonus": 0,
+          "set_power": 32.8,
+          "efficiency": 0.0005
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 32.8,
+          "effective_power": 32.8,
+          "set_bonus": 0,
+          "set_power": 32.8,
+          "efficiency": 0.0005
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -2.4,
+          "effective_power": -2.4,
+          "set_bonus": 0,
+          "set_power": -2.4,
+          "efficiency": -3.7e-05
+        }
+      }
+    },
+    "notes": "Upgradeable to a Rune platebody(g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Granite body",
+    "id": 14499,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -30,
+      "attack_ranged": -15,
+      "defence_stab": 66,
+      "defence_slash": 74,
+      "defence_crush": 82,
+      "defence_magic": -6,
+      "defence_ranged": 72,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 24000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 50,
+      "strength": 50
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 26.4,
+          "effective_power": 26.4,
+          "set_bonus": 0,
+          "set_power": 26.4,
+          "efficiency": 0.0011
+        },
+        "slash": {
+          "base_power": 29.6,
+          "effective_power": 29.6,
+          "set_bonus": 0,
+          "set_power": 29.6,
+          "efficiency": 0.00123
+        },
+        "crush": {
+          "base_power": 32.8,
+          "effective_power": 32.8,
+          "set_bonus": 0,
+          "set_power": 32.8,
+          "efficiency": 0.00137
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 28.8,
+          "effective_power": 28.8,
+          "set_bonus": 0,
+          "set_power": 28.8,
+          "efficiency": 0.0012
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -2.4,
+          "effective_power": -2.4,
+          "set_bonus": 0,
+          "set_power": -2.4,
+          "efficiency": -0.0001
+        }
+      }
+    },
+    "notes": "High melee defence body armour that requires 50 defence and 50 strength to equip."
+  },
+  {
+    "name": "Obsidian platebody",
+    "id": 21301,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -30,
+      "attack_ranged": -10,
+      "defence_stab": 98,
+      "defence_slash": 106,
+      "defence_crush": 90,
+      "defence_magic": -6,
+      "defence_ranged": 98,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 300000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 60
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 39.2,
+          "effective_power": 39.2,
+          "set_bonus": 0,
+          "set_power": 39.2,
+          "efficiency": 0.00013
+        },
+        "slash": {
+          "base_power": 42.4,
+          "effective_power": 42.4,
+          "set_bonus": 0,
+          "set_power": 42.4,
+          "efficiency": 0.00014
+        },
+        "crush": {
+          "base_power": 36,
+          "effective_power": 36,
+          "set_bonus": 0,
+          "set_power": 36,
+          "efficiency": 0.00012
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 39.2,
+          "effective_power": 39.2,
+          "set_bonus": 0,
+          "set_power": 39.2,
+          "efficiency": 0.00013
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -2.4,
+          "effective_power": -2.4,
+          "set_bonus": 0,
+          "set_power": -2.4,
+          "efficiency": -8e-06
+        }
+      }
+    },
+    "notes": "High-level melee body armor. Provides a large defence bonus."
+  },
+  {
+    "name": "Dragon platebody",
+    "id": 14479,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -30,
+      "attack_ranged": -10,
+      "defence_stab": 96,
+      "defence_slash": 104,
+      "defence_crush": 96,
+      "defence_magic": -6,
+      "defence_ranged": 96,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 3000000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 60
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 38.4,
+          "effective_power": 38.4,
+          "set_bonus": 0,
+          "set_power": 38.4,
+          "efficiency": 1.3e-05
+        },
+        "slash": {
+          "base_power": 41.6,
+          "effective_power": 41.6,
+          "set_bonus": 0,
+          "set_power": 41.6,
+          "efficiency": 1.4e-05
+        },
+        "crush": {
+          "base_power": 38.4,
+          "effective_power": 38.4,
+          "set_bonus": 0,
+          "set_power": 38.4,
+          "efficiency": 1.3e-05
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 38.4,
+          "effective_power": 38.4,
+          "set_bonus": 0,
+          "set_power": 38.4,
+          "efficiency": 1.3e-05
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -2.4,
+          "effective_power": -2.4,
+          "set_bonus": 0,
+          "set_power": -2.4,
+          "efficiency": -8e-06
+        }
+      }
+    },
+    "notes": "High-level melee body armor. Provides a large defence bonus."
+  },
+  {
+    "name": "Dragon chainbody",
+    "id": 3140,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -30,
+      "attack_ranged": -10,
+      "defence_stab": 81,
+      "defence_slash": 95,
+      "defence_crush": 93,
+      "defence_magic": -4,
+      "defence_ranged": 91,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 200000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 60
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 32.4,
+          "effective_power": 32.4,
+          "set_bonus": 0,
+          "set_power": 32.4,
+          "efficiency": 0.00016
+        },
+        "slash": {
+          "base_power": 38,
+          "effective_power": 38,
+          "set_bonus": 0,
+          "set_power": 38,
+          "efficiency": 0.00019
+        },
+        "crush": {
+          "base_power": 37.2,
+          "effective_power": 37.2,
+          "set_bonus": 0,
+          "set_power": 37.2,
+          "efficiency": 0.000185
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 36.4,
+          "effective_power": 36.4,
+          "set_bonus": 0,
+          "set_power": 36.4,
+          "efficiency": 0.00018
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": -8e-06
+        }
+      }
+    },
+    "notes": "High-level melee body armor. Provides a large defence bonus."
+  },
+  {
+    "name": "Carapace torso",
+    "id": 24983,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -10,
+      "attack_ranged": 0,
+      "defence_stab": 60,
+      "defence_slash": 70,
+      "defence_crush": 58,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 8,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 23000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 40,
+      "strength": 35
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 24,
+          "effective_power": 24,
+          "set_bonus": 0,
+          "set_power": 24,
+          "efficiency": 0.00104
+        },
+        "slash": {
+          "base_power": 28,
+          "effective_power": 28,
+          "set_bonus": 0,
+          "set_power": 28,
+          "efficiency": 0.00122
+        },
+        "crush": {
+          "base_power": 23.2,
+          "effective_power": 23.2,
+          "set_bonus": 0,
+          "set_power": 23.2,
+          "efficiency": 0.00108
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Dropped by the Penance Queen. Provides good melee defence and a strength bonus."
+  },
+  {
+    "name": "Fighter torso",
+    "id": 10551,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -10,
+      "attack_ranged": -10,
+      "defence_stab": 56,
+      "defence_slash": 64,
+      "defence_crush": 64,
+      "defence_magic": -4,
+      "defence_ranged": 64,
+      "strength": 4,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 40,
+      "strength": 40
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 22.4,
+          "effective_power": 22.4,
+          "set_bonus": 0,
+          "set_power": 22.4,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 25.6,
+          "effective_power": 25.6,
+          "set_bonus": 0,
+          "set_power": 25.6,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 25.6,
+          "effective_power": 25.6,
+          "set_bonus": 0,
+          "set_power": 25.6,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 25.6,
+          "effective_power": 25.6,
+          "set_bonus": 0,
+          "set_power": 25.6,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Provides a melee strength bonus. Obtained from the Barbarian Assault minigame."
+  },
+  {
+    "name": "Bandos chestplate",
+    "id": 11832,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -15,
+      "attack_ranged": -10,
+      "defence_stab": 98,
+      "defence_slash": 93,
+      "defence_crush": 105,
+      "defence_magic": -4,
+      "defence_ranged": 133,
+      "strength": 4,
+      "prayer": 1,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 24000000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 65
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 39.2,
+          "effective_power": 39.2,
+          "set_bonus": 0,
+          "set_power": 39.2,
+          "efficiency": 1.63e-06
+        },
+        "slash": {
+          "base_power": 37.2,
+          "effective_power": 37.2,
+          "set_bonus": 0,
+          "set_power": 37.2,
+          "efficiency": 1.55e-06
+        },
+        "crush": {
+          "base_power": 42,
+          "effective_power": 42,
+          "set_bonus": 0,
+          "set_power": 42,
+          "efficiency": 1.75e-06
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 53.2,
+          "effective_power": 53.2,
+          "set_bonus": 0,
+          "set_power": 53.2,
+          "efficiency": 2.22e-06
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": -6.7e-08
+        }
+      }
+    },
+    "notes": "High-level melee body armour with strength and prayer bonuses. Dropped by General Graardor in the God Wars Dungeon."
+  },
+  {
+    "name": "Armadyl chestplate",
+    "id": 11828,
+    "slot": "body",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -15,
+      "attack_ranged": 20,
+      "defence_stab": 60,
+      "defence_slash": 55,
+      "defence_crush": 65,
+      "defence_magic": 60,
+      "defence_ranged": 60,
+      "strength": 0,
+      "prayer": 1,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 13000000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70,
+      "ranged": 70
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 24,
+          "effective_power": 24,
+          "set_bonus": 0,
+          "set_power": 24,
+          "efficiency": 1.85e-06
+        },
+        "slash": {
+          "base_power": 22,
+          "effective_power": 22,
+          "set_bonus": 0,
+          "set_power": 22,
+          "efficiency": 1.69e-06
+        },
+        "crush": {
+          "base_power": 26,
+          "effective_power": 26,
+          "set_bonus": 0,
+          "set_power": 26,
+          "efficiency": 2e-06
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 36,
+          "effective_power": 36,
+          "set_bonus": 0,
+          "set_power": 36,
+          "efficiency": 2.77e-06
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 15,
+          "effective_power": 15,
+          "set_bonus": 0,
+          "set_power": 15,
+          "efficiency": 1.15e-06
+        }
+      }
+    },
+    "notes": "High-level ranged body armour. Part of the Armadyl armour set. Dropped by Kree'arra in the God Wars Dungeon."
+  },
+  {
+    "name": "Karil's leathertop",
+    "id": 4736,
+    "slot": "body",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -15,
+      "attack_ranged": 30,
+      "defence_stab": 47,
+      "defence_slash": 42,
+      "defence_crush": 50,
+      "defence_magic": 65,
+      "defence_ranged": 70,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 18000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70,
+      "ranged": 70
+    },
+    "set_effect": {
+      "name": "Karil's",
+      "description": "When full set is worn has a chance for special attack to deal double damage"
+    },
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 18.8,
+          "effective_power": 18.8,
+          "set_bonus": 0,
+          "set_power": 18.8,
+          "efficiency": 0.00104
+        },
+        "slash": {
+          "base_power": 16.8,
+          "effective_power": 16.8,
+          "set_bonus": 0,
+          "set_power": 16.8,
+          "efficiency": 0.00093
+        },
+        "crush": {
+          "base_power": 20,
+          "effective_power": 20,
+          "set_bonus": 0,
+          "set_power": 20,
+          "efficiency": 0.00111
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 46,
+          "effective_power": 46,
+          "set_bonus": 0,
+          "set_power": 46,
+          "efficiency": 0.00256
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 26,
+          "effective_power": 26,
+          "set_bonus": 0,
+          "set_power": 26,
+          "efficiency": 0.00144
+        }
+      }
+    },
+    "notes": "Part of the Karil's barrows set. Degrades on use, requires repair."
+  },
+  {
+    "name": "Dharok's platebody",
+    "id": 4718,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -30,
+      "attack_ranged": -10,
+      "defence_stab": 103,
+      "defence_slash": 101,
+      "defence_crush": 98,
+      "defence_magic": -4,
+      "defence_ranged": 101,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 250000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70
+    },
+    "set_effect": {
+      "name": "Dharok's",
+      "description": "For each hitpoint lost, melee damage increases by 1%."
+    },
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 103,
+          "effective_power": 103,
+          "set_bonus": 49,
+          "set_power": 152,
+          "efficiency": 0.00041
+        },
+        "slash": {
+          "base_power": 101,
+          "effective_power": 101,
+          "set_bonus": 49,
+          "set_power": 150,
+          "efficiency": 0.0004
+        },
+        "crush": {
+          "base_power": 98,
+          "effective_power": 98,
+          "set_bonus": 49,
+          "set_power": 147,
+          "efficiency": 0.0004
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 101,
+          "effective_power": 101,
+          "set_bonus": 0,
+          "set_power": 101,
+          "efficiency": 0.0004
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -4,
+          "effective_power": -4,
+          "set_bonus": 0,
+          "set_power": -4,
+          "efficiency": -2e-05
+        }
+      }
+    },
+    "notes": "Part of the Dharok's barrows set. Damage increases as health decreases when the full set is worn. Degrades on use, requires repair."
+  },
+  {
+    "name": "Guthan's platebody",
+    "id": 4728,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -30,
+      "attack_ranged": -10,
+      "defence_stab": 88,
+      "defence_slash": 85,
+      "defence_crush": 85,
+      "defence_magic": -4,
+      "defence_ranged": 88,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 250000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70
+    },
+    "set_effect": {
+      "name": "Guthan's",
+      "description": "When full set is worn has a chance to heal equal to the damage dealt."
+    },
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 88,
+          "effective_power": 88,
+          "set_bonus": 0,
+          "set_power": 88,
+          "efficiency": 0.00035
+        },
+        "slash": {
+          "base_power": 85,
+          "effective_power": 85,
+          "set_bonus": 0,
+          "set_power": 85,
+          "efficiency": 0.00034
+        },
+        "crush": {
+          "base_power": 85,
+          "effective_power": 85,
+          "set_bonus": 0,
+          "set_power": 85,
+          "efficiency": 0.00034
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 88,
+          "effective_power": 88,
+          "set_bonus": 0,
+          "set_power": 88,
+          "efficiency": 0.00035
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -4,
+          "effective_power": -4,
+          "set_bonus": 0,
+          "set_power": -4,
+          "efficiency": -2e-05
+        }
+      }
+    },
+    "notes": "Part of the Guthan's barrows set. Degrades on use, requires repair."
+  },
+  {
+    "name": "Torag's platebody",
+    "id": 4747,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -30,
+      "attack_ranged": -10,
+      "defence_stab": 88,
+      "defence_slash": 85,
+      "defence_crush": 85,
+      "defence_magic": -4,
+      "defence_ranged": 88,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 250000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70
+    },
+    "set_effect": {
+      "name": "Torag's",
+      "description": "When full set is worn and you are attacked, has a chance to reduce attacker's run energy by 20%."
+    },
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 88,
+          "effective_power": 88,
+          "set_bonus": 0,
+          "set_power": 88,
+          "efficiency": 0.00035
+        },
+        "slash": {
+          "base_power": 85,
+          "effective_power": 85,
+          "set_bonus": 0,
+          "set_power": 85,
+          "efficiency": 0.00034
+        },
+        "crush": {
+          "base_power": 85,
+          "effective_power": 85,
+          "set_bonus": 0,
+          "set_power": 85,
+          "efficiency": 0.00034
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 88,
+          "effective_power": 88,
+          "set_bonus": 0,
+          "set_power": 88,
+          "efficiency": 0.00035
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -4,
+          "effective_power": -4,
+          "set_bonus": 0,
+          "set_power": -4,
+          "efficiency": -2e-05
+        }
+      }
+    },
+    "notes": "Part of the Torag's barrows set. Degrades on use, requires repair."
+  },
+  {
+    "name": "Verac's brassard",
+    "id": 4755,
+    "slot": "body",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -15,
+      "attack_ranged": -7,
+      "defence_stab": 88,
+      "defence_slash": 85,
+      "defence_crush": 85,
+      "defence_magic": 0,
+      "defence_ranged": 88,
+      "strength": 0,
+      "prayer": 4,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 250000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70
+    },
+    "set_effect": {
+      "name": "Verac's",
+      "description": "When full set is worn has a chance to ignore the target's defence and prayer level."
+    },
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 88,
+          "effective_power": 88,
+          "set_bonus": 0,
+          "set_power": 88,
+          "efficiency": 0.00035
+        },
+        "slash": {
+          "base_power": 85,
+          "effective_power": 85,
+          "set_bonus": 0,
+          "set_power": 85,
+          "efficiency": 0.00034
+        },
+        "crush": {
+          "base_power": 85,
+          "effective_power": 85,
+          "set_bonus": 0,
+          "set_power": 85,
+          "efficiency": 0.00034
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 88,
+          "effective_power": 88,
+          "set_bonus": 0,
+          "set_power": 88,
+          "efficiency": 0.00035
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Part of the Verac's barrows set. Degrades on use, requires repair."
+  },
+  {
+    "name": "Black d'hide body",
+    "id": 2503,
+    "slot": "body",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -15,
+      "attack_ranged": 30,
+      "defence_stab": 35,
+      "defence_slash": 38,
+      "defence_crush": 40,
+      "defence_magic": 45,
+      "defence_ranged": 50,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 7800,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 70
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 35,
+          "effective_power": 35,
+          "set_bonus": 0,
+          "set_power": 35,
+          "efficiency": 0.0045
+        },
+        "slash": {
+          "base_power": 38,
+          "effective_power": 38,
+          "set_bonus": 0,
+          "set_power": 38,
+          "efficiency": 0.0049
+        },
+        "crush": {
+          "base_power": 40,
+          "effective_power": 40,
+          "set_bonus": 0,
+          "set_power": 40,
+          "efficiency": 0.0051
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 50,
+          "effective_power": 50,
+          "set_bonus": 0,
+          "set_power": 50,
+          "efficiency": 0.0064
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 45,
+          "effective_power": 45,
+          "set_bonus": 0,
+          "set_power": 45,
+          "efficiency": 0.0058
+        }
+      }
+    },
+    "notes": "High-level ranged body armour. Requires 70 Ranged to wear."
+  },
+  {
+    "name": "Red d'hide body",
+    "id": 2501,
+    "slot": "body",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -15,
+      "attack_ranged": 20,
+      "defence_stab": 35,
+      "defence_slash": 38,
+      "defence_crush": 40,
+      "defence_magic": 45,
+      "defence_ranged": 45,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 5850,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 60
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 35,
+          "effective_power": 35,
+          "set_bonus": 0,
+          "set_power": 35,
+          "efficiency": 0.006
+        },
+        "slash": {
+          "base_power": 38,
+          "effective_power": 38,
+          "set_bonus": 0,
+          "set_power": 38,
+          "efficiency": 0.0065
+        },
+        "crush": {
+          "base_power": 40,
+          "effective_power": 40,
+          "set_bonus": 0,
+          "set_power": 40,
+          "efficiency": 0.0068
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 45,
+          "effective_power": 45,
+          "set_bonus": 0,
+          "set_power": 45,
+          "efficiency": 0.0077
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 45,
+          "effective_power": 45,
+          "set_bonus": 0,
+          "set_power": 45,
+          "efficiency": 0.0077
+        }
+      }
+    },
+    "notes": "Ranged body armour."
+  },
+  {
+    "name": "Blue d'hide body",
+    "id": 2499,
+    "slot": "body",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -15,
+      "attack_ranged": 20,
+      "defence_stab": 35,
+      "defence_slash": 38,
+      "defence_crush": 40,
+      "defence_magic": 45,
+      "defence_ranged": 45,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 4500,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 60
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 35,
+          "effective_power": 35,
+          "set_bonus": 0,
+          "set_power": 35,
+          "efficiency": 0.0078
+        },
+        "slash": {
+          "base_power": 38,
+          "effective_power": 38,
+          "set_bonus": 0,
+          "set_power": 38,
+          "efficiency": 0.0084
+        },
+        "crush": {
+          "base_power": 40,
+          "effective_power": 40,
+          "set_bonus": 0,
+          "set_power": 40,
+          "efficiency": 0.0089
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 45,
+          "effective_power": 45,
+          "set_bonus": 0,
+          "set_power": 45,
+          "efficiency": 0.01
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 45,
+          "effective_power": 45,
+          "set_bonus": 0,
+          "set_power": 45,
+          "efficiency": 0.01
+        }
+      }
+    },
+    "notes": "Ranged body armour."
+  },
+  {
+    "name": "Green d'hide body",
+    "id": 1135,
+    "slot": "body",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -15,
+      "attack_ranged": 15,
+      "defence_stab": 25,
+      "defence_slash": 30,
+      "defence_crush": 30,
+      "defence_magic": 30,
+      "defence_ranged": 30,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 3000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 40
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 25,
+          "effective_power": 25,
+          "set_bonus": 0,
+          "set_power": 25,
+          "efficiency": 0.0083
+        },
+        "slash": {
+          "base_power": 30,
+          "effective_power": 30,
+          "set_bonus": 0,
+          "set_power": 30,
+          "efficiency": 0.01
+        },
+        "crush": {
+          "base_power": 30,
+          "effective_power": 30,
+          "set_bonus": 0,
+          "set_power": 30,
+          "efficiency": 0.01
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 30,
+          "effective_power": 30,
+          "set_bonus": 0,
+          "set_power": 30,
+          "efficiency": 0.01
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 30,
+          "effective_power": 30,
+          "set_bonus": 0,
+          "set_power": 30,
+          "efficiency": 0.01
+        }
+      }
+    },
+    "notes": "Ranged body armour."
+  },
+  {
+    "name": "Ahrim's robetop",
+    "id": 4712,
+    "slot": "body",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 30,
+      "attack_ranged": -6,
+      "defence_stab": 33,
+      "defence_slash": 30,
+      "defence_crush": 36,
+      "defence_magic": 30,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 80000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "magic": 70,
+      "defence": 70
+    },
+    "set_effect": {
+      "name": "Ahrim's",
+      "description": "When full set is worn has a chance to increase max hit by 30% but reduce accuracy by 20%"
+    },
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 33,
+          "effective_power": 33,
+          "set_bonus": 0,
+          "set_power": 33,
+          "efficiency": 0.00041
+        },
+        "slash": {
+          "base_power": 30,
+          "effective_power": 30,
+          "set_bonus": 0,
+          "set_power": 30,
+          "efficiency": 0.00037
+        },
+        "crush": {
+          "base_power": 36,
+          "effective_power": 36,
+          "set_bonus": 0,
+          "set_power": 36,
+          "efficiency": 0.00045
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 30,
+          "effective_power": 30,
+          "set_bonus": 0,
+          "set_power": 30,
+          "efficiency": 0.00037
+        }
+      }
+    },
+    "notes": "Part of the Ahrim's barrows set. Degrades on use, requires repair."
+  },
+  {
+    "name": "Mystic robe top",
+    "id": 4091,
+    "slot": "body",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 20,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 20,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 60000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "magic": 40,
+      "defence": 20
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 20,
+          "effective_power": 20,
+          "set_bonus": 0,
+          "set_power": 20,
+          "efficiency": 0.00033
+        }
+      }
+    },
+    "notes": "Provides a magic attack bonus."
+  },
+  {
+    "name": "Ghostly robe top",
+    "id": 21870,
+    "slot": "body",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 4,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 3,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [
+      "Desert Treasure I"
+    ],
+    "skill_requirements": {},
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Provides a prayer bonus. Part of the Ghostly robes set. Degrades when unequipped."
+  },
+  {
+    "name": "Ancestral robe top",
+    "id": 21021,
+    "slot": "body",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 35,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 35,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 2,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 75000000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "magic": 75,
+      "defence": 65
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 35,
+          "effective_power": 35,
+          "set_bonus": 0,
+          "set_power": 35,
+          "efficiency": 4.7e-07
+        }
+      }
+    },
+    "notes": "High-level magic robe top, provides magic attack and magic damage bonus. Obtained from the Chambers of Xeric."
+  },
+  {
+    "name": "Dagon'hai robe top",
+    "id": 24413,
+    "slot": "body",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 10,
+      "attack_ranged": -10,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 15,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 2,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 100000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "magic": 70,
+      "defence": 40
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 15,
+          "effective_power": 15,
+          "set_bonus": 0,
+          "set_power": 15,
+          "efficiency": 0.00015
+        }
+      }
+    },
+    "notes": "Provides magic attack and magic damage bonus. Dropped by monsters in the Wilderness."
+  }
+]

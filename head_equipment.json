@@ -1,0 +1,1776 @@
+[
+  {
+    "name": "Bronze full helm",
+    "id": 1155,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -6,
+      "attack_ranged": -2,
+      "defence_stab": 4,
+      "defence_slash": 5,
+      "defence_crush": 3,
+      "defence_magic": -1,
+      "defence_ranged": 4,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 1
+    },
+    "set_effect": null,
+    "notes": "Basic bronze helmet.",
+    "members": false
+  },
+  {
+    "name": "Iron full helm",
+    "id": 1153,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -6,
+      "attack_ranged": -2,
+      "defence_stab": 6,
+      "defence_slash": 7,
+      "defence_crush": 5,
+      "defence_magic": -1,
+      "defence_ranged": 6,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 1
+    },
+    "set_effect": null,
+    "notes": "Basic iron helmet.",
+    "members": false
+  },
+  {
+    "name": "Coif",
+    "id": 1169,
+    "slot": "head",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -1,
+      "attack_ranged": 2,
+      "defence_stab": 1,
+      "defence_slash": 2,
+      "defence_crush": 2,
+      "defence_magic": 1,
+      "defence_ranged": 2,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 20
+    },
+    "set_effect": null,
+    "notes": "Basic ranged headgear.",
+    "members": false
+  },
+  {
+    "name": "Steel full helm",
+    "id": 1157,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -6,
+      "attack_ranged": -2,
+      "defence_stab": 8,
+      "defence_slash": 9,
+      "defence_crush": 7,
+      "defence_magic": -1,
+      "defence_ranged": 8,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 5
+    },
+    "set_effect": null,
+    "notes": "Upgradeable to a Steel full helm(g) when painted at the Castle Wars armour stand, adding 1 defence bonus.",
+    "members": false
+  },
+  {
+    "name": "Mithril full helm",
+    "id": 1159,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -6,
+      "attack_ranged": -2,
+      "defence_stab": 11,
+      "defence_slash": 13,
+      "defence_crush": 9,
+      "defence_magic": -1,
+      "defence_ranged": 11,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 20
+    },
+    "set_effect": null,
+    "notes": "Upgradeable to a Mithril full helm(g) when painted at the Castle Wars armour stand, adding 1 defence bonus.",
+    "members": false
+  },
+  {
+    "name": "Adamant full helm",
+    "id": 1161,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -6,
+      "attack_ranged": -2,
+      "defence_stab": 16,
+      "defence_slash": 18,
+      "defence_crush": 13,
+      "defence_magic": -1,
+      "defence_ranged": 16,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 30
+    },
+    "set_effect": null,
+    "notes": "Upgradeable to an Adamant full helm(g) when painted at the Castle Wars armour stand, adding 1 defence bonus.",
+    "members": false
+  },
+  {
+    "name": "Rune full helm",
+    "id": 1163,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -6,
+      "attack_ranged": -2,
+      "defence_stab": 22,
+      "defence_slash": 24,
+      "defence_crush": 18,
+      "defence_magic": -1,
+      "defence_ranged": 22,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 40
+    },
+    "set_effect": null,
+    "notes": "Upgradeable to a Rune full helm(g) when painted at the Castle Wars armour stand, adding 1 defence bonus.",
+    "members": false
+  },
+  {
+    "name": "Spined helm",
+    "id": 7386,
+    "slot": "head",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -5,
+      "attack_ranged": 5,
+      "defence_stab": 8,
+      "defence_slash": 5,
+      "defence_crush": 7,
+      "defence_magic": 5,
+      "defence_ranged": 8,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 40,
+      "ranged": 40,
+      "slayer": 45
+    },
+    "set_effect": null,
+    "notes": "Part of the Spined armour set. Requires completion of The Fremennik Isles to wear.",
+    "members": false
+  },
+  {
+    "name": "Rock-shell helm",
+    "id": 7390,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -5,
+      "attack_ranged": -2,
+      "defence_stab": 17,
+      "defence_slash": 18,
+      "defence_crush": 16,
+      "defence_magic": 0,
+      "defence_ranged": 14,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 40,
+      "slayer": 45
+    },
+    "set_effect": null,
+    "notes": "Part of the Rock-shell armour set. Requires completion of The Fremennik Isles to wear.",
+    "members": false
+  },
+  {
+    "name": "Initiate helm",
+    "id": 5574,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -5,
+      "attack_ranged": -5,
+      "defence_stab": 13,
+      "defence_slash": 14,
+      "defence_crush": 15,
+      "defence_magic": -1,
+      "defence_ranged": 13,
+      "strength": 0,
+      "prayer": 3,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [
+      "Recruitment Drive"
+    ],
+    "skill_requirements": {
+      "defence": 20,
+      "prayer": 10
+    },
+    "set_effect": null,
+    "notes": "Provides a prayer bonus. Requires completion of Recruitment Drive to wear.",
+    "members": false
+  },
+  {
+    "name": "Void melee helm",
+    "id": 11665,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "attack": 42,
+      "strength": 42,
+      "defence": 42,
+      "hitpoints": 42,
+      "ranged": 42,
+      "magic": 42,
+      "prayer": 22
+    },
+    "set_effect": {
+      "name": "Void Knight",
+      "description": "With the full set, provides a 10% melee accuracy and damage bonus."
+    },
+    "notes": "Part of the Void Knight set. Provides a melee damage and accuracy bonus when the full set is worn.",
+    "members": false
+  },
+  {
+    "name": "Void mage helm",
+    "id": 11663,
+    "slot": "head",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "attack": 42,
+      "strength": 42,
+      "defence": 42,
+      "hitpoints": 42,
+      "ranged": 42,
+      "magic": 42,
+      "prayer": 22
+    },
+    "set_effect": {
+      "name": "Void Knight",
+      "description": "With the full set, provides a 30% magic damage bonus"
+    },
+    "notes": "Part of the Void Knight set. Provides a magic damage bonus when the full set is worn.",
+    "members": false
+  },
+  {
+    "name": "Void ranger helm",
+    "id": 11664,
+    "slot": "head",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "attack": 42,
+      "strength": 42,
+      "defence": 42,
+      "hitpoints": 42,
+      "ranged": 42,
+      "magic": 42,
+      "prayer": 22
+    },
+    "set_effect": {
+      "name": "Void Knight",
+      "description": "With the full set, provides a 10% ranged accuracy and damage bonus."
+    },
+    "notes": "Part of the Void Knight set. Provides a ranged damage and accuracy bonus when the full set is worn.",
+    "members": false
+  },
+  {
+    "name": "Berserker helm",
+    "id": 3751,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -5,
+      "attack_ranged": -5,
+      "defence_stab": 32,
+      "defence_slash": 30,
+      "defence_crush": 34,
+      "defence_magic": 0,
+      "defence_ranged": 30,
+      "strength": 6,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [
+      "The Fremennik Trials"
+    ],
+    "skill_requirements": {
+      "defence": 45
+    },
+    "set_effect": null,
+    "notes": "Provides a strength bonus. Popular melee helmet.",
+    "members": false
+  },
+  {
+    "name": "Warrior helm",
+    "id": 3755,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 11,
+      "defence_slash": 9,
+      "defence_crush": 13,
+      "defence_magic": 4,
+      "defence_ranged": 4,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [
+      "The Fremennik Trials"
+    ],
+    "skill_requirements": {
+      "defence": 45
+    },
+    "set_effect": null,
+    "notes": "Ranged Attack bonus of +3",
+    "members": false
+  },
+  {
+    "name": "Archer helm",
+    "id": 3753,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -5,
+      "attack_ranged": 6,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 8,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [
+      "The Fremennik Trials"
+    ],
+    "skill_requirements": {
+      "defence": 45
+    },
+    "set_effect": null,
+    "notes": "Ranged attack and defence bonus",
+    "members": false
+  },
+  {
+    "name": "Farseer helm",
+    "id": 3749,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 6,
+      "attack_ranged": -5,
+      "defence_stab": 4,
+      "defence_slash": 4,
+      "defence_crush": 7,
+      "defence_magic": 6,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [
+      "The Fremennik Trials"
+    ],
+    "skill_requirements": {
+      "defence": 45
+    },
+    "set_effect": null,
+    "notes": "Increases magic attack and defence",
+    "members": false
+  },
+  {
+    "name": "Dharok's helm",
+    "id": 4716,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -3,
+      "attack_ranged": -1,
+      "defence_stab": 35,
+      "defence_slash": 33,
+      "defence_crush": 38,
+      "defence_magic": 0,
+      "defence_ranged": 35,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70
+    },
+    "set_effect": {
+      "name": "Dharok's",
+      "description": "For each hitpoint lost, melee damage increases by 1%."
+    },
+    "notes": "Part of the Dharok's barrows set. Damage increases as health decreases when the full set is worn.",
+    "members": false
+  },
+  {
+    "name": "Guthan's helm",
+    "id": 4724,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -6,
+      "attack_ranged": -2,
+      "defence_stab": 35,
+      "defence_slash": 33,
+      "defence_crush": 38,
+      "defence_magic": 0,
+      "defence_ranged": 35,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70
+    },
+    "set_effect": {
+      "name": "Guthan's",
+      "description": "When full set is worn has a chance to heal equal to the damage dealt."
+    },
+    "notes": "Part of the Guthan's barrows set. Degrades on use, requires repair.",
+    "members": false
+  },
+  {
+    "name": "Karil's coif",
+    "id": 4732,
+    "slot": "head",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -1,
+      "attack_ranged": 11,
+      "defence_stab": 4,
+      "defence_slash": 7,
+      "defence_crush": 9,
+      "defence_magic": 6,
+      "defence_ranged": 9,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70,
+      "ranged": 70
+    },
+    "set_effect": {
+      "name": "Karil's",
+      "description": "When full set is worn has a chance for special attack to deal double damage"
+    },
+    "notes": "Part of the Karil's barrows set. Degrades on use, requires repair.",
+    "members": false
+  },
+  {
+    "name": "Torag's helm",
+    "id": 4745,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -6,
+      "attack_ranged": -2,
+      "defence_stab": 35,
+      "defence_slash": 33,
+      "defence_crush": 38,
+      "defence_magic": 0,
+      "defence_ranged": 35,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70
+    },
+    "set_effect": {
+      "name": "Torag's",
+      "description": "When full set is worn and you are attacked, has a chance to reduce attacker's run energy by 20%."
+    },
+    "notes": "Part of the Torag's barrows set. Degrades on use, requires repair.",
+    "members": false
+  },
+  {
+    "name": "Verac's helm",
+    "id": 4753,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -6,
+      "attack_ranged": -2,
+      "defence_stab": 35,
+      "defence_slash": 33,
+      "defence_crush": 38,
+      "defence_magic": 0,
+      "defence_ranged": 35,
+      "strength": 0,
+      "prayer": 4,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70
+    },
+    "set_effect": {
+      "name": "Verac's",
+      "description": "When full set is worn has a chance to ignore the target's defence and prayer level."
+    },
+    "notes": "Part of the Verac's barrows set. Degrades on use, requires repair.",
+    "members": false
+  },
+  {
+    "name": "Black mask",
+    "id": 8901,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 12,
+      "defence_slash": 14,
+      "defence_crush": 8,
+      "defence_magic": 10,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 10
+    },
+    "set_effect": null,
+    "notes": "Provides a 15% melee attack and damage bonus against your current slayer task. Can be upgraded to a Slayer Helmet when combined with a Slayer Helmet.",
+    "members": false
+  },
+  {
+    "name": "Ahrim's hood",
+    "id": 4708,
+    "slot": "head",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 6,
+      "attack_ranged": -6,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 6,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "magic": 70,
+      "defence": 70
+    },
+    "set_effect": {
+      "name": "Ahrim's",
+      "description": "When full set is worn has a chance to increase max hit by 30% but reduce accuracy by 20%"
+    },
+    "notes": "Part of the Ahrim's barrows set. Degrades on use, requires repair.",
+    "members": false
+  },
+  {
+    "name": "Black mask (i)",
+    "id": 11865,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 3,
+      "attack_ranged": 3,
+      "defence_stab": 12,
+      "defence_slash": 14,
+      "defence_crush": 8,
+      "defence_magic": 10,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 10
+    },
+    "set_effect": null,
+    "notes": "Provides a 15% melee, 15% Ranged Attack/Strength and magic attack/damage bonus against your current slayer task. Can be upgraded to a Slayer Helmet when combined with a Slayer Helmet.",
+    "members": false
+  },
+  {
+    "name": "Dragon full helm",
+    "id": 14479,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -5,
+      "attack_ranged": -2,
+      "defence_stab": 56,
+      "defence_slash": 58,
+      "defence_crush": 54,
+      "defence_magic": -1,
+      "defence_ranged": 56,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 60
+    },
+    "set_effect": null,
+    "notes": "High-level melee helmet.",
+    "members": false
+  },
+  {
+    "name": "Slayer helmet",
+    "id": 11864,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 3,
+      "attack_ranged": 3,
+      "defence_stab": 30,
+      "defence_slash": 32,
+      "defence_crush": 27,
+      "defence_magic": 10,
+      "defence_ranged": 30,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 10
+    },
+    "set_effect": null,
+    "notes": "Provides a 15% melee/ranged/magic attack and damage bonus against your current slayer task. Requires Black Mask, Nose peg, Spiny helmet, Facemask and Earmuffs to create.",
+    "members": false
+  },
+  {
+    "name": "Slayer helmet (i)",
+    "id": 11865,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 3,
+      "attack_ranged": 3,
+      "defence_stab": 30,
+      "defence_slash": 32,
+      "defence_crush": 27,
+      "defence_magic": 10,
+      "defence_ranged": 30,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 10
+    },
+    "set_effect": null,
+    "notes": "Provides a 15% melee, 15% Ranged Attack/Strength and magic attack/damage bonus against your current slayer task. Requires Black Mask, Nose peg, Spiny helmet, Facemask and Earmuffs to create.",
+    "members": false
+  },
+  {
+    "name": "Armadyl helmet",
+    "id": 11826,
+    "slot": "head",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -5,
+      "attack_ranged": 10,
+      "defence_stab": 6,
+      "defence_slash": 8,
+      "defence_crush": 10,
+      "defence_magic": 10,
+      "defence_ranged": 8,
+      "strength": 0,
+      "prayer": 1,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 70,
+      "defence": 70
+    },
+    "set_effect": null,
+    "notes": "High-level ranged headgear. Part of the Armadyl armour set.",
+    "members": false
+  },
+  {
+    "name": "Bandos helmet",
+    "id": 31277,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -6,
+      "attack_ranged": -2,
+      "defence_stab": 42,
+      "defence_slash": 44,
+      "defence_crush": 40,
+      "defence_magic": -1,
+      "defence_ranged": 42,
+      "strength": 0,
+      "prayer": 1,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 65
+    },
+    "set_effect": null,
+    "notes": "High-level melee helmet with prayer bonus. Dropped in the God Wars Dungeon.",
+    "members": false
+  },
+  {
+    "name": "Crystal helm",
+    "id": 23747,
+    "slot": "head",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -10,
+      "attack_ranged": 8,
+      "defence_stab": 12,
+      "defence_slash": 14,
+      "defence_crush": 10,
+      "defence_magic": 15,
+      "defence_ranged": 13,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": true,
+      "items": [
+        {
+          "item_name": "Crystal shard",
+          "item_id": 23885,
+          "quantity": 1,
+          "cost_per_item": 3000,
+          "max_charges": 20000
+        }
+      ]
+    },
+    "quest_requirements": [
+      "Song of the Elves"
+    ],
+    "skill_requirements": {
+      "defence": 70,
+      "ranged": 50,
+      "construction": 50
+    },
+    "set_effect": {
+      "name": "Crystal",
+      "description": "When full set is worn, increases damage and accuracy of crystal weapons by 30%."
+    },
+    "notes": "Part of the crystal armour set. Requires crystal shards to charge. Degrades on use",
+    "members": false
+  },
+  {
+    "name": "Ancestral hat",
+    "id": 21018,
+    "slot": "head",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 6,
+      "attack_ranged": -6,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 6,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 2,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "magic": 75,
+      "defence": 65
+    },
+    "set_effect": null,
+    "notes": "High-level magic headgear, provides magic damage bonus. Obtained from the Chambers of Xeric.",
+    "members": false
+  },
+  {
+    "name": "Serpentine helm",
+    "id": 12931,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -5,
+      "attack_ranged": -5,
+      "defence_stab": 55,
+      "defence_slash": 58,
+      "defence_crush": 57,
+      "defence_magic": 0,
+      "defence_ranged": 55,
+      "strength": 5,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": true,
+      "items": [
+        {
+          "item_name": "Zulrah's scales",
+          "item_id": 12934,
+          "quantity": 1,
+          "cost_per_item": 150,
+          "max_charges": 20000
+        }
+      ]
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 75
+    },
+    "set_effect": null,
+    "notes": "High-level melee helmet with strength bonus. Inflicts venom on attackers. Requires Zulrah's Scales to charge.",
+    "members": false
+  },
+  {
+    "name": "Neitiznot faceguard",
+    "id": 22975,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 46,
+      "defence_slash": 44,
+      "defence_crush": 48,
+      "defence_magic": 0,
+      "defence_ranged": 46,
+      "strength": 6,
+      "prayer": 3,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [
+      "The Fremennik Exiles"
+    ],
+    "skill_requirements": {
+      "defence": 70
+    },
+    "set_effect": null,
+    "notes": "Upgraded version of Helm of Neitiznot. Provides melee strength and prayer bonus.",
+    "members": false
+  },
+  {
+    "name": "Helm of neitiznot",
+    "id": 10828,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 30,
+      "defence_slash": 28,
+      "defence_crush": 33,
+      "defence_magic": 3,
+      "defence_ranged": 30,
+      "strength": 3,
+      "prayer": 3,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [
+      "The Fremennik Isles"
+    ],
+    "skill_requirements": {
+      "defence": 55
+    },
+    "set_effect": null,
+    "notes": "Provides a melee strength and prayer bonus.",
+    "members": false
+  },
+  {
+    "name": "Dwarven helmet",
+    "id": 9999,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -6,
+      "attack_ranged": -2,
+      "defence_stab": 9,
+      "defence_slash": 10,
+      "defence_crush": 8,
+      "defence_magic": -1,
+      "defence_ranged": 9,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [
+      "Grim Tales"
+    ],
+    "skill_requirements": {
+      "defence": 50
+    },
+    "set_effect": null,
+    "notes": "Has a small chance to reduce damage by 10%. Can be purchased from the Giants' Foundry Reward Shop.",
+    "members": false
+  },
+  {
+    "name": "Justiciar faceguard",
+    "id": 22322,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": -5,
+      "attack_slash": -5,
+      "attack_crush": -5,
+      "attack_magic": -5,
+      "attack_ranged": -5,
+      "defence_stab": 65,
+      "defence_slash": 63,
+      "defence_crush": 70,
+      "defence_magic": -5,
+      "defence_ranged": 63,
+      "strength": 0,
+      "prayer": 2,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 75
+    },
+    "set_effect": {
+      "name": "Justiciar",
+      "description": "When the full set is worn set effect reduces all damage taken."
+    },
+    "notes": "High defence melee headgear, obtained from the Theatre of Blood.",
+    "members": false
+  },
+  {
+    "name": "Dragon med helm",
+    "id": 1149,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -5,
+      "attack_ranged": -2,
+      "defence_stab": 25,
+      "defence_slash": 27,
+      "defence_crush": 21,
+      "defence_magic": -1,
+      "defence_ranged": 25,
+      "strength": 6,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 60
+    },
+    "set_effect": null,
+    "notes": "Provides a strength bonus.",
+    "members": false
+  },
+  {
+    "name": "Tzhaar-ket-om",
+    "id": 6525,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -5,
+      "attack_ranged": -5,
+      "defence_stab": 52,
+      "defence_slash": 60,
+      "defence_crush": 57,
+      "defence_magic": 0,
+      "defence_ranged": 54,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 60
+    },
+    "set_effect": null,
+    "notes": "High defence stats. Can be obtained by trading Tokkul in the TzHaar Fight Cave.",
+    "members": false
+  },
+  {
+    "name": "Inquisitor's great helm",
+    "id": 24419,
+    "slot": "head",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 10,
+      "attack_magic": -1,
+      "attack_ranged": -1,
+      "defence_stab": 12,
+      "defence_slash": 14,
+      "defence_crush": 12,
+      "defence_magic": -1,
+      "defence_ranged": 13,
+      "strength": 8,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 30,
+      "strength": 70
+    },
+    "set_effect": {
+      "name": "Inquisitor's",
+      "description": "With the full set, provides a 2.5% crush accuracy and damage bonus."
+    },
+    "notes": "Part of the Inquisitor's set. Provides a crush accuracy and damage bonus when the full set is worn. Obtained from The Nightmare of Ashihama.",
+    "members": false
+  },
+  {
+    "name": "Tormented bracelet",
+    "id": 19537,
+    "slot": "head",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 10,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 2,
+      "magic_damage": 5,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "magic": 75
+    },
+    "set_effect": null,
+    "notes": "Provides magic attack, magic damage and prayer bonus. Obtained from the Tombs of Amascut.",
+    "members": false
+  },
+  {
+    "name": "Occult necklace",
+    "id": 12002,
+    "slot": "head",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 12,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 2,
+      "magic_damage": 10,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "magic": 70
+    },
+    "set_effect": null,
+    "notes": "Provides magic attack and magic damage bonus. Upgrade to the Occult necklace (or) when combined with an Occult ornament kit.",
+    "members": false
+  },
+  {
+    "name": "Robin hood hat",
+    "id": 2581,
+    "slot": "head",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -5,
+      "attack_ranged": 8,
+      "defence_stab": 4,
+      "defence_slash": 6,
+      "defence_crush": 8,
+      "defence_magic": 4,
+      "defence_ranged": 6,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 40
+    },
+    "set_effect": null,
+    "notes": "Provides a ranged attack and defence bonus. Obtained from completing hard clue scrolls.",
+    "members": false
+  },
+  {
+    "name": "Snakeskin bandana",
+    "id": 6326,
+    "slot": "head",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -1,
+      "attack_ranged": 1,
+      "defence_stab": 1,
+      "defence_slash": 2,
+      "defence_crush": 2,
+      "defence_magic": 1,
+      "defence_ranged": 2,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 30,
+      "defence": 30
+    },
+    "set_effect": null,
+    "notes": "Basic ranged headgear. Made from snakeskin.",
+    "members": false
+  },
+  {
+    "name": "Dragon hunter coif",
+    "id": 25276,
+    "slot": "head",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -1,
+      "attack_ranged": 7,
+      "defence_stab": 4,
+      "defence_slash": 5,
+      "defence_crush": 6,
+      "defence_magic": 5,
+      "defence_ranged": 6,
+      "strength": 0,
+      "prayer": 1,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 20
+    },
+    "set_effect": null,
+    "notes": "Ranged headgear with a prayer bonus.",
+    "members": false
+  },
+  {
+    "name": "Armadyl coif",
+    "id": 26695,
+    "slot": "head",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -1,
+      "attack_ranged": 4,
+      "defence_stab": 2,
+      "defence_slash": 3,
+      "defence_crush": 3,
+      "defence_magic": 3,
+      "defence_ranged": 4,
+      "strength": 0,
+      "prayer": 1,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 40
+    },
+    "set_effect": null,
+    "notes": "Ranged headgear with a prayer bonus. Obtained from completing hard clue scrolls.",
+    "members": false
+  },
+  {
+    "name": "Dagon'hai hat",
+    "id": 24417,
+    "slot": "head",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 10,
+      "attack_ranged": -6,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 10,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 2,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "magic": 70,
+      "defence": 40
+    },
+    "set_effect": null,
+    "notes": "Provides magic attack and magic damage bonus. Dropped by monsters in the Wilderness.",
+    "members": false
+  },
+  {
+    "name": "Infinity hat",
+    "id": 6918,
+    "slot": "head",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 6,
+      "attack_ranged": -6,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 6,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "magic": 50,
+      "defence": 25
+    },
+    "set_effect": {
+      "name": "Infinity",
+      "description": "When full set is worn provides 2% magic damage increase and 5% reduction in prayer drain"
+    },
+    "notes": "Part of the Infinity robes set. Obtained from the Mage Training Arena.",
+    "members": false
+  },
+  {
+    "name": "Third-age mage hat",
+    "id": 10346,
+    "slot": "head",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 6,
+      "attack_ranged": -6,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 6,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "magic": 65,
+      "defence": 30
+    },
+    "set_effect": null,
+    "notes": "High-level magic headgear. Obtained from elite clue scrolls.",
+    "members": false
+  }
+]

@@ -1,0 +1,683 @@
+[
+  {
+    "name": "Amulet of accuracy",
+    "id": 1704,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 4,
+      "attack_slash": 4,
+      "attack_crush": 4,
+      "attack_magic": 4,
+      "attack_ranged": 4,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Provides a small accuracy bonus to all attack styles.",
+    "members": false
+  },
+  {
+    "name": "Amulet of power",
+    "id": 1731,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 6,
+      "attack_slash": 6,
+      "attack_crush": 6,
+      "attack_magic": 6,
+      "attack_ranged": 6,
+      "defence_stab": 6,
+      "defence_slash": 6,
+      "defence_crush": 6,
+      "defence_magic": 6,
+      "defence_ranged": 6,
+      "strength": 6,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Provides a balanced bonus to all attack and defence styles.",
+    "members": false
+  },
+  {
+    "name": "Amulet of glory",
+    "id": 1712,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 10,
+      "attack_slash": 10,
+      "attack_crush": 10,
+      "attack_magic": 10,
+      "attack_ranged": 10,
+      "defence_stab": 3,
+      "defence_slash": 3,
+      "defence_crush": 3,
+      "defence_magic": 3,
+      "defence_ranged": 3,
+      "strength": 6,
+      "prayer": 3,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": true,
+      "items": [
+        {
+          "item_name": "Amulet of glory",
+          "item_id": 1712,
+          "quantity": 1,
+          "cost_per_item": 17000,
+          "max_charges": 4
+        }
+      ]
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Provides a good all-around attack bonus. Can be charged to provide teleports.",
+    "members": false
+  },
+  {
+    "name": "Amulet of glory (t)",
+    "id": 10362,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 10,
+      "attack_slash": 10,
+      "attack_crush": 10,
+      "attack_magic": 10,
+      "attack_ranged": 10,
+      "defence_stab": 3,
+      "defence_slash": 3,
+      "defence_crush": 3,
+      "defence_magic": 3,
+      "defence_ranged": 3,
+      "strength": 6,
+      "prayer": 3,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Provides a good all-around attack bonus. Can be charged to provide teleports.",
+    "members": false
+  },
+  {
+    "name": "Amulet of glory (t6)",
+    "id": 19707,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 10,
+      "attack_slash": 10,
+      "attack_crush": 10,
+      "attack_magic": 10,
+      "attack_ranged": 10,
+      "defence_stab": 3,
+      "defence_slash": 3,
+      "defence_crush": 3,
+      "defence_magic": 3,
+      "defence_ranged": 3,
+      "strength": 6,
+      "prayer": 3,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": true,
+      "items": [
+        {
+          "item_name": "Amulet of glory",
+          "item_id": 1712,
+          "quantity": 1,
+          "cost_per_item": 17000,
+          "max_charges": 4
+        }
+      ]
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Provides a good all-around attack bonus. Can be charged to provide teleports.",
+    "members": false
+  },
+  {
+    "name": "Amulet of glory (eternal)",
+    "id": 19707,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 10,
+      "attack_slash": 10,
+      "attack_crush": 10,
+      "attack_magic": 10,
+      "attack_ranged": 10,
+      "defence_stab": 3,
+      "defence_slash": 3,
+      "defence_crush": 3,
+      "defence_magic": 3,
+      "defence_ranged": 3,
+      "strength": 6,
+      "prayer": 3,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": true,
+      "items": [
+        {
+          "item_name": "Amulet of glory",
+          "item_id": 1712,
+          "quantity": 1,
+          "cost_per_item": 17000,
+          "max_charges": 4
+        }
+      ]
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Provides a good all-around attack bonus. Can be charged to provide teleports.",
+    "members": false
+  },
+  {
+    "name": "Strength amulet",
+    "id": 1725,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 10,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Provides a strength bonus.",
+    "members": false
+  },
+  {
+    "name": "Amulet of magic",
+    "id": 1727,
+    "slot": "neck",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 10,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Provides a magic attack bonus.",
+    "members": false
+  },
+  {
+    "name": "Amulet of defence",
+    "id": 1729,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 7,
+      "defence_slash": 7,
+      "defence_crush": 7,
+      "defence_magic": 7,
+      "defence_ranged": 7,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Provides a defence bonus.",
+    "members": false
+  },
+  {
+    "name": "Amulet of the damned",
+    "id": 12851,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 3,
+      "defence_slash": 3,
+      "defence_crush": 3,
+      "defence_magic": 3,
+      "defence_ranged": 3,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Provides a small defence bonus. Degrades on use, requires repair. Enhances the set effects of Barrows equipment when worn.",
+    "members": false
+  },
+  {
+    "name": "Occult necklace",
+    "id": 12002,
+    "slot": "neck",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 12,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 2,
+      "magic_damage": 10,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "magic": 70
+    },
+    "set_effect": null,
+    "notes": "Provides magic attack and magic damage bonus. Upgrade to the Occult necklace (or) when combined with an Occult ornament kit.",
+    "members": false
+  },
+  {
+    "name": "Occult necklace (or)",
+    "id": 27227,
+    "slot": "neck",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 12,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 2,
+      "magic_damage": 10,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "magic": 70
+    },
+    "set_effect": null,
+    "notes": "Provides magic attack and magic damage bonus. Upgrade to the Occult necklace (or) when combined with an Occult ornament kit.",
+    "members": false
+  },
+  {
+    "name": "Amulet of fury",
+    "id": 6585,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 10,
+      "attack_slash": 10,
+      "attack_crush": 10,
+      "attack_magic": 10,
+      "attack_ranged": 10,
+      "defence_stab": 15,
+      "defence_slash": 15,
+      "defence_crush": 15,
+      "defence_magic": 15,
+      "defence_ranged": 15,
+      "strength": 8,
+      "prayer": 5,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Provides good all-around attack and defence bonuses, along with strength and prayer bonuses.",
+    "members": false
+  },
+  {
+    "name": "Amulet of fury (or)",
+    "id": 19553,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 10,
+      "attack_slash": 10,
+      "attack_crush": 10,
+      "attack_magic": 10,
+      "attack_ranged": 10,
+      "defence_stab": 15,
+      "defence_slash": 15,
+      "defence_crush": 15,
+      "defence_magic": 15,
+      "defence_ranged": 15,
+      "strength": 8,
+      "prayer": 5,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Provides good all-around attack and defence bonuses, along with strength and prayer bonuses.",
+    "members": false
+  },
+  {
+    "name": "Salve amulet",
+    "id": 4081,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 3,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [
+      "Tarn's Lair"
+    ],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Increases attack and strength against undead monsters by 15% when using melee.",
+    "members": false
+  },
+  {
+    "name": "Salve amulet (e)",
+    "id": 10588,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 3,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [
+      "Tarn's Lair"
+    ],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Increases attack and strength against undead monsters by 20% when using melee.",
+    "members": false
+  },
+  {
+    "name": "Salve amulet(i)",
+    "id": 12002,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 3,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [
+      "Tarn's Lair"
+    ],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Increases attack and strength against undead monsters by 15% when using melee, ranged and magic.",
+    "members": false
+  },
+  {
+    "name": "Salve amulet(ei)",
+    "id": 12018,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 3,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [
+      "Tarn's Lair"
+    ],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Increases attack and strength against undead monsters by 20% when using melee, ranged and magic.",
+    "members": false
+  },
+  {
+    "name": "Berserker necklace",
+    "id": 11128,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 7,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "notes": "Increases the maximum damage of Tzhaar-ket-om and Tzhaar-ket-om (t) by 20%.",
+    "members": false
+  },
+  {
+    "name": "Amulet of torture",
+    "id": 19536,
+    "slot": "neck",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 15,
+      "attack_slash": 15,
+      "attack_crush": 15,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 10,
+      "prayer": 2,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "hitpoints": 75
+    },
+    "set_effect": null,
+    "notes": "Provides a large melee attack and strength bonus. Obtained from the Tombs of Amascut.",
+    "members": false
+  }
+]

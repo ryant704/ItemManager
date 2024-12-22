@@ -1,0 +1,1276 @@
+[
+  {
+    "name": "Bronze boots",
+    "id": 4119,
+    "slot": "feet",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -3,
+      "attack_ranged": -1,
+      "defence_stab": 2,
+      "defence_slash": 3,
+      "defence_crush": 4,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 96,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 1
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0.8,
+          "effective_power": 0.8,
+          "set_bonus": 0,
+          "set_power": 0.8,
+          "efficiency": 0.0083
+        },
+        "slash": {
+          "base_power": 1.2,
+          "effective_power": 1.2,
+          "set_bonus": 0,
+          "set_power": 1.2,
+          "efficiency": 0.0125
+        },
+        "crush": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0.0167
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Basic melee boots."
+  },
+  {
+    "name": "Iron boots",
+    "id": 4121,
+    "slot": "feet",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -3,
+      "attack_ranged": -1,
+      "defence_stab": 3,
+      "defence_slash": 3,
+      "defence_crush": 4,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 210,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 1
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 1.2,
+          "effective_power": 1.2,
+          "set_bonus": 0,
+          "set_power": 1.2,
+          "efficiency": 0.0057
+        },
+        "slash": {
+          "base_power": 1.2,
+          "effective_power": 1.2,
+          "set_bonus": 0,
+          "set_power": 1.2,
+          "efficiency": 0.0057
+        },
+        "crush": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0.0076
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Basic melee boots."
+  },
+  {
+    "name": "Steel boots",
+    "id": 4123,
+    "slot": "feet",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -3,
+      "attack_ranged": -1,
+      "defence_stab": 4,
+      "defence_slash": 4,
+      "defence_crush": 5,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 300,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 5
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0.0053
+        },
+        "slash": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0.0053
+        },
+        "crush": {
+          "base_power": 2,
+          "effective_power": 2,
+          "set_bonus": 0,
+          "set_power": 2,
+          "efficiency": 0.0067
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Upgradeable to Steel boots (g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Mithril boots",
+    "id": 4125,
+    "slot": "feet",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -3,
+      "attack_ranged": -1,
+      "defence_stab": 6,
+      "defence_slash": 6,
+      "defence_crush": 7,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 900,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 20
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0.0027
+        },
+        "slash": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0.0027
+        },
+        "crush": {
+          "base_power": 2.8,
+          "effective_power": 2.8,
+          "set_bonus": 0,
+          "set_power": 2.8,
+          "efficiency": 0.0031
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Upgradeable to Mithril boots (g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Adamant boots",
+    "id": 4127,
+    "slot": "feet",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -3,
+      "attack_ranged": -1,
+      "defence_stab": 8,
+      "defence_slash": 8,
+      "defence_crush": 9,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1920,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 30
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 3.2,
+          "effective_power": 3.2,
+          "set_bonus": 0,
+          "set_power": 3.2,
+          "efficiency": 0.0017
+        },
+        "slash": {
+          "base_power": 3.2,
+          "effective_power": 3.2,
+          "set_bonus": 0,
+          "set_power": 3.2,
+          "efficiency": 0.0017
+        },
+        "crush": {
+          "base_power": 3.6,
+          "effective_power": 3.6,
+          "set_bonus": 0,
+          "set_power": 3.6,
+          "efficiency": 0.0019
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Upgradeable to Adamant boots (g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Rune boots",
+    "id": 4129,
+    "slot": "feet",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -3,
+      "attack_ranged": -1,
+      "defence_stab": 12,
+      "defence_slash": 12,
+      "defence_crush": 13,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 12500,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 40
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 4.8,
+          "effective_power": 4.8,
+          "set_bonus": 0,
+          "set_power": 4.8,
+          "efficiency": 0.00038
+        },
+        "slash": {
+          "base_power": 4.8,
+          "effective_power": 4.8,
+          "set_bonus": 0,
+          "set_power": 4.8,
+          "efficiency": 0.00038
+        },
+        "crush": {
+          "base_power": 5.2,
+          "effective_power": 5.2,
+          "set_bonus": 0,
+          "set_power": 5.2,
+          "efficiency": 0.00042
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Upgradeable to Rune boots (g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Climbing boots",
+    "id": 3105,
+    "slot": "feet",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 2,
+      "defence_slash": 2,
+      "defence_crush": 2,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 2,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 12,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [
+      "Death Plateau"
+    ],
+    "skill_requirements": {},
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0.13333
+        },
+        "slash": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0.13333
+        },
+        "crush": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0.13333
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Provides a small strength bonus. Can be upgraded to Climbing boots (g) for 75,000 coins."
+  },
+  {
+    "name": "Spiked boots",
+    "id": 18385,
+    "slot": "feet",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 2,
+      "defence_slash": 2,
+      "defence_crush": 2,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 6,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 75000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [
+      "The Fremennik Trials",
+      "Death Plateau"
+    ],
+    "skill_requirements": {},
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 4.8,
+          "effective_power": 4.8,
+          "set_bonus": 0,
+          "set_power": 4.8,
+          "efficiency": 6.4e-05
+        },
+        "slash": {
+          "base_power": 4.8,
+          "effective_power": 4.8,
+          "set_bonus": 0,
+          "set_power": 4.8,
+          "efficiency": 6.4e-05
+        },
+        "crush": {
+          "base_power": 4.8,
+          "effective_power": 4.8,
+          "set_bonus": 0,
+          "set_power": 4.8,
+          "efficiency": 6.4e-05
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Upgraded from Climbing boots at a cost of 75,000 coins."
+  },
+  {
+    "name": "Spiked boots (g)",
+    "id": 20000,
+    "slot": "feet",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 2,
+      "defence_slash": 2,
+      "defence_crush": 2,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 6,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [
+      "The Fremennik Trials",
+      "Death Plateau"
+    ],
+    "skill_requirements": {},
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 4.8,
+          "effective_power": 4.8,
+          "set_bonus": 0,
+          "set_power": 4.8,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 4.8,
+          "effective_power": 4.8,
+          "set_bonus": 0,
+          "set_power": 4.8,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 4.8,
+          "effective_power": 4.8,
+          "set_bonus": 0,
+          "set_power": 4.8,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Upgraded from Spiked boots. Gilded version"
+  },
+  {
+    "name": "Boots of lightness",
+    "id": 89,
+    "slot": "feet",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [
+      "Temple of Ikov"
+    ],
+    "skill_requirements": {},
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Reduces weight of the player, obtained from the Temple of Ikov"
+  },
+  {
+    "name": "Flippers",
+    "id": 6568,
+    "slot": "feet",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 500,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Can be used to swim underwater without needing any breathing apparatus. Purchased from Nung during and after the quest Rum Deal"
+  },
+  {
+    "name": "Leather boots",
+    "id": 1061,
+    "slot": "feet",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 20,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Basic melee boots."
+  },
+  {
+    "name": "Dragon boots",
+    "id": 11840,
+    "slot": "feet",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -3,
+      "attack_ranged": -1,
+      "defence_stab": 12,
+      "defence_slash": 13,
+      "defence_crush": 14,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 4,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 160000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 60
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 9.6,
+          "effective_power": 9.6,
+          "set_bonus": 0,
+          "set_power": 9.6,
+          "efficiency": 6e-05
+        },
+        "slash": {
+          "base_power": 10.4,
+          "effective_power": 10.4,
+          "set_bonus": 0,
+          "set_power": 10.4,
+          "efficiency": 6.5e-05
+        },
+        "crush": {
+          "base_power": 11.2,
+          "effective_power": 11.2,
+          "set_bonus": 0,
+          "set_power": 11.2,
+          "efficiency": 7e-05
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "High-level melee boots with a strength bonus."
+  },
+  {
+    "name": "Boots of stone",
+    "id": 21646,
+    "slot": "feet",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 6,
+      "defence_slash": 6,
+      "defence_crush": 6,
+      "defence_magic": 6,
+      "defence_ranged": 6,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 300,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 44,
+      "slayer": 65
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0.008
+        },
+        "slash": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0.008
+        },
+        "crush": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0.008
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0.008
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0.008
+        }
+      }
+    },
+    "notes": "Provide immunity to the heat of the Kharidian Desert. Can be upgraded with a slayer gem."
+  },
+  {
+    "name": "Bandos boots",
+    "id": 11836,
+    "slot": "feet",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -4,
+      "attack_ranged": -1,
+      "defence_stab": 12,
+      "defence_slash": 14,
+      "defence_crush": 15,
+      "defence_magic": 0,
+      "defence_ranged": 14,
+      "strength": 2,
+      "prayer": 1,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 250000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 65
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 6.4,
+          "effective_power": 6.4,
+          "set_bonus": 0,
+          "set_power": 6.4,
+          "efficiency": 2.6e-05
+        },
+        "slash": {
+          "base_power": 5.6,
+          "effective_power": 5.6,
+          "set_bonus": 0,
+          "set_power": 5.6,
+          "efficiency": 2.3e-05
+        },
+        "crush": {
+          "base_power": 6,
+          "effective_power": 6,
+          "set_bonus": 0,
+          "set_power": 6,
+          "efficiency": 2.5e-05
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 5.6,
+          "effective_power": 5.6,
+          "set_bonus": 0,
+          "set_power": 5.6,
+          "efficiency": 2.3e-05
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "High-level melee boots with strength and prayer bonuses. Dropped by General Graardor in the God Wars Dungeon."
+  }
+]

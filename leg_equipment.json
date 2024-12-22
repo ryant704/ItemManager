@@ -1,0 +1,2493 @@
+[
+  {
+    "name": "Bronze platelegs",
+    "id": 1075,
+    "slot": "legs",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -21,
+      "attack_ranged": -7,
+      "defence_stab": 8,
+      "defence_slash": 7,
+      "defence_crush": 6,
+      "defence_magic": -4,
+      "defence_ranged": 8,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 80,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 1
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 3.2,
+          "effective_power": 3.2,
+          "set_bonus": 0,
+          "set_power": 3.2,
+          "efficiency": 0.04
+        },
+        "slash": {
+          "base_power": 2.8,
+          "effective_power": 2.8,
+          "set_bonus": 0,
+          "set_power": 2.8,
+          "efficiency": 0.035
+        },
+        "crush": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0.03
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 3.2,
+          "effective_power": 3.2,
+          "set_bonus": 0,
+          "set_power": 3.2,
+          "efficiency": 0.04
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": -0.02
+        }
+      }
+    },
+    "notes": "Basic bronze platelegs."
+  },
+  {
+    "name": "Iron platelegs",
+    "id": 1067,
+    "slot": "legs",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -21,
+      "attack_ranged": -7,
+      "defence_stab": 11,
+      "defence_slash": 10,
+      "defence_crush": 9,
+      "defence_magic": -4,
+      "defence_ranged": 9,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 280,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 1
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 4.4,
+          "effective_power": 4.4,
+          "set_bonus": 0,
+          "set_power": 4.4,
+          "efficiency": 0.0157
+        },
+        "slash": {
+          "base_power": 4,
+          "effective_power": 4,
+          "set_bonus": 0,
+          "set_power": 4,
+          "efficiency": 0.0143
+        },
+        "crush": {
+          "base_power": 3.6,
+          "effective_power": 3.6,
+          "set_bonus": 0,
+          "set_power": 3.6,
+          "efficiency": 0.0129
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 3.6,
+          "effective_power": 3.6,
+          "set_bonus": 0,
+          "set_power": 3.6,
+          "efficiency": 0.0129
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": -0.0057
+        }
+      }
+    },
+    "notes": "Basic iron platelegs."
+  },
+  {
+    "name": "Steel platelegs",
+    "id": 1069,
+    "slot": "legs",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -21,
+      "attack_ranged": -7,
+      "defence_stab": 17,
+      "defence_slash": 16,
+      "defence_crush": 15,
+      "defence_magic": -4,
+      "defence_ranged": 17,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 500,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 5
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 6.8,
+          "effective_power": 6.8,
+          "set_bonus": 0,
+          "set_power": 6.8,
+          "efficiency": 0.0136
+        },
+        "slash": {
+          "base_power": 6.4,
+          "effective_power": 6.4,
+          "set_bonus": 0,
+          "set_power": 6.4,
+          "efficiency": 0.0128
+        },
+        "crush": {
+          "base_power": 6,
+          "effective_power": 6,
+          "set_bonus": 0,
+          "set_power": 6,
+          "efficiency": 0.012
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 6.8,
+          "effective_power": 6.8,
+          "set_bonus": 0,
+          "set_power": 6.8,
+          "efficiency": 0.0136
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": -0.0032
+        }
+      }
+    },
+    "notes": "Upgradeable to Steel platelegs (g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Mithril platelegs",
+    "id": 1071,
+    "slot": "legs",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -21,
+      "attack_ranged": -7,
+      "defence_stab": 31,
+      "defence_slash": 29,
+      "defence_crush": 28,
+      "defence_magic": -4,
+      "defence_ranged": 31,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1600,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 20
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 12.4,
+          "effective_power": 12.4,
+          "set_bonus": 0,
+          "set_power": 12.4,
+          "efficiency": 0.00775
+        },
+        "slash": {
+          "base_power": 11.6,
+          "effective_power": 11.6,
+          "set_bonus": 0,
+          "set_power": 11.6,
+          "efficiency": 0.00725
+        },
+        "crush": {
+          "base_power": 11.2,
+          "effective_power": 11.2,
+          "set_bonus": 0,
+          "set_power": 11.2,
+          "efficiency": 0.007
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 12.4,
+          "effective_power": 12.4,
+          "set_bonus": 0,
+          "set_power": 12.4,
+          "efficiency": 0.00775
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": -0.001
+        }
+      }
+    },
+    "notes": "Upgradeable to a Mithril platelegs (g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Adamant platelegs",
+    "id": 1073,
+    "slot": "legs",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -21,
+      "attack_ranged": -7,
+      "defence_stab": 44,
+      "defence_slash": 42,
+      "defence_crush": 40,
+      "defence_magic": -4,
+      "defence_ranged": 44,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 6400,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 30
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 17.6,
+          "effective_power": 17.6,
+          "set_bonus": 0,
+          "set_power": 17.6,
+          "efficiency": 0.00275
+        },
+        "slash": {
+          "base_power": 16.8,
+          "effective_power": 16.8,
+          "set_bonus": 0,
+          "set_power": 16.8,
+          "efficiency": 0.00263
+        },
+        "crush": {
+          "base_power": 16,
+          "effective_power": 16,
+          "set_bonus": 0,
+          "set_power": 16,
+          "efficiency": 0.0025
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 17.6,
+          "effective_power": 17.6,
+          "set_bonus": 0,
+          "set_power": 17.6,
+          "efficiency": 0.00275
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": -0.00025
+        }
+      }
+    },
+    "notes": "Upgradeable to an Adamant platelegs(g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Rune platelegs",
+    "id": 1079,
+    "slot": "legs",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -21,
+      "attack_ranged": -7,
+      "defence_stab": 51,
+      "defence_slash": 49,
+      "defence_crush": 47,
+      "defence_magic": -4,
+      "defence_ranged": 51,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 64000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 40
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 20.4,
+          "effective_power": 20.4,
+          "set_bonus": 0,
+          "set_power": 20.4,
+          "efficiency": 0.00032
+        },
+        "slash": {
+          "base_power": 19.6,
+          "effective_power": 19.6,
+          "set_bonus": 0,
+          "set_power": 19.6,
+          "efficiency": 0.00031
+        },
+        "crush": {
+          "base_power": 18.8,
+          "effective_power": 18.8,
+          "set_bonus": 0,
+          "set_power": 18.8,
+          "efficiency": 0.00029
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 20.4,
+          "effective_power": 20.4,
+          "set_bonus": 0,
+          "set_power": 20.4,
+          "efficiency": 0.00032
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": -3e-05
+        }
+      }
+    },
+    "notes": "Upgradeable to Rune platelegs(g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "Black platelegs",
+    "id": 1085,
+    "slot": "legs",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -21,
+      "attack_ranged": -7,
+      "defence_stab": 17,
+      "defence_slash": 16,
+      "defence_crush": 15,
+      "defence_magic": -4,
+      "defence_ranged": 17,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 960,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 10
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 6.8,
+          "effective_power": 6.8,
+          "set_bonus": 0,
+          "set_power": 6.8,
+          "efficiency": 0.0071
+        },
+        "slash": {
+          "base_power": 6.4,
+          "effective_power": 6.4,
+          "set_bonus": 0,
+          "set_power": 6.4,
+          "efficiency": 0.0067
+        },
+        "crush": {
+          "base_power": 6,
+          "effective_power": 6,
+          "set_bonus": 0,
+          "set_power": 6,
+          "efficiency": 0.0063
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 6.8,
+          "effective_power": 6.8,
+          "set_bonus": 0,
+          "set_power": 6.8,
+          "efficiency": 0.0071
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": -0.0017
+        }
+      }
+    },
+    "notes": "Upgradeable to a Black platelegs(g) or (t) when painted at the Castle Wars armour stand, adding 1 defence bonus."
+  },
+  {
+    "name": "White platelegs",
+    "id": 3476,
+    "slot": "legs",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -21,
+      "attack_ranged": -7,
+      "defence_stab": 31,
+      "defence_slash": 29,
+      "defence_crush": 28,
+      "defence_magic": -4,
+      "defence_ranged": 31,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 2000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 10
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 12.4,
+          "effective_power": 12.4,
+          "set_bonus": 0,
+          "set_power": 12.4,
+          "efficiency": 0.0062
+        },
+        "slash": {
+          "base_power": 11.6,
+          "effective_power": 11.6,
+          "set_bonus": 0,
+          "set_power": 11.6,
+          "efficiency": 0.0058
+        },
+        "crush": {
+          "base_power": 11.2,
+          "effective_power": 11.2,
+          "set_bonus": 0,
+          "set_power": 11.2,
+          "efficiency": 0.0056
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 12.4,
+          "effective_power": 12.4,
+          "set_bonus": 0,
+          "set_power": 12.4,
+          "efficiency": 0.0062
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": -0.0008
+        }
+      }
+    },
+    "notes": "White Knight platelegs."
+  },
+  {
+    "name": "Initiate platelegs",
+    "id": 5576,
+    "slot": "legs",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -21,
+      "attack_ranged": -7,
+      "defence_stab": 34,
+      "defence_slash": 32,
+      "defence_crush": 30,
+      "defence_magic": -4,
+      "defence_ranged": 34,
+      "strength": 0,
+      "prayer": 3,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [
+      "Recruitment Drive"
+    ],
+    "skill_requirements": {
+      "defence": 20,
+      "prayer": 10
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 13.6,
+          "effective_power": 13.6,
+          "set_bonus": 0,
+          "set_power": 13.6,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 12.8,
+          "effective_power": 12.8,
+          "set_bonus": 0,
+          "set_power": 12.8,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 12,
+          "effective_power": 12,
+          "set_bonus": 0,
+          "set_power": 12,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 13.6,
+          "effective_power": 13.6,
+          "set_bonus": 0,
+          "set_power": 13.6,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Provides a prayer bonus. Requires completion of Recruitment Drive to wear."
+  },
+  {
+    "name": "Proselyte platelegs",
+    "id": 9676,
+    "slot": "legs",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -21,
+      "attack_ranged": -7,
+      "defence_stab": 58,
+      "defence_slash": 55,
+      "defence_crush": 53,
+      "defence_magic": -4,
+      "defence_ranged": 58,
+      "strength": 0,
+      "prayer": 4,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [
+      "Slug Menace"
+    ],
+    "skill_requirements": {
+      "defence": 30,
+      "prayer": 20
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 23.2,
+          "effective_power": 23.2,
+          "set_bonus": 0,
+          "set_power": 23.2,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 22,
+          "effective_power": 22,
+          "set_bonus": 0,
+          "set_power": 22,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 21.2,
+          "effective_power": 21.2,
+          "set_bonus": 0,
+          "set_power": 21.2,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 23.2,
+          "effective_power": 23.2,
+          "set_bonus": 0,
+          "set_power": 23.2,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Provides a good prayer bonus. Requires completion of Slug Menace to wear."
+  },
+  {
+    "name": "Rock-shell legs",
+    "id": 7396,
+    "slot": "legs",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -21,
+      "attack_ranged": -11,
+      "defence_stab": 59,
+      "defence_slash": 55,
+      "defence_crush": 53,
+      "defence_magic": -4,
+      "defence_ranged": 57,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 45000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 40,
+      "slayer": 45
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 23.6,
+          "effective_power": 23.6,
+          "set_bonus": 0,
+          "set_power": 23.6,
+          "efficiency": 0.00052
+        },
+        "slash": {
+          "base_power": 22,
+          "effective_power": 22,
+          "set_bonus": 0,
+          "set_power": 22,
+          "efficiency": 0.00049
+        },
+        "crush": {
+          "base_power": 21.2,
+          "effective_power": 21.2,
+          "set_bonus": 0,
+          "set_power": 21.2,
+          "efficiency": 0.00047
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 22.8,
+          "effective_power": 22.8,
+          "set_bonus": 0,
+          "set_power": 22.8,
+          "efficiency": 0.00051
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": -3.5e-05
+        }
+      }
+    },
+    "notes": "Part of the Rock-shell armour set. Requires completion of The Fremennik Isles to wear."
+  },
+  {
+    "name": "Skeletal bottoms",
+    "id": 7390,
+    "slot": "legs",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 15,
+      "attack_ranged": -5,
+      "defence_stab": 15,
+      "defence_slash": 15,
+      "defence_crush": 15,
+      "defence_magic": 15,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 45000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 40,
+      "magic": 40,
+      "slayer": 45
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 6,
+          "effective_power": 6,
+          "set_bonus": 0,
+          "set_power": 6,
+          "efficiency": 0.00013
+        },
+        "slash": {
+          "base_power": 6,
+          "effective_power": 6,
+          "set_bonus": 0,
+          "set_power": 6,
+          "efficiency": 0.00013
+        },
+        "crush": {
+          "base_power": 6,
+          "effective_power": 6,
+          "set_bonus": 0,
+          "set_power": 6,
+          "efficiency": 0.00013
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 6,
+          "effective_power": 6,
+          "set_bonus": 0,
+          "set_power": 6,
+          "efficiency": 0.00013
+        }
+      }
+    },
+    "notes": "Part of the Skeletal armour set. Requires completion of The Fremennik Isles to wear."
+  },
+  {
+    "name": "Dharok's platelegs",
+    "id": 4722,
+    "slot": "legs",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -21,
+      "attack_ranged": -11,
+      "defence_stab": 103,
+      "defence_slash": 101,
+      "defence_crush": 98,
+      "defence_magic": -4,
+      "defence_ranged": 101,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 250000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70
+    },
+    "set_effect": {
+      "name": "Dharok's",
+      "description": "For each hitpoint lost, melee damage increases by 1%."
+    },
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 41.2,
+          "effective_power": 41.2,
+          "set_bonus": 49,
+          "set_power": 90.2,
+          "efficiency": 0.000165
+        },
+        "slash": {
+          "base_power": 40.4,
+          "effective_power": 40.4,
+          "set_bonus": 49,
+          "set_power": 89.4,
+          "efficiency": 0.000162
+        },
+        "crush": {
+          "base_power": 39.2,
+          "effective_power": 39.2,
+          "set_bonus": 49,
+          "set_power": 88.2,
+          "efficiency": 0.000159
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 40.4,
+          "effective_power": 40.4,
+          "set_bonus": 0,
+          "set_power": 40.4,
+          "efficiency": 0.000162
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": -6.4e-06
+        }
+      }
+    },
+    "notes": "Part of the Dharok's barrows set. Damage increases as health decreases when the full set is worn. Degrades on use, requires repair."
+  },
+  {
+    "name": "Guthan's chainskirt",
+    "id": 4730,
+    "slot": "legs",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -21,
+      "attack_ranged": -7,
+      "defence_stab": 88,
+      "defence_slash": 85,
+      "defence_crush": 85,
+      "defence_magic": -4,
+      "defence_ranged": 88,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 250000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70
+    },
+    "set_effect": {
+      "name": "Guthan's",
+      "description": "When full set is worn has a chance to heal equal to the damage dealt."
+    },
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 35.2,
+          "effective_power": 35.2,
+          "set_bonus": 0,
+          "set_power": 35.2,
+          "efficiency": 0.00014
+        },
+        "slash": {
+          "base_power": 34,
+          "effective_power": 34,
+          "set_bonus": 0,
+          "set_power": 34,
+          "efficiency": 0.00014
+        },
+        "crush": {
+          "base_power": 34,
+          "effective_power": 34,
+          "set_bonus": 0,
+          "set_power": 34,
+          "efficiency": 0.00014
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 35.2,
+          "effective_power": 35.2,
+          "set_bonus": 0,
+          "set_power": 35.2,
+          "efficiency": 0.00014
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": -6.4e-06
+        }
+      }
+    },
+    "notes": "Part of the Guthan's barrows set. Degrades on use, requires repair."
+  },
+  {
+    "name": "Torag's platelegs",
+    "id": 4751,
+    "slot": "legs",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -21,
+      "attack_ranged": -7,
+      "defence_stab": 88,
+      "defence_slash": 85,
+      "defence_crush": 85,
+      "defence_magic": -4,
+      "defence_ranged": 88,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 250000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70
+    },
+    "set_effect": {
+      "name": "Torag's",
+      "description": "When full set is worn and you are attacked, has a chance to reduce attacker's run energy by 20%."
+    },
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 35.2,
+          "effective_power": 35.2,
+          "set_bonus": 0,
+          "set_power": 35.2,
+          "efficiency": 0.00014
+        },
+        "slash": {
+          "base_power": 34,
+          "effective_power": 34,
+          "set_bonus": 0,
+          "set_power": 34,
+          "efficiency": 0.00014
+        },
+        "crush": {
+          "base_power": 34,
+          "effective_power": 34,
+          "set_bonus": 0,
+          "set_power": 34,
+          "efficiency": 0.00014
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 35.2,
+          "effective_power": 35.2,
+          "set_bonus": 0,
+          "set_power": 35.2,
+          "efficiency": 0.00014
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": -1.6,
+          "effective_power": -1.6,
+          "set_bonus": 0,
+          "set_power": -1.6,
+          "efficiency": -6.4e-06
+        }
+      }
+    },
+    "notes": "Part of the Torag's barrows set. Degrades on use, requires repair."
+  },
+  {
+    "name": "Verac's plateskirt",
+    "id": 4759,
+    "slot": "legs",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -21,
+      "attack_ranged": -7,
+      "defence_stab": 88,
+      "defence_slash": 85,
+      "defence_crush": 85,
+      "defence_magic": 0,
+      "defence_ranged": 88,
+      "strength": 0,
+      "prayer": 4,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": true,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 250000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 70
+    },
+    "set_effect": {
+      "name": "Verac's",
+      "description": "When full set is worn has a chance to ignore the target's defence and prayer level."
+    },
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 35.2,
+          "effective_power": 35.2,
+          "set_bonus": 0,
+          "set_power": 35.2,
+          "efficiency": 0.00014
+        },
+        "slash": {
+          "base_power": 34,
+          "effective_power": 34,
+          "set_bonus": 0,
+          "set_power": 34,
+          "efficiency": 0.00014
+        },
+        "crush": {
+          "base_power": 34,
+          "effective_power": 34,
+          "set_bonus": 0,
+          "set_power": 34,
+          "efficiency": 0.00014
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 35.2,
+          "effective_power": 35.2,
+          "set_bonus": 0,
+          "set_power": 35.2,
+          "efficiency": 0.00014
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Part of the Verac's barrows set. Degrades on use, requires repair."
+  },
+  {
+    "name": "Black d'hide chaps",
+    "id": 2497,
+    "slot": "legs",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -10,
+      "attack_ranged": 17,
+      "defence_stab": 23,
+      "defence_slash": 18,
+      "defence_crush": 25,
+      "defence_magic": 28,
+      "defence_ranged": 23,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 5460,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 70
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 9.2,
+          "effective_power": 9.2,
+          "set_bonus": 0,
+          "set_power": 9.2,
+          "efficiency": 0.0017
+        },
+        "slash": {
+          "base_power": 7.2,
+          "effective_power": 7.2,
+          "set_bonus": 0,
+          "set_power": 7.2,
+          "efficiency": 0.0013
+        },
+        "crush": {
+          "base_power": 10,
+          "effective_power": 10,
+          "set_bonus": 0,
+          "set_power": 10,
+          "efficiency": 0.0018
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 22,
+          "effective_power": 22,
+          "set_bonus": 0,
+          "set_power": 22,
+          "efficiency": 0.004
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 11.2,
+          "effective_power": 11.2,
+          "set_bonus": 0,
+          "set_power": 11.2,
+          "efficiency": 0.002
+        }
+      }
+    },
+    "notes": "High-level ranged legs armour. Requires 70 Ranged to wear."
+  },
+  {
+    "name": "Red d'hide chaps",
+    "id": 2495,
+    "slot": "legs",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -10,
+      "attack_ranged": 11,
+      "defence_stab": 18,
+      "defence_slash": 13,
+      "defence_crush": 19,
+      "defence_magic": 18,
+      "defence_ranged": 18,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 4500,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 60
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 7.2,
+          "effective_power": 7.2,
+          "set_bonus": 0,
+          "set_power": 7.2,
+          "efficiency": 0.0016
+        },
+        "slash": {
+          "base_power": 5.2,
+          "effective_power": 5.2,
+          "set_bonus": 0,
+          "set_power": 5.2,
+          "efficiency": 0.0012
+        },
+        "crush": {
+          "base_power": 7.6,
+          "effective_power": 7.6,
+          "set_bonus": 0,
+          "set_power": 7.6,
+          "efficiency": 0.0017
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 17,
+          "effective_power": 17,
+          "set_bonus": 0,
+          "set_power": 17,
+          "efficiency": 0.0038
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 7.2,
+          "effective_power": 7.2,
+          "set_bonus": 0,
+          "set_power": 7.2,
+          "efficiency": 0.0016
+        }
+      }
+    },
+    "notes": "Ranged legs armour."
+  },
+  {
+    "name": "Blue d'hide chaps",
+    "id": 2493,
+    "slot": "legs",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -10,
+      "attack_ranged": 11,
+      "defence_stab": 18,
+      "defence_slash": 13,
+      "defence_crush": 19,
+      "defence_magic": 18,
+      "defence_ranged": 18,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 3500,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 50
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 7.2,
+          "effective_power": 7.2,
+          "set_bonus": 0,
+          "set_power": 7.2,
+          "efficiency": 0.0021
+        },
+        "slash": {
+          "base_power": 5.2,
+          "effective_power": 5.2,
+          "set_bonus": 0,
+          "set_power": 5.2,
+          "efficiency": 0.0015
+        },
+        "crush": {
+          "base_power": 7.6,
+          "effective_power": 7.6,
+          "set_bonus": 0,
+          "set_power": 7.6,
+          "efficiency": 0.0022
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 17,
+          "effective_power": 17,
+          "set_bonus": 0,
+          "set_power": 17,
+          "efficiency": 0.0049
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 7.2,
+          "effective_power": 7.2,
+          "set_bonus": 0,
+          "set_power": 7.2,
+          "efficiency": 0.0021
+        }
+      }
+    },
+    "notes": "Ranged legs armour."
+  },
+  {
+    "name": "Green d'hide chaps",
+    "id": 1099,
+    "slot": "legs",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -10,
+      "attack_ranged": 8,
+      "defence_stab": 14,
+      "defence_slash": 10,
+      "defence_crush": 14,
+      "defence_magic": 10,
+      "defence_ranged": 14,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 2500,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 40
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 5.6,
+          "effective_power": 5.6,
+          "set_bonus": 0,
+          "set_power": 5.6,
+          "efficiency": 0.0022
+        },
+        "slash": {
+          "base_power": 4,
+          "effective_power": 4,
+          "set_bonus": 0,
+          "set_power": 4,
+          "efficiency": 0.0016
+        },
+        "crush": {
+          "base_power": 5.6,
+          "effective_power": 5.6,
+          "set_bonus": 0,
+          "set_power": 5.6,
+          "efficiency": 0.0022
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 14,
+          "effective_power": 14,
+          "set_bonus": 0,
+          "set_power": 14,
+          "efficiency": 0.0056
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 4,
+          "effective_power": 4,
+          "set_bonus": 0,
+          "set_power": 4,
+          "efficiency": 0.0016
+        }
+      }
+    },
+    "notes": "Ranged legs armour."
+  },
+  {
+    "name": "Snakeskin chaps",
+    "id": 6326,
+    "slot": "legs",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -5,
+      "attack_ranged": 4,
+      "defence_stab": 8,
+      "defence_slash": 6,
+      "defence_crush": 9,
+      "defence_magic": 5,
+      "defence_ranged": 7,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 540,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 30,
+      "defence": 30
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 3.2,
+          "effective_power": 3.2,
+          "set_bonus": 0,
+          "set_power": 3.2,
+          "efficiency": 0.0059
+        },
+        "slash": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0.0044
+        },
+        "crush": {
+          "base_power": 3.6,
+          "effective_power": 3.6,
+          "set_bonus": 0,
+          "set_power": 3.6,
+          "efficiency": 0.0067
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 6.8,
+          "effective_power": 6.8,
+          "set_bonus": 0,
+          "set_power": 6.8,
+          "efficiency": 0.0126
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 2,
+          "effective_power": 2,
+          "set_bonus": 0,
+          "set_power": 2,
+          "efficiency": 0.0037
+        }
+      }
+    },
+    "notes": "Ranged legs armour. Made from snakeskin."
+  },
+  {
+    "name": "Bandos d'hide chaps",
+    "id": 26601,
+    "slot": "legs",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -10,
+      "attack_ranged": 17,
+      "defence_stab": 28,
+      "defence_slash": 20,
+      "defence_crush": 26,
+      "defence_magic": 30,
+      "defence_ranged": 25,
+      "strength": 0,
+      "prayer": 1,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 40000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 40
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 11.2,
+          "effective_power": 11.2,
+          "set_bonus": 0,
+          "set_power": 11.2,
+          "efficiency": 0.00028
+        },
+        "slash": {
+          "base_power": 8,
+          "effective_power": 8,
+          "set_bonus": 0,
+          "set_power": 8,
+          "efficiency": 0.0002
+        },
+        "crush": {
+          "base_power": 10.4,
+          "effective_power": 10.4,
+          "set_bonus": 0,
+          "set_power": 10.4,
+          "efficiency": 0.00026
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 25,
+          "effective_power": 25,
+          "set_bonus": 0,
+          "set_power": 25,
+          "efficiency": 0.000625
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 12,
+          "effective_power": 12,
+          "set_bonus": 0,
+          "set_power": 12,
+          "efficiency": 0.0003
+        }
+      }
+    },
+    "notes": "Ranged legs armour with a prayer bonus. Rewarded from completing hard clue scrolls."
+  },
+  {
+    "name": "Zamorak d'hide chaps",
+    "id": 24971,
+    "slot": "legs",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -10,
+      "attack_ranged": 17,
+      "defence_stab": 28,
+      "defence_slash": 20,
+      "defence_crush": 26,
+      "defence_magic": 30,
+      "defence_ranged": 25,
+      "strength": 0,
+      "prayer": 1,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 40000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 40
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 28,
+          "effective_power": 28,
+          "set_bonus": 0,
+          "set_power": 28,
+          "efficiency": 0.0007
+        },
+        "slash": {
+          "base_power": 20,
+          "effective_power": 20,
+          "set_bonus": 0,
+          "set_power": 20,
+          "efficiency": 0.0005
+        },
+        "crush": {
+          "base_power": 26,
+          "effective_power": 26,
+          "set_bonus": 0,
+          "set_power": 26,
+          "efficiency": 0.00065
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 25,
+          "effective_power": 25,
+          "set_bonus": 0,
+          "set_power": 25,
+          "efficiency": 0.000625
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 30,
+          "effective_power": 30,
+          "set_bonus": 0,
+          "set_power": 30,
+          "efficiency": 0.00075
+        }
+      }
+    },
+    "notes": "Ranged legs armour with a prayer bonus. Rewarded from completing hard clue scrolls."
+  },
+  {
+    "name": "Spined chaps",
+    "id": 7394,
+    "slot": "legs",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -10,
+      "attack_ranged": 11,
+      "defence_stab": 22,
+      "defence_slash": 16,
+      "defence_crush": 25,
+      "defence_magic": 20,
+      "defence_ranged": 20,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 45000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 40,
+      "ranged": 40,
+      "slayer": 45
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 8.8,
+          "effective_power": 8.8,
+          "set_bonus": 0,
+          "set_power": 8.8,
+          "efficiency": 0.000196
+        },
+        "slash": {
+          "base_power": 6.4,
+          "effective_power": 6.4,
+          "set_bonus": 0,
+          "set_power": 6.4,
+          "efficiency": 0.000142
+        },
+        "crush": {
+          "base_power": 10,
+          "effective_power": 10,
+          "set_bonus": 0,
+          "set_power": 10,
+          "efficiency": 0.000222
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 20,
+          "effective_power": 20,
+          "set_bonus": 0,
+          "set_power": 20,
+          "efficiency": 0.000444
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 8,
+          "effective_power": 8,
+          "set_bonus": 0,
+          "set_power": 8,
+          "efficiency": 0.000178
+        }
+      }
+    },
+    "notes": "Part of the Spined armour set. Requires completion of The Fremennik Isles to wear."
+  },
+  {
+    "name": "Leather chaps",
+    "id": 1095,
+    "slot": "legs",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -4,
+      "attack_ranged": 4,
+      "defence_stab": 4,
+      "defence_slash": 4,
+      "defence_crush": 4,
+      "defence_magic": 4,
+      "defence_ranged": 4,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 20,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 1
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0.08
+        },
+        "slash": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0.08
+        },
+        "crush": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0.08
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 5.6,
+          "effective_power": 5.6,
+          "set_bonus": 0,
+          "set_power": 5.6,
+          "efficiency": 0.28
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0.08
+        }
+      }
+    },
+    "notes": "Basic ranged legs armour."
+  },
+  {
+    "name": "Hardleather chaps",
+    "id": 5741,
+    "slot": "legs",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -4,
+      "attack_ranged": 6,
+      "defence_stab": 6,
+      "defence_slash": 4,
+      "defence_crush": 6,
+      "defence_magic": 4,
+      "defence_ranged": 6,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 100,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "ranged": 10,
+      "defence": 10
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0.024
+        },
+        "slash": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0.016
+        },
+        "crush": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0.024
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 6.4,
+          "effective_power": 6.4,
+          "set_bonus": 0,
+          "set_power": 6.4,
+          "efficiency": 0.064
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0.016
+        }
+      }
+    },
+    "notes": "Ranged legs armour, requiring 10 defence."
+  },
+  {
+    "name": "Studded chaps",
+    "id": 1133,
+    "slot": "legs",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": -5,
+      "attack_ranged": 6,
+      "defence_stab": 11,
+      "defence_slash": 8,
+      "defence_crush": 12,
+      "defence_magic": 4,
+      "defence_ranged": 10,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 520,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "defence": 20,
+      "ranged": 20
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 4.4,
+          "effective_power": 4.4,
+          "set_bonus": 0,
+          "set_power": 4.4,
+          "efficiency": 0.0085
+        },
+        "slash": {
+          "base_power": 3.2,
+          "effective_power": 3.2,
+          "set_bonus": 0,
+          "set_power": 3.2,
+          "efficiency": 0.0062
+        },
+        "crush": {
+          "base_power": 4.8,
+          "effective_power": 4.8,
+          "set_bonus": 0,
+          "set_power": 4.8,
+          "efficiency": 0.0092
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 10,
+          "effective_power": 10,
+          "set_bonus": 0,
+          "set_power": 10,
+          "efficiency": 0.0192
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0.0031
+        }
+      }
+    },
+    "notes": "Ranged legs armour, requiring 20 ranged and defence."
+  },
+  {
+    "name": "Wizard robe skirt",
+    "id": 10158,
+    "slot": "legs",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 4,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 4,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 10,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "magic": 1
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0.16
+        }
+      }
+    },
+    "notes": "Basic magic robe leg armour."
+  },
+  {
+    "name": "Monk's robe bottom",
+    "id": 544,
+    "slot": "legs",
+    "style": "magic",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 5,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": false,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 40,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "prayer": 31
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Provides a prayer bonus."
+  }
+]

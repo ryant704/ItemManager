@@ -1,0 +1,921 @@
+[
+  {
+    "name": "Cape of legends",
+    "id": 1052,
+    "slot": "cape",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 7,
+      "defence_slash": 7,
+      "defence_crush": 7,
+      "defence_magic": 7,
+      "defence_ranged": 7,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 1000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [
+      "Family Crest"
+    ],
+    "skill_requirements": [],
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 2.8,
+          "effective_power": 2.8,
+          "set_bonus": 0,
+          "set_power": 2.8,
+          "efficiency": 0.0028
+        },
+        "slash": {
+          "base_power": 2.8,
+          "effective_power": 2.8,
+          "set_bonus": 0,
+          "set_power": 2.8,
+          "efficiency": 0.0028
+        },
+        "crush": {
+          "base_power": 2.8,
+          "effective_power": 2.8,
+          "set_bonus": 0,
+          "set_power": 2.8,
+          "efficiency": 0.0028
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 2.8,
+          "effective_power": 2.8,
+          "set_bonus": 0,
+          "set_power": 2.8,
+          "efficiency": 0.0028
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 2.8,
+          "effective_power": 2.8,
+          "set_bonus": 0,
+          "set_power": 2.8,
+          "efficiency": 0.0028
+        }
+      }
+    },
+    "notes": "Requires starting Legends' Quest to obtain. Provides moderate defensive bonuses."
+  },
+  {
+    "name": "Infernal cape",
+    "id": 21295,
+    "slot": "cape",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 4,
+      "attack_slash": 4,
+      "attack_crush": 4,
+      "attack_magic": 4,
+      "attack_ranged": 4,
+      "defence_stab": 12,
+      "defence_slash": 12,
+      "defence_crush": 12,
+      "defence_magic": 12,
+      "defence_ranged": 12,
+      "strength": 8,
+      "prayer": 2,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": [],
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 11.2,
+          "effective_power": 11.2,
+          "set_bonus": 0,
+          "set_power": 11.2,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 11.2,
+          "effective_power": 11.2,
+          "set_bonus": 0,
+          "set_power": 11.2,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 11.2,
+          "effective_power": 11.2,
+          "set_bonus": 0,
+          "set_power": 11.2,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 4.8,
+          "effective_power": 4.8,
+          "set_bonus": 0,
+          "set_power": 4.8,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 4.8,
+          "effective_power": 4.8,
+          "set_bonus": 0,
+          "set_power": 4.8,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Best-in-slot melee cape. Obtained from the Inferno minigame."
+  },
+  {
+    "name": "Obsidian cape",
+    "id": 6568,
+    "slot": "cape",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 9,
+      "defence_slash": 9,
+      "defence_crush": 9,
+      "defence_magic": 9,
+      "defence_ranged": 9,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 60000,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 3.6,
+          "effective_power": 3.6,
+          "set_bonus": 0,
+          "set_power": 3.6,
+          "efficiency": 6e-05
+        },
+        "slash": {
+          "base_power": 3.6,
+          "effective_power": 3.6,
+          "set_bonus": 0,
+          "set_power": 3.6,
+          "efficiency": 6e-05
+        },
+        "crush": {
+          "base_power": 3.6,
+          "effective_power": 3.6,
+          "set_bonus": 0,
+          "set_power": 3.6,
+          "efficiency": 6e-05
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 3.6,
+          "effective_power": 3.6,
+          "set_bonus": 0,
+          "set_power": 3.6,
+          "efficiency": 6e-05
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 3.6,
+          "effective_power": 3.6,
+          "set_bonus": 0,
+          "set_power": 3.6,
+          "efficiency": 6e-05
+        }
+      }
+    },
+    "notes": "Provides good defensive bonuses."
+  },
+  {
+    "name": "Spotted cape",
+    "id": 10071,
+    "slot": "cape",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 2,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 5,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 500,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "hunter": 40
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 2,
+          "effective_power": 2,
+          "set_bonus": 0,
+          "set_power": 2,
+          "efficiency": 0.004
+        }
+      }
+    },
+    "notes": "Provides a small magic defence bonus and reduces weight. Requires 40 Hunter to wear."
+  },
+  {
+    "name": "Spottier cape",
+    "id": 10073,
+    "slot": "cape",
+    "style": "ranged",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 4,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 7,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 0,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 800,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {
+      "hunter": 66
+    },
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 2.8,
+          "effective_power": 2.8,
+          "set_bonus": 0,
+          "set_power": 2.8,
+          "efficiency": 0.0035
+        }
+      }
+    },
+    "notes": "Provides a small magic defence bonus and reduces weight. Requires 66 Hunter to wear."
+  },
+  {
+    "name": "Ardougne cloak 4",
+    "id": 13124,
+    "slot": "cape",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 6,
+      "defence_slash": 6,
+      "defence_crush": 6,
+      "defence_magic": 6,
+      "defence_ranged": 6,
+      "strength": 0,
+      "prayer": 4,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Reward for completing the Ardougne achievement diary. Provides a prayer bonus and unlimited teleports to the Ardougne Monastery."
+  },
+  {
+    "name": "Ardougne cloak 3",
+    "id": 13123,
+    "slot": "cape",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 4,
+      "defence_slash": 4,
+      "defence_crush": 4,
+      "defence_magic": 4,
+      "defence_ranged": 4,
+      "strength": 0,
+      "prayer": 3,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 1.6,
+          "effective_power": 1.6,
+          "set_bonus": 0,
+          "set_power": 1.6,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Reward for completing the hard Ardougne achievement diary. Provides a prayer bonus and unlimited teleports to the Ardougne Monastery."
+  },
+  {
+    "name": "Ardougne cloak 2",
+    "id": 13122,
+    "slot": "cape",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 2,
+      "defence_slash": 2,
+      "defence_crush": 2,
+      "defence_magic": 2,
+      "defence_ranged": 2,
+      "strength": 0,
+      "prayer": 2,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0.8,
+          "effective_power": 0.8,
+          "set_bonus": 0,
+          "set_power": 0.8,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0.8,
+          "effective_power": 0.8,
+          "set_bonus": 0,
+          "set_power": 0.8,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0.8,
+          "effective_power": 0.8,
+          "set_bonus": 0,
+          "set_power": 0.8,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0.8,
+          "effective_power": 0.8,
+          "set_bonus": 0,
+          "set_power": 0.8,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0.8,
+          "effective_power": 0.8,
+          "set_bonus": 0,
+          "set_power": 0.8,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Reward for completing the medium Ardougne achievement diary. Provides a prayer bonus and unlimited teleports to the Ardougne Monastery."
+  },
+  {
+    "name": "Ardougne cloak 1",
+    "id": 13121,
+    "slot": "cape",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 1,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Reward for completing the easy Ardougne achievement diary. Provides a prayer bonus and a teleport to the Ardougne Monastery."
+  },
+  {
+    "name": "Fire cape",
+    "id": 6570,
+    "slot": "cape",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 1,
+      "attack_slash": 1,
+      "attack_crush": 1,
+      "attack_magic": 1,
+      "attack_ranged": 1,
+      "defence_stab": 11,
+      "defence_slash": 11,
+      "defence_crush": 11,
+      "defence_magic": 11,
+      "defence_ranged": 11,
+      "strength": 4,
+      "prayer": 2,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": false,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 0,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": [],
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 6,
+          "effective_power": 6,
+          "set_bonus": 0,
+          "set_power": 6,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 6,
+          "effective_power": 6,
+          "set_bonus": 0,
+          "set_power": 6,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 6,
+          "effective_power": 6,
+          "set_bonus": 0,
+          "set_power": 6,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 4.4,
+          "effective_power": 4.4,
+          "set_bonus": 0,
+          "set_power": 4.4,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 4.4,
+          "effective_power": 4.4,
+          "set_bonus": 0,
+          "set_power": 4.4,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Obtained from the TzHaar Fight Cave minigame. Provides good all-around stats, especially strength."
+  },
+  {
+    "name": "Bandos cloak",
+    "id": 28895,
+    "slot": "cape",
+    "style": "melee",
+    "stats": {
+      "attack_stab": 0,
+      "attack_slash": 0,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "strength": 0,
+      "prayer": 6,
+      "magic_damage": 0,
+      "ranged_strength": 0
+    },
+    "tradeable": true,
+    "members": true,
+    "degradable": false,
+    "chargeable": {
+      "is_chargeable": false
+    },
+    "initial_cost": 500,
+    "running_cost": {
+      "item_name": null,
+      "item_id": null,
+      "cost_per_item": 0,
+      "usage_rate": 0,
+      "ge_buy_limit": 0
+    },
+    "quest_requirements": [],
+    "skill_requirements": {},
+    "set_effect": null,
+    "power_calc": {
+      "melee": {
+        "stab": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "slash": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        },
+        "crush": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "ranged": {
+        "ranged": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      },
+      "magic": {
+        "magic": {
+          "base_power": 0,
+          "effective_power": 0,
+          "set_bonus": 0,
+          "set_power": 0,
+          "efficiency": 0
+        }
+      }
+    },
+    "notes": "Provides a prayer bonus. Requires completion of The Frozen Door miniquest to obtain."
+  }
+]

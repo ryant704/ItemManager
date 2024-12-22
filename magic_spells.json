@@ -1,0 +1,2734 @@
+[
+  {
+    "name": "Wind Strike",
+    "id": 1,
+    "level": 1,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "strike",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 1
+        },
+        {
+          "item_name": "Mind rune",
+          "item_id": 558,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 2,
+    "base_accuracy": 0,
+    "base_xp": 5.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Lowest level combat spell.",
+    "members": false
+  },
+  {
+    "name": "Water Strike",
+    "id": 2,
+    "level": 5,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "strike",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 1
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 1
+        },
+        {
+          "item_name": "Mind rune",
+          "item_id": 558,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 4,
+    "base_accuracy": 0,
+    "base_xp": 7.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [
+      "Fire Spells"
+    ],
+    "resistant_to": [
+      "Water Spells",
+      "Ice Spells"
+    ],
+    "notes": "Deals water damage.",
+    "members": false
+  },
+  {
+    "name": "Earth Strike",
+    "id": 3,
+    "level": 9,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "strike",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 2
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 1
+        },
+        {
+          "item_name": "Mind rune",
+          "item_id": 558,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 6,
+    "base_accuracy": 0,
+    "base_xp": 9.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [
+      "Water Spells",
+      "Ice Spells"
+    ],
+    "resistant_to": [
+      "Fire Spells"
+    ],
+    "notes": "Deals earth damage.",
+    "members": false
+  },
+  {
+    "name": "Fire Strike",
+    "id": 7,
+    "level": 13,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "strike",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Fire rune",
+          "item_id": 554,
+          "quantity": 3
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 2
+        },
+        {
+          "item_name": "Mind rune",
+          "item_id": 558,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 8,
+    "base_accuracy": 0,
+    "base_xp": 11.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [
+      "Fire Spells"
+    ],
+    "notes": "Deals fire damage.",
+    "members": false
+  },
+  {
+    "name": "Wind Bolt",
+    "id": 5,
+    "level": 17,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "bolt",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 1
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 2
+        }
+      ]
+    },
+    "base_damage": 9,
+    "base_accuracy": 0,
+    "base_xp": 13.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Basic air spell.",
+    "members": false
+  },
+  {
+    "name": "Water Bolt",
+    "id": 9,
+    "level": 23,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "bolt",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 1
+        },
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 2
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 2
+        }
+      ]
+    },
+    "base_damage": 10,
+    "base_accuracy": 0,
+    "base_xp": 16.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [
+      "Fire Spells"
+    ],
+    "resistant_to": [
+      "Water Spells",
+      "Ice Spells"
+    ],
+    "notes": "Deals water damage.",
+    "members": false
+  },
+  {
+    "name": "Earth Bolt",
+    "id": 4,
+    "level": 29,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "bolt",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 1
+        },
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 3
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 2
+        }
+      ]
+    },
+    "base_damage": 11,
+    "base_accuracy": 0,
+    "base_xp": 19.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [
+      "Water Spells",
+      "Ice Spells"
+    ],
+    "resistant_to": [
+      "Fire Spells"
+    ],
+    "notes": "Earth bolt causes a 5% damage reduction on hit.",
+    "members": false
+  },
+  {
+    "name": "Fire Bolt",
+    "id": 6,
+    "level": 35,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "bolt",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 1
+        },
+        {
+          "item_name": "Fire rune",
+          "item_id": 554,
+          "quantity": 4
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 3
+        }
+      ]
+    },
+    "base_damage": 12,
+    "base_accuracy": 0,
+    "base_xp": 22.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [
+      "Fire Spells"
+    ],
+    "notes": "Deals fire damage.",
+    "members": false
+  },
+  {
+    "name": "Wind Blast",
+    "id": 10,
+    "level": 41,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "blast",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 1
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 3
+        }
+      ]
+    },
+    "base_damage": 13,
+    "base_accuracy": 0,
+    "base_xp": 25.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Basic air spell.",
+    "members": false
+  },
+  {
+    "name": "Water Blast",
+    "id": 11,
+    "level": 47,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "blast",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 1
+        },
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 3
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 3
+        }
+      ]
+    },
+    "base_damage": 14,
+    "base_accuracy": 0,
+    "base_xp": 28.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [
+      "Fire Spells"
+    ],
+    "resistant_to": [
+      "Water Spells",
+      "Ice Spells"
+    ],
+    "notes": "Deals water damage.",
+    "members": false
+  },
+  {
+    "name": "Earth Blast",
+    "id": 12,
+    "level": 53,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "blast",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 1
+        },
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 4
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 3
+        }
+      ]
+    },
+    "base_damage": 15,
+    "base_accuracy": 0,
+    "base_xp": 31.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [
+      "Water Spells",
+      "Ice Spells"
+    ],
+    "resistant_to": [
+      "Fire Spells"
+    ],
+    "notes": "Deals earth damage.",
+    "members": false
+  },
+  {
+    "name": "Fire Blast",
+    "id": 13,
+    "level": 59,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "blast",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 1
+        },
+        {
+          "item_name": "Fire rune",
+          "item_id": 554,
+          "quantity": 5
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 4
+        }
+      ]
+    },
+    "base_damage": 16,
+    "base_accuracy": 0,
+    "base_xp": 34.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [
+      "Fire Spells"
+    ],
+    "notes": "Deals fire damage.",
+    "members": false
+  },
+  {
+    "name": "Wind Wave",
+    "id": 14,
+    "level": 62,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "wave",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 1
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 5
+        }
+      ]
+    },
+    "base_damage": 17,
+    "base_accuracy": 0,
+    "base_xp": 36,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Basic air spell.",
+    "members": true
+  },
+  {
+    "name": "Water Wave",
+    "id": 15,
+    "level": 65,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "wave",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 1
+        },
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 7
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 5
+        }
+      ]
+    },
+    "base_damage": 18,
+    "base_accuracy": 0,
+    "base_xp": 37.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [
+      "Fire Spells"
+    ],
+    "resistant_to": [
+      "Water Spells",
+      "Ice Spells"
+    ],
+    "notes": "Deals water damage.",
+    "members": true
+  },
+  {
+    "name": "Earth Wave",
+    "id": 16,
+    "level": 70,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "wave",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 1
+        },
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 7
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 5
+        }
+      ]
+    },
+    "base_damage": 19,
+    "base_accuracy": 0,
+    "base_xp": 40,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [
+      "Water Spells",
+      "Ice Spells"
+    ],
+    "resistant_to": [
+      "Fire Spells"
+    ],
+    "notes": "Deals earth damage.",
+    "members": true
+  },
+  {
+    "name": "Fire Wave",
+    "id": 17,
+    "level": 75,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "wave",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 1
+        },
+        {
+          "item_name": "Fire rune",
+          "item_id": 554,
+          "quantity": 7
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 5
+        }
+      ]
+    },
+    "base_damage": 20,
+    "base_accuracy": 0,
+    "base_xp": 42.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [
+      "Fire Spells"
+    ],
+    "notes": "Deals fire damage.",
+    "members": true
+  },
+  {
+    "name": "Wind Surge",
+    "id": 66,
+    "level": 81,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "surge",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Wrath rune",
+          "item_id": 23271,
+          "quantity": 1
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 7
+        }
+      ]
+    },
+    "base_damage": 21,
+    "base_accuracy": 0,
+    "base_xp": 44.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Basic air spell.",
+    "members": true
+  },
+  {
+    "name": "Water Surge",
+    "id": 67,
+    "level": 85,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "surge",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Wrath rune",
+          "item_id": 23271,
+          "quantity": 1
+        },
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 10
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 7
+        }
+      ]
+    },
+    "base_damage": 22,
+    "base_accuracy": 0,
+    "base_xp": 46.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [
+      "Fire Spells"
+    ],
+    "resistant_to": [
+      "Water Spells",
+      "Ice Spells"
+    ],
+    "notes": "Deals water damage.",
+    "members": true
+  },
+  {
+    "name": "Earth Surge",
+    "id": 68,
+    "level": 90,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "surge",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Wrath rune",
+          "item_id": 23271,
+          "quantity": 1
+        },
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 10
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 7
+        }
+      ]
+    },
+    "base_damage": 23,
+    "base_accuracy": 0,
+    "base_xp": 48.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [
+      "Water Spells",
+      "Ice Spells"
+    ],
+    "resistant_to": [
+      "Fire Spells"
+    ],
+    "notes": "Deals earth damage.",
+    "members": true
+  },
+  {
+    "name": "Fire Surge",
+    "id": 69,
+    "level": 95,
+    "spellbook": "standard",
+    "category": "combat",
+    "subcategory": "surge",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Wrath rune",
+          "item_id": 23271,
+          "quantity": 1
+        },
+        {
+          "item_name": "Fire rune",
+          "item_id": 554,
+          "quantity": 10
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 7
+        }
+      ]
+    },
+    "base_damage": 24,
+    "base_accuracy": 0,
+    "base_xp": 50.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [
+      "Fire Spells"
+    ],
+    "notes": "Deals fire damage.",
+    "members": true
+  },
+  {
+    "name": "Smoke Rush",
+    "id": 28,
+    "level": 50,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "rush",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 2
+        },
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 2
+        },
+        {
+          "item_name": "Fire rune",
+          "item_id": 554,
+          "quantity": 1
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 13,
+    "base_accuracy": 0,
+    "base_xp": 30,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Poison",
+      "chance": 0.25
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Low-level Ancient Magicks spell. Has a 25% chance to poison the target.",
+    "members": true
+  },
+  {
+    "name": "Shadow Rush",
+    "id": 30,
+    "level": 52,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "rush",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 2
+        },
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 2
+        },
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 1
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 14,
+    "base_accuracy": 0,
+    "base_xp": 31,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Attack reduction",
+      "chance": 0.25
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Low-level Ancient Magicks spell. Has a 25% chance to reduce the target's Attack level.",
+    "members": true
+  },
+  {
+    "name": "Blood Rush",
+    "id": 29,
+    "level": 56,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "rush",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 2
+        },
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 2
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 15,
+    "base_accuracy": 0,
+    "base_xp": 33,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Heal",
+      "chance": 0.25
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Low-level Ancient Magicks spell. Heals the caster for 25% of the damage dealt.",
+    "members": true
+  },
+  {
+    "name": "Ice Rush",
+    "id": 27,
+    "level": 58,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "rush",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 2
+        },
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 2
+        },
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 2
+        }
+      ]
+    },
+    "base_damage": 16,
+    "base_accuracy": 0,
+    "base_xp": 34,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Freeze",
+      "duration": 5,
+      "chance": 0.25
+    },
+    "weak_to": [
+      "Fire Spells"
+    ],
+    "resistant_to": [
+      "Water Spells",
+      "Ice Spells"
+    ],
+    "notes": "Low-level Ancient Magicks spell. Has a 25% chance to freeze the target for 5 seconds.",
+    "members": true
+  },
+  {
+    "name": "Smoke Burst",
+    "id": 32,
+    "level": 62,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "burst",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 4
+        },
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 2
+        },
+        {
+          "item_name": "Fire rune",
+          "item_id": 554,
+          "quantity": 2
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 2
+        }
+      ]
+    },
+    "base_damage": 17,
+    "base_accuracy": 0,
+    "base_xp": 36,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Poison",
+      "chance": 0.5
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Mid-level Ancient Magicks spell. Has a 50% chance to poison the target.",
+    "members": true
+  },
+  {
+    "name": "Shadow Burst",
+    "id": 34,
+    "level": 64,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "burst",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 4
+        },
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 2
+        },
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 2
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 18,
+    "base_accuracy": 0,
+    "base_xp": 37,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Attack reduction",
+      "chance": 0.5
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Mid-level Ancient Magicks spell. Has a 50% chance to reduce the target's Attack level.",
+    "members": true
+  },
+  {
+    "name": "Blood Burst",
+    "id": 33,
+    "level": 68,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "burst",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 4
+        },
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 2
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 2
+        }
+      ]
+    },
+    "base_damage": 19,
+    "base_accuracy": 0,
+    "base_xp": 39,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Heal",
+      "chance": 0.25
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Mid-level Ancient Magicks spell. Heals the caster for 25% of the damage dealt.",
+    "members": true
+  },
+  {
+    "name": "Ice Burst",
+    "id": 31,
+    "level": 70,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "burst",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 4
+        },
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 2
+        },
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 4
+        }
+      ]
+    },
+    "base_damage": 21,
+    "base_accuracy": 0,
+    "base_xp": 40,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Freeze",
+      "duration": 10,
+      "chance": 0.5
+    },
+    "weak_to": [
+      "Fire Spells"
+    ],
+    "resistant_to": [
+      "Water Spells",
+      "Ice Spells"
+    ],
+    "notes": "Mid-level Ancient Magicks spell. Has a 50% chance to freeze the target for 10 seconds.",
+    "members": true
+  },
+  {
+    "name": "Smoke Blitz",
+    "id": 36,
+    "level": 74,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "blitz",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 4
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 2
+        },
+        {
+          "item_name": "Fire rune",
+          "item_id": 554,
+          "quantity": 2
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 2
+        }
+      ]
+    },
+    "base_damage": 23,
+    "base_accuracy": 0,
+    "base_xp": 42,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Poison",
+      "chance": 0.75
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "High-level Ancient Magicks spell. Has a 75% chance to poison the target.",
+    "members": true
+  },
+  {
+    "name": "Shadow Blitz",
+    "id": 38,
+    "level": 76,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "blitz",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 4
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 2
+        },
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 2
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 2
+        }
+      ]
+    },
+    "base_damage": 24,
+    "base_accuracy": 0,
+    "base_xp": 43,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Attack reduction",
+      "chance": 0.75
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "High-level Ancient Magicks spell. Has a 75% chance to reduce the target's Attack level.",
+    "members": true
+  },
+  {
+    "name": "Blood Blitz",
+    "id": 37,
+    "level": 80,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "blitz",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 4
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 4
+        }
+      ]
+    },
+    "base_damage": 25,
+    "base_accuracy": 0,
+    "base_xp": 45,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Heal",
+      "chance": 0.25
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "High-level Ancient Magicks spell. Heals the caster for 25% of the damage dealt.",
+    "members": true
+  },
+  {
+    "name": "Ice Blitz",
+    "id": 35,
+    "level": 82,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "blitz",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 4
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 2
+        },
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 3
+        }
+      ]
+    },
+    "base_damage": 26,
+    "base_accuracy": 0,
+    "base_xp": 46,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Freeze",
+      "duration": 15,
+      "chance": 0.75
+    },
+    "weak_to": [
+      "Fire Spells"
+    ],
+    "resistant_to": [
+      "Water Spells",
+      "Ice Spells"
+    ],
+    "notes": "High-level Ancient Magicks spell. Has a 75% chance to freeze the target for 15 seconds.",
+    "members": true
+  },
+  {
+    "name": "Smoke Barrage",
+    "id": 40,
+    "level": 86,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "barrage",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 4
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 4
+        },
+        {
+          "item_name": "Fire rune",
+          "item_id": 554,
+          "quantity": 4
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 4
+        }
+      ]
+    },
+    "base_damage": 27,
+    "base_accuracy": 0,
+    "base_xp": 48,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Poison",
+      "chance": 1
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Highest-level Ancient Magicks spell. Always poisons the target.",
+    "members": true
+  },
+  {
+    "name": "Shadow Barrage",
+    "id": 42,
+    "level": 88,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "barrage",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 4
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 4
+        },
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 3
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 4
+        }
+      ]
+    },
+    "base_damage": 28,
+    "base_accuracy": 0,
+    "base_xp": 49,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Attack reduction",
+      "chance": 1
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Highest-level Ancient Magicks spell. Always reduces the target's Attack level.",
+    "members": true
+  },
+  {
+    "name": "Blood Barrage",
+    "id": 41,
+    "level": 92,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "barrage",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 4
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 4
+        },
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 29,
+    "base_accuracy": 0,
+    "base_xp": 51,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Heal",
+      "chance": 0.5
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Highest-level Ancient Magicks spell. Heals the caster for 50% of the damage dealt.",
+    "members": true
+  },
+  {
+    "name": "Ice Barrage",
+    "id": 39,
+    "level": 94,
+    "spellbook": "ancient",
+    "category": "combat",
+    "subcategory": "barrage",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 4
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 4
+        },
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 6
+        }
+      ]
+    },
+    "base_damage": 30,
+    "base_accuracy": 0,
+    "base_xp": 52,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Freeze",
+      "duration": 20,
+      "chance": 1
+    },
+    "weak_to": [
+      "Fire Spells"
+    ],
+    "resistant_to": [
+      "Water Spells",
+      "Ice Spells"
+    ],
+    "notes": "Highest-level Ancient Magicks spell. Always freezes the target for 20 seconds.",
+    "members": true
+  },
+  {
+    "name": "Confuse",
+    "id": 8,
+    "level": 3,
+    "spellbook": "standard",
+    "category": "utility",
+    "subcategory": "curse",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 3
+        },
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 2
+        },
+        {
+          "item_name": "Body rune",
+          "item_id": 559,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 13,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Attack reduction",
+      "reduction": 0.05
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Reduces the target's Attack level by 5%.",
+    "members": false
+  },
+  {
+    "name": "Weaken",
+    "id": 18,
+    "level": 11,
+    "spellbook": "standard",
+    "category": "utility",
+    "subcategory": "curse",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 3
+        },
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 2
+        },
+        {
+          "item_name": "Body rune",
+          "item_id": 559,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 21,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Strength reduction",
+      "reduction": 0.05
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Reduces the target's Strength level by 5%.",
+    "members": false
+  },
+  {
+    "name": "Curse",
+    "id": 20,
+    "level": 19,
+    "spellbook": "standard",
+    "category": "utility",
+    "subcategory": "curse",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 2
+        },
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 3
+        },
+        {
+          "item_name": "Body rune",
+          "item_id": 559,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 29,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Defence reduction",
+      "reduction": 0.05
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Reduces the target's Defence level by 5%.",
+    "members": false
+  },
+  {
+    "name": "Vulnerability",
+    "id": 47,
+    "level": 66,
+    "spellbook": "standard",
+    "category": "utility",
+    "subcategory": "curse",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 5
+        },
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 5
+        },
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 76,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Defence reduction",
+      "reduction": 0.1
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Reduces the target's Defence level by 10%.",
+    "members": true
+  },
+  {
+    "name": "Enfeeble",
+    "id": 50,
+    "level": 73,
+    "spellbook": "standard",
+    "category": "utility",
+    "subcategory": "curse",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 8
+        },
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 8
+        },
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 83,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Strength reduction",
+      "reduction": 0.1
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Reduces the target's Strength level by 10%.",
+    "members": true
+  },
+  {
+    "name": "Stun",
+    "id": 54,
+    "level": 80,
+    "spellbook": "standard",
+    "category": "utility",
+    "subcategory": "curse",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 12
+        },
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 12
+        },
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 90,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Attack reduction",
+      "reduction": 0.1
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Reduces the target's Attack level by 10%.",
+    "members": true
+  },
+  {
+    "name": "Bind",
+    "id": 21,
+    "level": 20,
+    "spellbook": "standard",
+    "category": "utility",
+    "subcategory": "bind",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 3
+        },
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 3
+        },
+        {
+          "item_name": "Nature rune",
+          "item_id": 561,
+          "quantity": 2
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 30,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Bind",
+      "duration": 5
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Roots the target in place for 5 seconds.",
+    "members": false
+  },
+  {
+    "name": "Snare",
+    "id": 37,
+    "level": 50,
+    "spellbook": "standard",
+    "category": "utility",
+    "subcategory": "bind",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 4
+        },
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 4
+        },
+        {
+          "item_name": "Nature rune",
+          "item_id": 561,
+          "quantity": 3
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 60,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Bind",
+      "duration": 10
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Roots the target in place for 10 seconds.",
+    "members": false
+  },
+  {
+    "name": "Entangle",
+    "id": 53,
+    "level": 79,
+    "spellbook": "standard",
+    "category": "utility",
+    "subcategory": "bind",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 5
+        },
+        {
+          "item_name": "Water rune",
+          "item_id": 555,
+          "quantity": 5
+        },
+        {
+          "item_name": "Nature rune",
+          "item_id": 561,
+          "quantity": 4
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 89,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Bind",
+      "duration": 15
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Roots the target in place for 15 seconds.",
+    "members": false
+  },
+  {
+    "name": "Tele Block",
+    "id": 55,
+    "level": 85,
+    "spellbook": "standard",
+    "category": "utility",
+    "subcategory": "teleport",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 1
+        },
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 1
+        },
+        {
+          "item_name": "Law rune",
+          "item_id": 563,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 80,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "status_effect": {
+      "effect_name": "Teleport Block",
+      "duration": 300
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Prevents the target from using most forms of teleportation for 5 minutes.",
+    "members": false
+  },
+  {
+    "name": "Arceuus Strike",
+    "id": 1000,
+    "level": 19,
+    "spellbook": "arceuus",
+    "category": "combat",
+    "subcategory": "strike",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Body rune",
+          "item_id": 559,
+          "quantity": 1
+        },
+        {
+          "item_name": "Fire rune",
+          "item_id": 554,
+          "quantity": 1
+        },
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 1
+        },
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 1
+        },
+        {
+          "item_name": "Mind rune",
+          "item_id": 558,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 8,
+    "base_accuracy": 0,
+    "base_xp": 11,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "A basic spell from the Arceuus spellbook.",
+    "members": true
+  },
+  {
+    "name": "Reanimate Dragon",
+    "id": 1001,
+    "level": 88,
+    "spellbook": "arceuus",
+    "category": "utility",
+    "subcategory": "reanimation",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 4
+        },
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 4
+        },
+        {
+          "item_name": "Nature rune",
+          "item_id": 561,
+          "quantity": 6
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 176,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Allows the user to reanimate an ensouled dragon head. Requires 100% Arceuus favour.",
+    "members": true
+  },
+  {
+    "name": "Inferior Demonbane",
+    "id": 1002,
+    "level": 44,
+    "spellbook": "arceuus",
+    "category": "combat",
+    "subcategory": "demonbane",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Fire rune",
+          "item_id": 554,
+          "quantity": 4
+        },
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 16,
+    "base_accuracy": 0,
+    "base_xp": 30,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [
+      "Demons"
+    ],
+    "resistant_to": [],
+    "notes": "A demonbane spell that deals additional damage to demons. Requires 40% Arceuus favour.",
+    "members": true
+  },
+  {
+    "name": "Dark Lure",
+    "id": 1003,
+    "level": 50,
+    "spellbook": "arceuus",
+    "category": "utility",
+    "subcategory": "lure",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 3
+        },
+        {
+          "item_name": "Death rune",
+          "item_id": 560,
+          "quantity": 1
+        },
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 40,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Used in the Hunt for Red Raktuber quest. Requires 50% Arceuus favour.",
+    "members": true
+  },
+  {
+    "name": "Ghostly Grasp",
+    "id": 1004,
+    "level": 25,
+    "spellbook": "arceuus",
+    "category": "combat",
+    "subcategory": "strike",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Air rune",
+          "item_id": 556,
+          "quantity": 4
+        },
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 9,
+    "base_accuracy": 0,
+    "base_xp": 17.5,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Basic Arceuus combat spell.",
+    "members": true
+  },
+  {
+    "name": "Skeletal Grasp",
+    "id": 1005,
+    "level": 46,
+    "spellbook": "arceuus",
+    "category": "combat",
+    "subcategory": "strike",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Earth rune",
+          "item_id": 557,
+          "quantity": 4
+        },
+        {
+          "item_name": "Chaos rune",
+          "item_id": 562,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 15,
+    "base_accuracy": 0,
+    "base_xp": 28,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Arceuus combat spell.",
+    "members": true
+  },
+  {
+    "name": "Undead Grasp",
+    "id": 1006,
+    "level": 67,
+    "spellbook": "arceuus",
+    "category": "combat",
+    "subcategory": "strike",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Fire rune",
+          "item_id": 554,
+          "quantity": 5
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 21,
+    "base_accuracy": 0,
+    "base_xp": 45,
+    "damage_scaling": {
+      "magic_level": 0.5,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Strong Arceuus combat spell.",
+    "members": true
+  },
+  {
+    "name": "Resurrect Lesser Ghost",
+    "id": 1007,
+    "level": 40,
+    "spellbook": "arceuus",
+    "category": "utility",
+    "subcategory": "resurrect",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 1
+        },
+        {
+          "item_name": "Body rune",
+          "item_id": 559,
+          "quantity": 2
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 50,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Summons a Lesser Ghost Thrall to fight for you. Requires 40% Arceuus favour.",
+    "members": true
+  },
+  {
+    "name": "Resurrect Lesser Skeleton",
+    "id": 1008,
+    "level": 55,
+    "spellbook": "arceuus",
+    "category": "utility",
+    "subcategory": "resurrect",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 1
+        },
+        {
+          "item_name": "Body rune",
+          "item_id": 559,
+          "quantity": 3
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 60,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Summons a Lesser Skeleton Thrall to fight for you. Requires 60% Arceuus favour.",
+    "members": true
+  },
+  {
+    "name": "Resurrect Lesser Zombie",
+    "id": 1009,
+    "level": 70,
+    "spellbook": "arceuus",
+    "category": "utility",
+    "subcategory": "resurrect",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 1
+        },
+        {
+          "item_name": "Body rune",
+          "item_id": 559,
+          "quantity": 4
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 1
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 80,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Summons a Lesser Zombie Thrall to fight for you. Requires 80% Arceuus favour.",
+    "members": true
+  },
+  {
+    "name": "Resurrect Superior Ghost",
+    "id": 1010,
+    "level": 65,
+    "spellbook": "arceuus",
+    "category": "utility",
+    "subcategory": "resurrect",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 1
+        },
+        {
+          "item_name": "Wrath rune",
+          "item_id": 23271,
+          "quantity": 1
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 2
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 70,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Summons a Superior Ghost Thrall to fight for you. Requires 40% Arceuus favour.",
+    "members": true
+  },
+  {
+    "name": "Resurrect Superior Skeleton",
+    "id": 1011,
+    "level": 80,
+    "spellbook": "arceuus",
+    "category": "utility",
+    "subcategory": "resurrect",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 1
+        },
+        {
+          "item_name": "Wrath rune",
+          "item_id": 23271,
+          "quantity": 1
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 2
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 90,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Summons a Superior Skeleton Thrall to fight for you. Requires 60% Arceuus favour.",
+    "members": true
+  },
+  {
+    "name": "Resurrect Superior Zombie",
+    "id": 1012,
+    "level": 94,
+    "spellbook": "arceuus",
+    "category": "utility",
+    "subcategory": "resurrect",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 1
+        },
+        {
+          "item_name": "Wrath rune",
+          "item_id": 23271,
+          "quantity": 1
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 2
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 100,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Summons a Superior Zombie Thrall to fight for you. Requires 80% Arceuus favour.",
+    "members": true
+  },
+  {
+    "name": "Resurrect Greater Ghost",
+    "id": 1013,
+    "level": 90,
+    "spellbook": "arceuus",
+    "category": "utility",
+    "subcategory": "resurrect",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 2
+        },
+        {
+          "item_name": "Wrath rune",
+          "item_id": 23271,
+          "quantity": 1
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 3
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 100,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Summons a Greater Ghost Thrall to fight for you. Requires 40% Arceuus favour.",
+    "members": true
+  },
+  {
+    "name": "Resurrect Greater Skeleton",
+    "id": 1014,
+    "level": 95,
+    "spellbook": "arceuus",
+    "category": "utility",
+    "subcategory": "resurrect",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 2
+        },
+        {
+          "item_name": "Wrath rune",
+          "item_id": 23271,
+          "quantity": 1
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 3
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 110,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Summons a Greater Skeleton Thrall to fight for you. Requires 60% Arceuus favour.",
+    "members": true
+  },
+  {
+    "name": "Resurrect Greater Zombie",
+    "id": 1015,
+    "level": 99,
+    "spellbook": "arceuus",
+    "category": "utility",
+    "subcategory": "resurrect",
+    "items": {
+      "runes_required": [
+        {
+          "item_name": "Soul rune",
+          "item_id": 566,
+          "quantity": 2
+        },
+        {
+          "item_name": "Wrath rune",
+          "item_id": 23271,
+          "quantity": 1
+        },
+        {
+          "item_name": "Blood rune",
+          "item_id": 565,
+          "quantity": 3
+        }
+      ]
+    },
+    "base_damage": 0,
+    "base_accuracy": 0,
+    "base_xp": 120,
+    "damage_scaling": {
+      "magic_level": 0,
+      "magic_damage_bonus": 0
+    },
+    "accuracy_scaling": {
+      "magic_level": 0
+    },
+    "weak_to": [],
+    "resistant_to": [],
+    "notes": "Summons a Greater Zombie Thrall to fight for you. Requires 80% Arceuus favour.",
+    "members": true
+  }
+]
