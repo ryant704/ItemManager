@@ -56,10 +56,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 0.0,
+          "effective_power": 0.0,
+          "set_bonus": 0,
+          "set_power": 0.0,
+          "efficiency": 0.0
         }
       }
     },
@@ -127,10 +129,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 6.0,
+          "effective_power": 6.0,
+          "set_bonus": 0,
+          "set_power": 6.0,
+          "efficiency": 0.004
         }
       }
     },
@@ -198,10 +202,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 6.0,
+          "effective_power": 6.0,
+          "set_bonus": 0,
+          "set_power": 6.0,
+          "efficiency": 0.004
         }
       }
     },
@@ -269,10 +275,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 6.0,
+          "effective_power": 6.0,
+          "set_bonus": 0,
+          "set_power": 6.0,
+          "efficiency": 0.004
         }
       }
     },
@@ -340,10 +348,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 6.0,
+          "effective_power": 6.0,
+          "set_bonus": 0,
+          "set_power": 6.0,
+          "efficiency": 0.004
         }
       }
     },
@@ -412,10 +422,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 8.4,
+          "effective_power": 8.4,
+          "set_bonus": 0,
+          "set_power": 8.4,
+          "efficiency": 0.00019
         }
       }
     },
@@ -484,10 +496,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 8.4,
+          "effective_power": 8.4,
+          "set_bonus": 0,
+          "set_power": 8.4,
+          "efficiency": 0.00019
         }
       }
     },
@@ -556,10 +570,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 8.4,
+          "effective_power": 8.4,
+          "set_bonus": 0,
+          "set_power": 8.4,
+          "efficiency": 0.00019
         }
       }
     },
@@ -628,10 +644,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 8.4,
+          "effective_power": 8.4,
+          "set_bonus": 0,
+          "set_power": 8.4,
+          "efficiency": 0.00019
         }
       }
     },
@@ -702,10 +720,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 12.8,
+          "effective_power": 12.8,
+          "set_bonus": 0,
+          "set_power": 12.8,
+          "efficiency": 0.00023
         }
       }
     },
@@ -785,10 +805,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 15.0,
+          "effective_power": 15.0,
+          "set_bonus": 0,
+          "set_power": 15.0,
+          "efficiency": 0.00019
         }
       }
     },
@@ -857,10 +879,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 6.0,
+          "effective_power": 6.0,
+          "set_bonus": 0,
+          "set_power": 6.0,
+          "efficiency": 0.00012
         }
       }
     },
@@ -929,10 +953,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 15.0,
+          "effective_power": 15.0,
+          "set_bonus": 0,
+          "set_power": 15.0,
+          "efficiency": 1e-05
         }
       }
     },
@@ -1030,10 +1056,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 15.0,
+          "effective_power": 15.0,
+          "set_bonus": 0,
+          "set_power": 15.0,
+          "efficiency": 1e-05
         }
       }
     },
@@ -1131,10 +1159,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 15.0,
+          "effective_power": 15.0,
+          "set_bonus": 0,
+          "set_power": 15.0,
+          "efficiency": 0.0
         }
       }
     },
@@ -1213,10 +1243,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 33.0,
+          "effective_power": 33.0,
+          "set_bonus": 0,
+          "set_power": 33.0,
+          "efficiency": 1e-05
         }
       }
     },
@@ -1295,10 +1327,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 42.0,
+          "effective_power": 42.0,
+          "set_bonus": 0,
+          "set_power": 42.0,
+          "efficiency": 1e-05
         }
       }
     },
@@ -1369,10 +1403,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 15.0,
+          "effective_power": 15.0,
+          "set_bonus": 0,
+          "set_power": 15.0,
+          "efficiency": 2e-05
         }
       }
     },
@@ -1442,10 +1478,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 34.8,
+          "effective_power": 34.8,
+          "set_bonus": 0,
+          "set_power": 34.8,
+          "efficiency": 0.0
         }
       }
     },
@@ -1516,10 +1554,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 12.0,
+          "effective_power": 12.0,
+          "set_bonus": 0,
+          "set_power": 12.0,
+          "efficiency": 2e-05
         }
       }
     },
@@ -1596,10 +1636,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 6.0,
+          "effective_power": 6.0,
+          "set_bonus": 0,
+          "set_power": 6.0,
+          "efficiency": 6e-05
         }
       }
     },
@@ -1668,10 +1710,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 35.0,
+          "effective_power": 35.0,
+          "set_bonus": 0,
+          "set_power": 35.0,
+          "efficiency": 1e-05
         }
       }
     },
@@ -1740,10 +1784,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 35.0,
+          "effective_power": 35.0,
+          "set_bonus": 0,
+          "set_power": 35.0,
+          "efficiency": 0.0
         }
       }
     },
@@ -1814,9 +1860,11 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
+        "magic": {
+          "base_power": 15.0,
+          "effective_power": 15.0,
+          "set_bonus": 0,
+          "set_power": 15.0,
           "efficiency": 0
         }
       }
@@ -1895,10 +1943,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 33.0,
+          "effective_power": 33.0,
+          "set_bonus": 0,
+          "set_power": 33.0,
+          "efficiency": 0.0
         }
       }
     },
@@ -1975,9 +2025,11 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
+        "magic": {
+          "base_power": 6.0,
+          "effective_power": 6.0,
+          "set_bonus": 0,
+          "set_power": 6.0,
           "efficiency": 0
         }
       }
@@ -2046,10 +2098,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0.21818
         }
       }
     },
@@ -2117,10 +2171,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 3.6,
+          "effective_power": 3.6,
+          "set_bonus": 0,
+          "set_power": 3.6,
+          "efficiency": 0.07059
         }
       }
     },
@@ -2188,10 +2244,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 4.8,
+          "effective_power": 4.8,
+          "set_bonus": 0,
+          "set_power": 4.8,
+          "efficiency": 0.00958
         }
       }
     },
@@ -2259,10 +2317,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 6.0,
+          "effective_power": 6.0,
+          "set_bonus": 0,
+          "set_power": 6.0,
+          "efficiency": 0.0012
         }
       }
     },
@@ -2330,10 +2390,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 6.0,
+          "effective_power": 6.0,
+          "set_bonus": 0,
+          "set_power": 6.0,
+          "efficiency": 0.0012
         }
       }
     },
@@ -2401,10 +2463,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 6.0,
+          "effective_power": 6.0,
+          "set_bonus": 0,
+          "set_power": 6.0,
+          "efficiency": 0.0012
         }
       }
     },
@@ -2472,10 +2536,12 @@
     },
     "power_calc": {
       "magic": {
-        "spell": {
-          "base_power": 0,
-          "effective_power": 0,
-          "efficiency": 0
+        "magic": {
+          "base_power": 6.0,
+          "effective_power": 6.0,
+          "set_bonus": 0,
+          "set_power": 6.0,
+          "efficiency": 0.0012
         }
       }
     },

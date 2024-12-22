@@ -57,10 +57,12 @@
     },
     "power_calc": {
       "ranged": {
-        "arrow": {
-          "base_power": 5,
-          "effective_power": 5,
-          "efficiency": 0.0833
+        "ranged": {
+          "base_power": 4.8,
+          "effective_power": 4.8,
+          "set_bonus": 0,
+          "set_power": 4.8,
+          "efficiency": 0.09412
         }
       }
     },
@@ -135,10 +137,12 @@
     },
     "power_calc": {
       "ranged": {
-        "arrow": {
-          "base_power": 10,
-          "effective_power": 10,
-          "efficiency": 0.0625
+        "ranged": {
+          "base_power": 8.4,
+          "effective_power": 8.4,
+          "set_bonus": 0,
+          "set_power": 8.4,
+          "efficiency": 0.08317
         }
       }
     },
@@ -213,10 +217,12 @@
     },
     "power_calc": {
       "ranged": {
-        "arrow": {
-          "base_power": 15,
-          "effective_power": 15,
-          "efficiency": 0.0535
+        "ranged": {
+          "base_power": 12.0,
+          "effective_power": 12.0,
+          "set_bonus": 0,
+          "set_power": 12.0,
+          "efficiency": 0.0597
         }
       }
     },
@@ -291,10 +297,12 @@
     },
     "power_calc": {
       "ranged": {
-        "arrow": {
-          "base_power": 20,
-          "effective_power": 20,
-          "efficiency": 0.0333
+        "ranged": {
+          "base_power": 17.4,
+          "effective_power": 17.4,
+          "set_bonus": 0,
+          "set_power": 17.4,
+          "efficiency": 0.04339
         }
       }
     },
@@ -369,10 +377,12 @@
     },
     "power_calc": {
       "ranged": {
-        "arrow": {
-          "base_power": 25,
-          "effective_power": 25,
-          "efficiency": 0.0156
+        "ranged": {
+          "base_power": 22.2,
+          "effective_power": 22.2,
+          "set_bonus": 0,
+          "set_power": 22.2,
+          "efficiency": 0.01479
         }
       }
     },
@@ -447,10 +457,12 @@
     },
     "power_calc": {
       "ranged": {
-        "arrow": {
-          "base_power": 40,
-          "effective_power": 40,
-          "efficiency": 0.0053
+        "ranged": {
+          "base_power": 41.4,
+          "effective_power": 41.4,
+          "set_bonus": 0,
+          "set_power": 41.4,
+          "efficiency": 0.00828
         }
       }
     },
@@ -527,10 +539,12 @@
     },
     "power_calc": {
       "ranged": {
-        "bolt": {
-          "base_power": 15,
-          "effective_power": 15,
-          "efficiency": 0.15625
+        "ranged": {
+          "base_power": 21.6,
+          "effective_power": 21.6,
+          "set_bonus": 0,
+          "set_power": 21.6,
+          "efficiency": 0.42353
         }
       }
     },
@@ -605,10 +619,12 @@
     },
     "power_calc": {
       "ranged": {
-        "bolt": {
-          "base_power": 10,
-          "effective_power": 10,
-          "efficiency": 0.1176
+        "ranged": {
+          "base_power": 15.6,
+          "effective_power": 15.6,
+          "set_bonus": 0,
+          "set_power": 15.6,
+          "efficiency": 0.30588
         }
       }
     },
@@ -683,10 +699,12 @@
     },
     "power_calc": {
       "ranged": {
-        "bolt": {
-          "base_power": 15,
-          "effective_power": 15,
-          "efficiency": 0.0681
+        "ranged": {
+          "base_power": 21.6,
+          "effective_power": 21.6,
+          "set_bonus": 0,
+          "set_power": 21.6,
+          "efficiency": 0.14305
         }
       }
     },
@@ -761,10 +779,12 @@
     },
     "power_calc": {
       "ranged": {
-        "bolt": {
-          "base_power": 25,
-          "effective_power": 25,
-          "efficiency": 0.0352
+        "ranged": {
+          "base_power": 27.6,
+          "effective_power": 27.6,
+          "set_bonus": 0,
+          "set_power": 27.6,
+          "efficiency": 0.05509
         }
       }
     },
@@ -839,10 +859,12 @@
     },
     "power_calc": {
       "ranged": {
-        "bolt": {
-          "base_power": 35,
-          "effective_power": 35,
-          "efficiency": 0.0169
+        "ranged": {
+          "base_power": 34.8,
+          "effective_power": 34.8,
+          "set_bonus": 0,
+          "set_power": 34.8,
+          "efficiency": 0.02318
         }
       }
     },
@@ -917,10 +939,12 @@
     },
     "power_calc": {
       "ranged": {
-        "bolt": {
-          "base_power": 45,
-          "effective_power": 45,
-          "efficiency": 0.0086
+        "ranged": {
+          "base_power": 39.6,
+          "effective_power": 39.6,
+          "set_bonus": 0,
+          "set_power": 39.6,
+          "efficiency": 0.01131
         }
       }
     },
@@ -995,10 +1019,12 @@
     },
     "power_calc": {
       "ranged": {
-        "bolt": {
-          "base_power": 60,
-          "effective_power": 60,
-          "efficiency": 0.0037
+        "ranged": {
+          "base_power": 54.0,
+          "effective_power": 54.0,
+          "set_bonus": 0,
+          "set_power": 54.0,
+          "efficiency": 0.006
         }
       }
     },
@@ -1073,10 +1099,12 @@
     },
     "power_calc": {
       "ranged": {
-        "dart": {
-          "base_power": 2,
-          "effective_power": 2,
-          "efficiency": 1
+        "ranged": {
+          "base_power": 1.8,
+          "effective_power": 1.8,
+          "set_bonus": 0,
+          "set_power": 1.8,
+          "efficiency": 0.9
         }
       }
     },
@@ -1151,10 +1179,12 @@
     },
     "power_calc": {
       "ranged": {
-        "dart": {
-          "base_power": 3,
-          "effective_power": 3,
-          "efficiency": 0.0476
+        "ranged": {
+          "base_power": 2.4,
+          "effective_power": 2.4,
+          "set_bonus": 0,
+          "set_power": 2.4,
+          "efficiency": 0.6
         }
       }
     },
@@ -1229,10 +1259,12 @@
     },
     "power_calc": {
       "ranged": {
-        "dart": {
-          "base_power": 5,
-          "effective_power": 5,
-          "efficiency": 0.0086
+        "ranged": {
+          "base_power": 4.2,
+          "effective_power": 4.2,
+          "set_bonus": 0,
+          "set_power": 4.2,
+          "efficiency": 0.42
         }
       }
     },
@@ -1307,10 +1339,12 @@
     },
     "power_calc": {
       "ranged": {
-        "dart": {
-          "base_power": 8,
-          "effective_power": 8,
-          "efficiency": 0.0043
+        "ranged": {
+          "base_power": 6.0,
+          "effective_power": 6.0,
+          "set_bonus": 0,
+          "set_power": 6.0,
+          "efficiency": 0.22222
         }
       }
     },
@@ -1385,10 +1419,12 @@
     },
     "power_calc": {
       "ranged": {
-        "dart": {
-          "base_power": 12,
-          "effective_power": 12,
-          "efficiency": 0.0026
+        "ranged": {
+          "base_power": 9.0,
+          "effective_power": 9.0,
+          "set_bonus": 0,
+          "set_power": 9.0,
+          "efficiency": 0.13636
         }
       }
     },
@@ -1463,10 +1499,12 @@
     },
     "power_calc": {
       "ranged": {
-        "dart": {
-          "base_power": 18,
-          "effective_power": 18,
-          "efficiency": 0.00083
+        "ranged": {
+          "base_power": 13.2,
+          "effective_power": 13.2,
+          "set_bonus": 0,
+          "set_power": 13.2,
+          "efficiency": 0.04385
         }
       }
     },
@@ -1557,10 +1595,12 @@
     },
     "power_calc": {
       "ranged": {
-        "dart": {
-          "base_power": 100,
-          "effective_power": 150,
-          "efficiency": 4.9e-05
+        "ranged": {
+          "base_power": 60.0,
+          "effective_power": 60.0,
+          "set_bonus": 0,
+          "set_power": 60.0,
+          "efficiency": 2e-05
         }
       }
     },
@@ -1635,10 +1675,12 @@
     },
     "power_calc": {
       "ranged": {
-        "knife": {
-          "base_power": 4,
-          "effective_power": 4,
-          "efficiency": 0.0625
+        "ranged": {
+          "base_power": 4.2,
+          "effective_power": 4.2,
+          "set_bonus": 0,
+          "set_power": 4.2,
+          "efficiency": 2.1
         }
       }
     },
@@ -1713,10 +1755,12 @@
     },
     "power_calc": {
       "ranged": {
-        "knife": {
-          "base_power": 6,
-          "effective_power": 6,
-          "efficiency": 0.0147
+        "ranged": {
+          "base_power": 6.6,
+          "effective_power": 6.6,
+          "set_bonus": 0,
+          "set_power": 6.6,
+          "efficiency": 0.94286
         }
       }
     },
@@ -1791,10 +1835,12 @@
     },
     "power_calc": {
       "ranged": {
-        "knife": {
-          "base_power": 9,
-          "effective_power": 9,
-          "efficiency": 0.0075
+        "ranged": {
+          "base_power": 10.2,
+          "effective_power": 10.2,
+          "set_bonus": 0,
+          "set_power": 10.2,
+          "efficiency": 0.53684
         }
       }
     },
@@ -1869,10 +1915,12 @@
     },
     "power_calc": {
       "ranged": {
-        "knife": {
-          "base_power": 14,
-          "effective_power": 14,
-          "efficiency": 0.0034
+        "ranged": {
+          "base_power": 13.8,
+          "effective_power": 13.8,
+          "set_bonus": 0,
+          "set_power": 13.8,
+          "efficiency": 0.24643
         }
       }
     },
@@ -1947,10 +1995,12 @@
     },
     "power_calc": {
       "ranged": {
-        "knife": {
-          "base_power": 18,
-          "effective_power": 18,
-          "efficiency": 0.0016
+        "ranged": {
+          "base_power": 17.4,
+          "effective_power": 17.4,
+          "set_bonus": 0,
+          "set_power": 17.4,
+          "efficiency": 0.10807
         }
       }
     },
@@ -2025,10 +2075,12 @@
     },
     "power_calc": {
       "ranged": {
-        "knife": {
-          "base_power": 35,
-          "effective_power": 35,
-          "efficiency": 0.00058
+        "ranged": {
+          "base_power": 28.2,
+          "effective_power": 28.2,
+          "set_bonus": 0,
+          "set_power": 28.2,
+          "efficiency": 0.03238
         }
       }
     },
@@ -2103,10 +2155,12 @@
     },
     "power_calc": {
       "ranged": {
-        "dart": {
-          "base_power": 28,
-          "effective_power": 28,
-          "efficiency": 0.0002
+        "ranged": {
+          "base_power": 21.0,
+          "effective_power": 21.0,
+          "set_bonus": 0,
+          "set_power": 21.0,
+          "efficiency": 0.01499
         }
       }
     },
@@ -2183,10 +2237,12 @@
     },
     "power_calc": {
       "ranged": {
-        "bolt": {
-          "base_power": 70,
-          "effective_power": 70,
-          "efficiency": 0.00055
+        "ranged": {
+          "base_power": 60.0,
+          "effective_power": 60.0,
+          "set_bonus": 0,
+          "set_power": 60.0,
+          "efficiency": 0.0005
         }
       }
     },
@@ -2261,10 +2317,12 @@
     },
     "power_calc": {
       "ranged": {
-        "bolt": {
-          "base_power": 90,
-          "effective_power": 99,
-          "efficiency": 7e-06
+        "ranged": {
+          "base_power": 78.0,
+          "effective_power": 78.0,
+          "set_bonus": 0,
+          "set_power": 78.0,
+          "efficiency": 1e-05
         }
       }
     },
@@ -2341,10 +2399,12 @@
     },
     "power_calc": {
       "ranged": {
-        "bolt": {
-          "base_power": 100,
-          "effective_power": 100,
-          "efficiency": 1e-06
+        "ranged": {
+          "base_power": 81.0,
+          "effective_power": 81.0,
+          "set_bonus": 0,
+          "set_power": 81.0,
+          "efficiency": 0.0
         }
       }
     },
@@ -2419,10 +2479,12 @@
     },
     "power_calc": {
       "ranged": {
-        "bolt": {
-          "base_power": 75,
-          "effective_power": 75,
-          "efficiency": 1.38e-05
+        "ranged": {
+          "base_power": 56.4,
+          "effective_power": 56.4,
+          "set_bonus": 0,
+          "set_power": 56.4,
+          "efficiency": 1e-05
         }
       }
     },
@@ -2499,10 +2561,12 @@
     },
     "power_calc": {
       "ranged": {
-        "javelin": {
-          "base_power": 130,
-          "effective_power": 130,
-          "efficiency": 1.85e-05
+        "ranged": {
+          "base_power": 90.0,
+          "effective_power": 90.0,
+          "set_bonus": 0,
+          "set_power": 90.0,
+          "efficiency": 1e-05
         }
       }
     },
@@ -2579,10 +2643,12 @@
     },
     "power_calc": {
       "ranged": {
-        "arrow": {
-          "base_power": 50,
-          "effective_power": 75,
-          "efficiency": 4.68e-05
+        "ranged": {
+          "base_power": 57.0,
+          "effective_power": 57.0,
+          "set_bonus": 0,
+          "set_power": 57.0,
+          "efficiency": 4e-05
         }
       }
     },
@@ -2659,9 +2725,11 @@
     },
     "power_calc": {
       "ranged": {
-        "javelin": {
-          "base_power": 145,
-          "effective_power": 145,
+        "ranged": {
+          "base_power": 99.0,
+          "effective_power": 99.0,
+          "set_bonus": 0,
+          "set_power": 99.0,
           "efficiency": 1e-05
         }
       }
@@ -2739,10 +2807,12 @@
     },
     "power_calc": {
       "ranged": {
-        "chinchompa": {
-          "base_power": 65,
-          "effective_power": 65,
-          "efficiency": 0.00115
+        "ranged": {
+          "base_power": 39.0,
+          "effective_power": 39.0,
+          "set_bonus": 0,
+          "set_power": 39.0,
+          "efficiency": 0.05193
         }
       }
     },
@@ -2819,10 +2889,12 @@
     },
     "power_calc": {
       "ranged": {
-        "chinchompa": {
-          "base_power": 85,
-          "effective_power": 85,
-          "efficiency": 0.00048
+        "ranged": {
+          "base_power": 51.0,
+          "effective_power": 51.0,
+          "set_bonus": 0,
+          "set_power": 51.0,
+          "efficiency": 0.02039
         }
       }
     },
@@ -2899,10 +2971,12 @@
     },
     "power_calc": {
       "ranged": {
-        "chinchompa": {
-          "base_power": 45,
-          "effective_power": 45,
-          "efficiency": 0.0066
+        "ranged": {
+          "base_power": 27.0,
+          "effective_power": 27.0,
+          "set_bonus": 0,
+          "set_power": 27.0,
+          "efficiency": 0.17881
         }
       }
     },
@@ -2979,10 +3053,12 @@
     },
     "power_calc": {
       "ranged": {
-        "bolt": {
-          "base_power": 50,
-          "effective_power": 50,
-          "efficiency": 0.01
+        "ranged": {
+          "base_power": 33.0,
+          "effective_power": 33.0,
+          "set_bonus": 0,
+          "set_power": 33.0,
+          "efficiency": 0.46479
         }
       }
     },
@@ -3059,10 +3135,12 @@
     },
     "power_calc": {
       "ranged": {
-        "bolt": {
-          "base_power": 40,
-          "effective_power": 40,
-          "efficiency": 0.666
+        "ranged": {
+          "base_power": 29.4,
+          "effective_power": 29.4,
+          "set_bonus": 0,
+          "set_power": 29.4,
+          "efficiency": 4.9
         }
       }
     },
